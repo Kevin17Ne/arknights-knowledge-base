@@ -1,0 +1,146 @@
+<!--若发现模组实装时间数据不正确，请检查[[干员模组一览/time]]。-->
+{{cbox2|lv=0|icon=chevron-right|text=干员模组系统在干员等级达到'''精英阶段2 等级1及以上'''后即可解锁。<br>仅四星稀有度及以上的干员拥有模组系统。}}
+{{cbox2|lv=0|icon=chevron-right|text=已实装模组的干员将拥有无特殊效果的【基础模组】和有特殊效果的【专属模组】。<br>本页面中仅收录【专属模组】。}}
+{{cbox2|lv=1|icon=info|text=如需了解'''各干员模组的上线日期'''，您可以点击界面中的{{mdi|view-grid}}按钮后，再点击{{mdi|clock-time-eight}}按钮查询。您也可以查阅[[干员模组一览/上线时间|干员模组上线时间]]页面。}}
+{{cbox2|lv=1|icon=info|text=如需了解'''各干员模组任务及其对应关卡'''，您可以点击界面中的{{mdi|view-list}}按钮后，再点击{{mdi|clipboard-check}}按钮查询。您也可以查阅[[干员模组一览/模组任务|模组任务]]页面。}}
+{{#widget:style|style=
+html.skin-theme-clientpref-night body.page-干员模组一览 #root .n-layout,
+html.skin-theme-clientpref-night body.page-干员模组一览 #root .n-card,
+html.skin-theme-clientpref-night body.page-干员模组一览 #root .n-card > .n-card__content,
+html.skin-theme-clientpref-night body.page-干员模组一览 #root .n-base-selection,
+html.skin-theme-clientpref-night body.page-干员模组一览 #root .n-base-selection-label,
+html.skin-theme-clientpref-night body.page-干员模组一览 #root .n-base-selection-tags,
+html.skin-theme-clientpref-night body.page-干员模组一览 #root .n-input,
+html.skin-theme-clientpref-night body.page-干员模组一览 #root .n-input-wrapper,
+html.skin-theme-clientpref-night body.page-干员模组一览 #root .n-data-table,
+html.skin-theme-clientpref-night body.page-干员模组一览 #root .n-data-table-base-table,
+html.skin-theme-clientpref-night body.page-干员模组一览 #root .n-data-table-base-table-body,
+html.skin-theme-clientpref-night body.page-干员模组一览 #root .n-data-table-table,
+html.skin-theme-clientpref-night body.page-干员模组一览 #root .n-scrollbar,
+html.skin-theme-clientpref-night body.page-干员模组一览 #root .n-scrollbar-container,
+html.skin-theme-clientpref-night body.page-干员模组一览 #root .n-scrollbar-content,
+html.skin-theme-clientpref-night body.page-干员模组一览 #root .n-data-table-table tbody,
+html.skin-theme-clientpref-night body.page-干员模组一览 #root .n-data-table-table tr,
+html.skin-theme-clientpref-night body.page-干员模组一览 #root .n-data-table-table td,
+html.skin-theme-clientpref-night body.page-干员模组一览 #root .n-data-table-td {
+  --n-color: #101418 !important;
+  --n-color-hover: #202122 !important;
+  --n-color-focus: #202122 !important;
+  --n-color-active: #202122 !important;
+  --n-td-color: #101418 !important;
+  --n-td-color-hover: #202122 !important;
+  --n-merged-td-color: #101418 !important;
+  --n-merged-border-color: #72777d !important;
+  background: #101418 !important;
+  background-color: #101418 !important;
+  color: #eaecf0 !important;
+  border-color: #72777d !important;
+}
+html.skin-theme-clientpref-night body.page-干员模组一览 #root .n-card > .n-card-header,
+html.skin-theme-clientpref-night body.page-干员模组一览 #root .n-data-table-table thead,
+html.skin-theme-clientpref-night body.page-干员模组一览 #root .n-data-table-table th,
+html.skin-theme-clientpref-night body.page-干员模组一览 #root .n-data-table-th {
+  --n-th-color: #202122 !important;
+  --n-th-color-hover: #202122 !important;
+  --n-merged-th-color: #202122 !important;
+  background: #202122 !important;
+  background-color: #202122 !important;
+  color: #eaecf0 !important;
+  border-color: #72777d !important;
+}
+html.skin-theme-clientpref-night body.page-干员模组一览 #root .n-button:not(.n-button--info-type),
+html.skin-theme-clientpref-night body.page-干员模组一览 #root .n-button:not(.n-button--info-type) .n-button__state-border {
+  --n-color: #202122 !important;
+  --n-color-hover: #202122 !important;
+  --n-color-pressed: #202122 !important;
+  --n-color-focus: #202122 !important;
+  --n-border: 1px solid #72777d !important;
+  --n-border-hover: 1px solid #72777d !important;
+  --n-border-pressed: 1px solid #72777d !important;
+  --n-border-focus: 1px solid #72777d !important;
+  --n-text-color: #eaecf0 !important;
+  --n-text-color-hover: #eaecf0 !important;
+  --n-text-color-pressed: #eaecf0 !important;
+  --n-text-color-focus: #eaecf0 !important;
+  background-color: #202122 !important;
+  color: #eaecf0 !important;
+  border-color: #72777d !important;
+}
+html.skin-theme-clientpref-night body.page-干员模组一览 #root .n-base-selection-placeholder,
+html.skin-theme-clientpref-night body.page-干员模组一览 #root .n-input__placeholder,
+html.skin-theme-clientpref-night body.page-干员模组一览 #root .n-card-header__main {
+  color: #a2a9b1 !important;
+}
+@media (prefers-color-scheme: dark) {
+  html.skin-theme-clientpref-os body.page-干员模组一览 #root .n-layout,
+  html.skin-theme-clientpref-os body.page-干员模组一览 #root .n-card,
+  html.skin-theme-clientpref-os body.page-干员模组一览 #root .n-card > .n-card__content,
+  html.skin-theme-clientpref-os body.page-干员模组一览 #root .n-base-selection,
+  html.skin-theme-clientpref-os body.page-干员模组一览 #root .n-base-selection-label,
+  html.skin-theme-clientpref-os body.page-干员模组一览 #root .n-base-selection-tags,
+  html.skin-theme-clientpref-os body.page-干员模组一览 #root .n-input,
+  html.skin-theme-clientpref-os body.page-干员模组一览 #root .n-input-wrapper,
+  html.skin-theme-clientpref-os body.page-干员模组一览 #root .n-data-table,
+  html.skin-theme-clientpref-os body.page-干员模组一览 #root .n-data-table-base-table,
+  html.skin-theme-clientpref-os body.page-干员模组一览 #root .n-data-table-base-table-body,
+  html.skin-theme-clientpref-os body.page-干员模组一览 #root .n-data-table-table,
+  html.skin-theme-clientpref-os body.page-干员模组一览 #root .n-scrollbar,
+  html.skin-theme-clientpref-os body.page-干员模组一览 #root .n-scrollbar-container,
+  html.skin-theme-clientpref-os body.page-干员模组一览 #root .n-scrollbar-content,
+  html.skin-theme-clientpref-os body.page-干员模组一览 #root .n-data-table-table tbody,
+  html.skin-theme-clientpref-os body.page-干员模组一览 #root .n-data-table-table tr,
+  html.skin-theme-clientpref-os body.page-干员模组一览 #root .n-data-table-table td,
+  html.skin-theme-clientpref-os body.page-干员模组一览 #root .n-data-table-td {
+    --n-color: #101418 !important;
+    --n-color-hover: #202122 !important;
+    --n-color-focus: #202122 !important;
+    --n-color-active: #202122 !important;
+    --n-td-color: #101418 !important;
+    --n-td-color-hover: #202122 !important;
+    --n-merged-td-color: #101418 !important;
+    --n-merged-border-color: #72777d !important;
+    background: #101418 !important;
+    background-color: #101418 !important;
+    color: #eaecf0 !important;
+    border-color: #72777d !important;
+  }
+  html.skin-theme-clientpref-os body.page-干员模组一览 #root .n-card > .n-card-header,
+  html.skin-theme-clientpref-os body.page-干员模组一览 #root .n-data-table-table thead,
+  html.skin-theme-clientpref-os body.page-干员模组一览 #root .n-data-table-table th,
+  html.skin-theme-clientpref-os body.page-干员模组一览 #root .n-data-table-th {
+    --n-th-color: #202122 !important;
+    --n-th-color-hover: #202122 !important;
+    --n-merged-th-color: #202122 !important;
+    background: #202122 !important;
+    background-color: #202122 !important;
+    color: #eaecf0 !important;
+    border-color: #72777d !important;
+  }
+  html.skin-theme-clientpref-os body.page-干员模组一览 #root .n-button:not(.n-button--info-type),
+  html.skin-theme-clientpref-os body.page-干员模组一览 #root .n-button:not(.n-button--info-type) .n-button__state-border {
+    --n-color: #202122 !important;
+    --n-color-hover: #202122 !important;
+    --n-color-pressed: #202122 !important;
+    --n-color-focus: #202122 !important;
+    --n-border: 1px solid #72777d !important;
+    --n-border-hover: 1px solid #72777d !important;
+    --n-border-pressed: 1px solid #72777d !important;
+    --n-border-focus: 1px solid #72777d !important;
+    --n-text-color: #eaecf0 !important;
+    --n-text-color-hover: #eaecf0 !important;
+    --n-text-color-pressed: #eaecf0 !important;
+    --n-text-color-focus: #eaecf0 !important;
+    background-color: #202122 !important;
+    color: #eaecf0 !important;
+    border-color: #72777d !important;
+  }
+  html.skin-theme-clientpref-os body.page-干员模组一览 #root .n-base-selection-placeholder,
+  html.skin-theme-clientpref-os body.page-干员模组一览 #root .n-input__placeholder,
+  html.skin-theme-clientpref-os body.page-干员模组一览 #root .n-card-header__main {
+    color: #a2a9b1 !important;
+  }
+}
+}}
+{{#Widget:EquipList}}
+
+[[分类:汇总]]

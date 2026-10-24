@@ -1,0 +1,31 @@
+{{Navigator|道具一览}}
+==基础信息==
+{{道具信息
+|名称=模组数据块
+|itemId=mod_unlock_token
+|iconId=mod_unlock_token
+|描述=数据块中记录了工程部干员们为制作模组而奋斗的每个日夜。
+|用途=用以解锁干员的模组。
+|获得方式=教学奖励、采购中心、任务奖励、活动获得
+|稀有度=4
+|id=90001
+|分类=材料
+}}
+※解锁模组系统后进入模组系统教学，教学完成后赠送4个模组数据块。<br>解锁模组后进入模组升级教学，教学完成后赠送4个模组数据块，并解锁保全派驻模式。<br>在保全派驻模式中完成全部保全演练后赠送4个模组数据块。
+
+==采购中心==
+{| class="wikitable" style="display:table;"
+|-
+! colspan=2|采购凭证
+| rowspan=2|
+! colspan=2|高级凭证
+|-
+| {{道具图标|模组数据块|1|50px}}
+| {{道具图标|采购凭证|120|50px}}
+| {{道具图标|模组数据块|1|50px}}
+| {{道具图标|高级凭证|20|50px}}
+|}
+
+==干员需求==
+<templatestyles src="ItemDemand/styles.css" /><div class="item-demand-widget">{{#widget:ItemDemand|item=模组数据块}}</div>
+{{道具导航}}

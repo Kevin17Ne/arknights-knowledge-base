@@ -1,0 +1,55 @@
+{{副标题|HOLOGRAPHIC COMBAT MATRIX}}
+<center>[[文件:全息作战矩阵 头图.png|760px]]</center>
+{{Cbox2|mdi=true|icon=lock-open-variant|title=解锁条件：通关主线关卡[[H5-1]]或[[H9-1]]或[[H15-1]]}}
+==简述==
+以[[危机合约]]为蓝本，可露希尔对本舰残留的作战记录的修复和重构，制成了全新的“全息作战”试炼矩阵。
+
+其中的每一批关卡都来源于以前博士所经历过的令人印象深刻的作战，而矩阵在原有的基础上进行的重构又带来了全新的挑战。
+
+该模式常驻开放并不定期追加批次。
+* 通过终端 - 周期挑战以访问。
+* 本模式不消耗理智。
+==矩阵一览==
+{{#lsth:关卡一览|全息作战矩阵}}
+==关于矩阵==
+与[[危机合约]]（尤其是[[危机合约/存档：经典赛季|经典赛季]]）类似，玩家需要选择指标作为作战附加条件参与当次作战。
+
+在全息作战矩阵中，指标分为两大不同类型：
+* '''基础指标'''
+: 该类指标会划分为不同的指标分组，但玩家'''必须从每个分组中选择1个指标'''作为基底附加条件。
+: 如果玩家尝试取消选择使得某个分组没有指标被选中，'''该操作将被阻止'''。
+: 基础指标'''不会提供评分'''。
+:* 这其中的'''唯一锁定指标'''（标记分组为{{mdi|pin}} FXD的指标）将会带来极其剧烈的变化，务必在行动开始前仔细确认其内容！
+* '''附加指标'''
+: 可以自由选择的指标（其中也会有冲突指标）。
+: '''仅有附加指标可以提供评分。'''
+指标列表中带有 {{mdi|checkbox-marked|color=#222222}} 标志的指标表示该指标曾被携带并完成过当次行动。
+
+以选择的附加条件完成行动，即可获得评分评价。<br>
+关卡评分达到8分时可获得蚀刻章；达到15分时蚀刻章将会{{color|#888ec1|'''镀层'''}}。
+
+全息作战矩阵会不定期更新新的重构批次，所有批次均为常驻，玩家可随时切换批次查阅。<br>
+当前批次已取得一定数量的蚀刻章及{{color|#888ec1|'''镀层'''}}蚀刻章时，将会获得特别家具、首页背景及批次纪念蚀刻章作为批次大奖。
+
+==活动关联蚀刻章==
+{{#widget:MedalShowcase}}{{#widget:AKCollapse}}{{#widget:style|style=.AKCollapse-content { width: calc(100% - ( ( var(--content-border) ) * 2) ); padding: 0;} }}
+{{AKCollapse|showall=true|css=max-width:750px;}}
+{{AKCollapse/title|重构批次 #2|}}
+<div class="AKCollapse-content">
+{{蚀刻章展示|medal=medal_activity_2recalrune_01;medal_activity_2recalrune_02;medal_activity_2recalrune_03;medal_activity_2recalrune_04;medal_activity_2recalrune_05}}
+</div>
+{{AKCollapse/title|重构批次 #1|}}
+<div class="AKCollapse-content">
+{{蚀刻章展示|medal=medal_activity_1recalrune_01;medal_activity_1recalrune_02;medal_activity_1recalrune_03;medal_activity_1recalrune_04;medal_activity_1recalrune_05}}
+</div>
+</div>
+<!--刷新时限时追加于头图，挂7天-->
+{{#set:
+|名称=全息作战矩阵 #2批次追加
+|名称缩短=全息作战矩阵 #2追加
+|活动开始时间={{#time:c|2026-07-10 12:00 -8 hours}}
+|活动结束时间={{#time:c|2026-07-18 03:59 -8 hours}}
+|兑换结束时间={{#time:c|2026-07-18 03:59 -8 hours}}
+|标题图文件名=全息作战矩阵 头图.png
+}}
+[[分类:有活动信息的页面]]

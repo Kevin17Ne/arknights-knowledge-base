@@ -1,0 +1,10 @@
+*.tar.gz
+*.zip
+node_modules/
+.DS_Store
+*.log
+.env
+cargo.html
+c6.json
+items.json
+penguin_test.json

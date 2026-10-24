@@ -1,0 +1,350 @@
+{{活动信息
+|类型=视相博物馆
+|直链官网=是
+|名称=视相博物馆
+|名称缩短=视相博物馆
+|副标题=POLY VISION MUSEUM
+|活动开始时间=2024-12-29 16:00
+|活动结束时间=2025-01-12 03:59
+|兑换结束时间=2025-01-15 03:59
+|标题图文件名=活动预告 视相博物馆 01.jpg
+|官网链接=2857
+|公告=视相博物馆/活动公告
+}}
+{{Cquote|<poem>'''可露希尔倾情巨献！'''
+著名游戏大师赞不绝口，评价为“好玩程度难以置信”！
+收录多款经典游戏，保留原汁原味的同时提升了画质。
+想不想登上排行榜？
+想不想成为罗德岛的成就之星？
+'''视相博物馆，即将开放！'''</poem>}}
+{{Cbox2|mdi=true|icon=lock-open-variant|title=解锁条件：通关[[1-10|主线关卡1-10]]}}
+==<div style="line-height: 1;display: inline-block;">开始游戏 <div style="font-size:0.5em;">GAME START</div></div>==
+{{#widget:style|style=.point {position:absolute;color:#ff6399;float:right;font-size:x-small;top:50%;right:0.1em;transform:translateY(-50%);font-weight: bold;} }}
+{{登场敌人
+|活动名称=视相博物馆
+|标题样式=color: #cfdaf5;background: linear-gradient(90deg, #98a6cb 15%, #0000 15%), linear-gradient(270deg, #5577d8 15%, #0000 15%), linear-gradient(90deg, #0c1115 75%, #0000 45%), linear-gradient(360deg, #ad1b59 45%, #0000 45%), #0c1115;position:relative;
+|环境信息=/// !!! 特殊角色出现中 !!! ///<br>来和它们打个招呼吧！{{mdi|emoticon-wink-outline}}{{mdi|chevron-double-right}}{{mdi|chevron-double-right}}{{mdi|chevron-double-right}}
+|宽度=80
+|数量=9
+}}
+<tabber>
+超级钩爪=
+{| class="wikitable" style="display: table;white-space:normal;width:100%;max-width:500px;table-layout:fixed;"
+|colspan=3 style="background:repeating-linear-gradient(#ffffff1c 0 1px,#fff0 1px 3px),linear-gradient(135deg, #0000 80%, #4466b4 80%,#6381bd), linear-gradient(0deg, #690d36,#000);text-align:center;"|[[文件:视相博物馆 封面 超级钩爪.png|300px]]
+|-
+|colspan=3 style="background:#739af1;color:#000;"|'''超级钩爪 SUPER HOOK'''
+|-style="background:#2f2f2f;color: white;font-size: xx-small;"
+|colspan=3|PRODUCED & PUBLISHED BY CLOSURE[[视相博物馆/游戏说明#超级钩爪_SUPER_HOOK|<div style="float:right;padding-right:0.5em;border:1px solid #739af1;color:#fff;"><div style="display:inline-block;background:#739af1;color:#000;width:2em;text-align:center;">{{mdi|book-open-page-variant}}</div> MANUAL 游戏说明</div>]]<div style="padding-inline: 0.5em;border: 1px solid #000000;color: #000000;background: #878787;font-weight: bold;width: fit-content;">RATING R</div>
+|-style="text-align:center;"
+|{{关卡链接|PM-1}}
+|{{关卡链接|PM-2}}
+|{{关卡链接|PM-3}}
+|}
+|-|
+喷泉大战=
+{| class="wikitable" style="display: table;white-space:normal;width:100%;max-width:500px;table-layout:fixed;"
+|colspan=3 style="background:repeating-linear-gradient(#ffffff1c 0 1px,#fff0 1px 3px),linear-gradient(135deg, #0000 80%, #b51418 80%,#c94447), linear-gradient(0deg, #185f3c,#000);text-align:center;"|[[文件:视相博物馆 封面 喷泉大战.png|300px]]
+|-
+|colspan=3 style="background:#d74d49;color:#000;"|'''喷泉大战 FOUNTAIN WAR'''
+|-style="background:#2f2f2f;color: white;font-size: xx-small;"
+|colspan=3|PRODUCED & PUBLISHED BY CLOSURE[[视相博物馆/游戏说明#喷泉大战_FOUNTAIN_WAR|<div style="float:right;padding-right:0.5em;border:1px solid #d74d49;color:#fff;"><div style="display:inline-block;background:#d74d49;color:#000;width:2em;text-align:center;">{{mdi|book-open-page-variant}}</div> MANUAL 游戏说明</div>]]<div style="padding-inline: 0.5em;border: 1px solid #000000;color: #000000;background: #878787;font-weight: bold;width: fit-content;">RATING E</div>
+|-style="text-align:center;"
+|{{关卡链接|PM-4}}
+|{{关卡链接|PM-5}}
+|{{关卡链接|PM-6}}
+|}
+|-|
+心连心=
+{| class="wikitable" style="display: table;white-space:normal;width:100%;max-width:500px;table-layout:fixed;"
+|colspan=3 style="background:repeating-linear-gradient(#ffffff1c 0 1px,#fff0 1px 3px),linear-gradient(135deg, #0000 80%, #efcb2e 80%,#d5bd55), linear-gradient(0deg, #1f2c67,#000);text-align:center;"|[[文件:视相博物馆 封面 心连心.png|300px]]
+|-
+|colspan=3 style="background:#efcb2e;color:#000;"|'''心连心 HEART TO HEART'''
+|-style="background:#2f2f2f;color: white;font-size: xx-small;"
+|colspan=3|PRODUCED & PUBLISHED BY CLOSURE[[视相博物馆/游戏说明#心连心_HEART_TO_HEART|<div style="float:right;padding-right:0.5em;border:1px solid #efcb2e;color:#fff;"><div style="display:inline-block;background:#efcb2e;color:#000;width:2em;text-align:center;">{{mdi|book-open-page-variant}}</div> MANUAL 游戏说明</div>]]<div style="padding-inline: 0.5em;border: 1px solid #000000;color: #000000;background: #878787;font-weight: bold;width: fit-content;">RATING T</div>
+|-style="text-align:center;"
+|{{关卡链接|PM-7}}
+|{{关卡链接|PM-8}}
+|{{关卡链接|PM-9}}
+|}
+|-|
+障碍飞车=
+{| class="wikitable" style="display: table;white-space:normal;width:100%;max-width:500px;table-layout:fixed;"
+|colspan=3 style="background:repeating-linear-gradient(#ffffff1c 0 1px,#fff0 1px 3px),linear-gradient(135deg, #0000 80%, #44bcbe 80%,#6bdbdd), linear-gradient(0deg, #636715,#000);text-align:center;"|[[文件:视相博物馆 封面 障碍飞车.png|300px]]
+|-
+|colspan=3 style="background:#44bcbe;color:#000;"|'''障碍飞车 HURDLE SPEEDER'''
+|-style="background:#2f2f2f;color: white;font-size: xx-small;"
+|colspan=3|PRODUCED & PUBLISHED BY CLOSURE[[视相博物馆/游戏说明#障碍飞车_HURDLE_SPEEDER|<div style="float:right;padding-right:0.5em;border:1px solid #44bcbe;color:#fff;"><div style="display:inline-block;background:#44bcbe;color:#000;width:2em;text-align:center;">{{mdi|book-open-page-variant}}</div> MANUAL 游戏说明</div>]]<div style="padding-inline: 0.5em;border: 1px solid #000000;color: #000000;background: #878787;font-weight: bold;width: fit-content;">RATING E</div>
+|-style="text-align:center;"
+|{{关卡链接|PM-10}}
+|{{关卡链接|PM-11}}
+|{{关卡链接|PM-12}}
+|}
+</tabber>
+{| class="wikitable" style="display: table;white-space:normal;width:100%;max-width:500px;text-align:center;background:#333333;color:#fff;margin: 0;"
+|-style="background:#2f2f2f;color: white;text-align:left;"
+|colspan=4|'''分数评级 RANK''' <small>{{color|#ff6399|{{mdi|sim}}+首次达成积点卡券报酬}}</small>
+|-
+|colspan=4 style="text-align:left;"|※全游戏统一标准
+|-
+|style="width:10%;"|{{mdi|trophy-variant}}
+|style="width:30%;"|'''01'''
+|style="width:30%;"|'''02'''
+|style="width:30%;"|'''03'''
+|-
+|<div style="background:#7a83a3;color:#404556;width:2.5em;text-align:center;margin:auto;">'''B'''</div>
+|0
+|0
+|0
+|-
+|<div style="background:#dc70d3;color:#71196b;width:2.5em;text-align:center;margin:auto;">'''A'''</div>
+|style="position:relative;"|20000<div class="point">{{mdi|sim}}+60</div>
+|style="position:relative;"|30000<div class="point">{{mdi|sim}}+90</div>
+|style="position:relative;"|40000<div class="point">{{mdi|sim}}+120</div>
+|-
+|<div style="background:#fc9448;color:#8e4104;width:2.5em;text-align:center;margin:auto;">'''S'''</div>
+|style="position:relative;"|50000<div class="point">{{mdi|sim}}+40</div>
+|style="position:relative;"|70000<div class="point">{{mdi|sim}}+60</div>
+|style="position:relative;"|90000<div class="point">{{mdi|sim}}+80</div>
+|-
+|<div style="background:#fd4564;color:#6d091a;width:2.5em;text-align:center;margin:auto;">'''SS'''</div>
+|80000
+|120000
+|150000
+|-
+|<div style="background:#e11a69;color:#520f31;width:2.5em;text-align:center;margin:auto;">'''SSS'''</div>
+|160000
+|240000
+|300000
+|}
+
+==<div style="line-height: 1;display: inline-block;">关于视相博物馆 <div style="font-size:0.5em;">ABOUT POLY VISION</div></div>==
+欢迎来到视相博物馆！
+
+由可露希尔匠心重制的四款经典游戏正式开放试玩！
+
+还等什么？快来一展身手，将你的名字留在博物馆的排行榜上，成为成就之星吧！
+
+===<div style="display: inline-block;">体验指引 <div style="font-size:0.5em;">ACCESS GUIDE</div></div>===
+# 本次视相博物馆开放期间将提供四种游戏试玩。<br>每种游戏包含3个关卡，'''在上一关卡以A评级通关可以解锁下一关卡。'''
+# 所有游戏均为'''分数挑战制'''。<br>在游戏中获得更高的分数以提升关卡评价。
+# 玩家可以编入'''最多11名'''操作角色（基于当前罗德岛记录的干员数据，含最多1名助战角色）开始游戏。
+# 玩家可以随时重试当前关卡，或是立即退出关卡（将以当前分数和评价结算）。
+# 开放期间将首先开放《超级钩爪》《喷泉大战》2款游戏，第7日（1/5）将开放剩余的《心连心》《障碍飞车》2款游戏。
+<div style="display:flex;background:linear-gradient(90deg, #5581f685 5em, #547ff84d 5em, #0000 9em),repeating-linear-gradient(#ffffff1c 0 1px,#fff0 1px 3px),linear-gradient(0deg, #000,#3f2831,#273243,#303969,#000);color:white;align-items:center;padding: 0 0.5em 0 0;border: 1px solid #547ff8;border-left-width: 5px;">
+<div style="text-align: center;margin-right: 1em;line-height: 1;">{{mdi|arrow-top-right-thick|size=5em}}</div>
+<div>
+<big>'''HOW TO PLAY {{mdi|arrow-right-top-bold|color=#ff7cb1}} MANUAL'''</big><br>如需了解各游戏的玩法及操作说明，您也可以查阅[[视相博物馆/游戏说明|{{color|#9ab6ff|视相博物馆/游戏说明}}]]页面。
+</div>
+</div>
+
+===<div style="display: inline-block;">秘籍卡册<div style="font-size:0.5em;"></div></div>===
+{{#widget:style|style=.badgeRank {background:#efffc0;color:#000;border-radius:2px;padding-inline:0.25em;font-weight:bold;} }}
+记录了玩家获取的所有荣誉珐琅和各游戏的最高分。
+* '''荣誉珐琅'''为纪念性物品，除了带有某些游戏辅助效果，还可以作为荣誉奖杯使用哦！
+** '''通用'''荣誉珐琅：通过完成其对应任务获得，可以提供对所有游戏的增益效果。
+** '''单项'''荣誉珐琅：通过完成其对应任务获得，可以记录某一游戏的最高分并仅对该游戏提供增益效果；<br>继续完成任务还能够升级效果和外观！
+** '''全局'''荣誉珐琅：真·荣誉摆件，根据四个游戏的合计最高分数升级外观。
+玩家可以随时分享秘籍卡册。
+
+'''关于最高分数的计算'''
+* '''单关最高分'''为各游戏的单个关卡的最高分，将会显示在该关卡的开始界面处。
+:* '''单关最高分'''的上限为9999999。
+* '''游戏最高分'''为该游戏3个关卡的单关最高分之和，将会显示在活动大厅及该游戏的单项荣誉珐琅处。
+* '''全局最高分'''为4个游戏的游戏最高分之和，将会显示在全局荣誉珐琅处。
+{| class="wikitable" style="display:table;white-space:normal;text-align:center;background:#1c1e24;color:#fff;width:100%;max-width:700px;"
+! colspan=2 style="background:#628cf7;color:#000;text-align:left;" | 全局荣誉珐琅：称霸罗德岛
+|-
+| style="background:#2b4a9a;width:15%;"|[[文件:视相博物馆 荣誉珐琅 称霸罗德岛-1.png|100px]]
+| style="text-align:left;"|[[文件:视相博物馆_荣誉珐琅_等级_1.png|20px|link=]] <span class="badgeRank">新手</span> 你已经在游戏中取得了初步的成就。<br>{{mdi|lock-open-variant}} 全局最高分达到600000分
+|-
+| style="background:#2b4a9a;"|[[文件:视相博物馆 荣誉珐琅 称霸罗德岛-2.png|100px]]
+| style="text-align:left;"|[[文件:视相博物馆_荣誉珐琅_等级_2.png|20px|link=]] <span class="badgeRank">进阶</span> 你的战绩让水月和绮良对你刮目相看。<br>{{mdi|lock-open-variant}} 全局最高分达到1200000分
+|-
+| style="background:#2b4a9a;"|[[文件:视相博物馆 荣誉珐琅 称霸罗德岛-3.png|100px]]
+| style="text-align:left;"|[[文件:视相博物馆_荣誉珐琅_等级_3.png|20px|link=]] <span class="badgeRank">大师</span> 可露希尔正在热身，她将作为开发者来与你一决高下！<br>{{mdi|lock-open-variant}} 全局最高分达到2500000分
+|}
+{| class="wikitable mw-collapsible mw-collapsed" style="display:table;white-space:normal;text-align:center;background:#1c1e24;color:#fff;width:100%;max-width:700px;"
+! colspan=2 style="background:#0c0c0d;color:#cde2ff;text-align:left;" | 单项荣誉珐琅 - 提供各游戏的专属增益
+|-
+|style="padding:0"|
+{| class="wikitable mw-collapsible mw-collapsed" style="display:table;white-space:normal;text-align:center;background:#1c1e24;color:#fff;width:100%;margin:0;"
+! colspan=2 style="background:#0c0c0d;color:#6689ff;text-align:left;" | 重力的奥秘【《超级钩爪》专用】
+|-
+| style="background:#2d3039;width:15%;"|[[文件:视相博物馆 荣誉珐琅 重力的奥秘-1.png|100px]]
+| style="text-align:left;"|[[文件:视相博物馆_荣誉珐琅_等级_1.png|20px|link=]] <span class="badgeRank">专项增益·Ⅰ</span> 【钩爪】的技力需求降低{{变动数值lite||蓝|(-2)}}<br>{{mdi|lock-open-variant}} 【超级钩爪】第一关达到A得分评级
+|-
+| style="background:#2d3039;"|[[文件:视相博物馆 荣誉珐琅 重力的奥秘-2.png|100px]]
+| style="text-align:left;"|[[文件:视相博物馆_荣誉珐琅_等级_2.png|20px|link=]] <span class="badgeRank">专项增益·Ⅱ</span> 出现带有星标的敌人，该敌人的关卡得分大幅增加{{变动数值lite||蓝|(×5)}}<br>※每2秒检测一次场上是否存在被标记的敌人，若不存在则立刻给与随机一名敌人标记<br>※无法带上标记的敌人：处于{{异常效果|失衡免疫|color=#0098DC}}的敌人、[[果冻丁|{{color|#0098DC|果冻丁}}]]、[[果冻小子|{{color|#0098DC|果冻小子}}]]、[[“十字路口”量产型|{{color|#0098DC|“十字路口”量产型}}]]、[[大富翁|{{color|#0098DC|大富翁}}]]和[[宝藏神偷|{{color|#0098DC|宝藏神偷}}]]<br>{{mdi|lock-open-variant}} 【超级钩爪】所有关卡达到A得分评级
+|-
+| style="background:#2d3039;"|[[文件:视相博物馆 荣誉珐琅 重力的奥秘-3.png|100px]]
+| style="text-align:left;"|[[文件:视相博物馆_荣誉珐琅_等级_3.png|20px|link=]] <span class="badgeRank">专项增益·Ⅲ</span> 敌人被阻挡时获得{{术语|ba.weightless|失重}}<br>{{mdi|lock-open-variant}} 【超级钩爪】所有关卡达到SS得分评级
+|}
+|-
+|style="padding:0"|
+{| class="wikitable mw-collapsible mw-collapsed" style="display:table;white-space:normal;text-align:center;background:#1c1e24;color:#fff;width:100%;margin:0;"
+! colspan=2 style="background:#0c0c0d;color:#6689ff;text-align:left;" | 蒸汽的奥秘【《喷泉大战》专用】
+|-
+| style="background:#2d3039;width:15%;"|[[文件:视相博物馆 荣誉珐琅 蒸汽的奥秘-1.png|100px]]
+| style="text-align:left;"|[[文件:视相博物馆_荣誉珐琅_等级_1.png|20px|link=]] <span class="badgeRank">专项增益·Ⅰ</span> 初始获得一瓶【口渴乐乐】<br>{{mdi|lock-open-variant}} 【喷泉大战】第一关达到A得分评级
+|-
+| style="background:#2d3039;"|[[文件:视相博物馆 荣誉珐琅 蒸汽的奥秘-2.png|100px]]
+| style="text-align:left;"|[[文件:视相博物馆_荣誉珐琅_等级_2.png|20px|link=]] <span class="badgeRank">专项增益·Ⅱ</span> 干员部署时在当前地块产生一个纯白水汽<br>{{mdi|lock-open-variant}} 【喷泉大战】所有关卡达到A得分评级
+|-
+| style="background:#2d3039;"|[[文件:视相博物馆 荣誉珐琅 蒸汽的奥秘-3.png|100px]]
+| style="text-align:left;"|[[文件:视相博物馆_荣誉珐琅_等级_3.png|20px|link=]] <span class="badgeRank">专项增益·Ⅲ</span> 位于纯白水汽上的我方干员再部署时间减少{{变动数值lite||蓝|(-30%)}}<br>{{mdi|lock-open-variant}} 【喷泉大战】所有关卡达到SS得分评级
+|}
+|-
+|style="padding:0"|
+{| class="wikitable mw-collapsible mw-collapsed" style="display:table;white-space:normal;text-align:center;background:#1c1e24;color:#fff;width:100%;margin:0;"
+! colspan=2 style="background:#0c0c0d;color:#6689ff;text-align:left;" | 锁链的奥秘【《心连心》专用】
+|-
+| style="background:#2d3039;width:15%;"|[[文件:视相博物馆 荣誉珐琅 锁链的奥秘-1.png|100px]]
+| style="text-align:left;"|[[文件:视相博物馆_荣誉珐琅_等级_1.png|20px|link=]] <span class="badgeRank">专项增益·Ⅰ</span> 初始获得一个【大力拳套】<br>{{mdi|lock-open-variant}} 【心连心】第一关达到A得分评级
+|-
+| style="background:#2d3039;"|[[文件:视相博物馆 荣誉珐琅 锁链的奥秘-2.png|100px]]
+| style="text-align:left;"|[[文件:视相博物馆_荣誉珐琅_等级_2.png|20px|link=]] <span class="badgeRank">专项增益·Ⅱ</span> 稳固锁链的连接范围扩大{{popup|内容=扩大后范围：<br>{{攻击范围|x-3|100px|100px}}}}<br>{{mdi|lock-open-variant}} 【心连心】所有关卡达到A得分评级
+|-
+| style="background:#2d3039;"|[[文件:视相博物馆 荣誉珐琅 锁链的奥秘-3.png|100px]]
+| style="text-align:left;"|[[文件:视相博物馆_荣誉珐琅_等级_3.png|20px|link=]] <span class="badgeRank">专项增益·Ⅲ</span> 干员在锁链中时技力自然回复速度提升（{{变动数值lite||蓝|+0.5/秒，}}同类效果取最高）<br>{{mdi|lock-open-variant}} 【心连心】所有关卡达到SS得分评级
+|}
+|-
+|style="padding:0"|
+{| class="wikitable mw-collapsible mw-collapsed" style="display:table;white-space:normal;text-align:center;background:#1c1e24;color:#fff;width:100%;margin:0;"
+! colspan=2 style="background:#0c0c0d;color:#6689ff;text-align:left;" | 飞车的奥秘【《障碍飞车》专用】
+|-
+| style="background:#2d3039;width:15%;"|[[文件:视相博物馆 荣誉珐琅 飞车的奥秘-1.png|100px]]
+| style="text-align:left;"|[[文件:视相博物馆_荣誉珐琅_等级_1.png|20px|link=]] <span class="badgeRank">专项增益·Ⅰ</span> 初始获得一个【自走车转向器】<br>{{mdi|lock-open-variant}} 【障碍飞车】第一关达到A得分评级
+|-
+| style="background:#2d3039;"|[[文件:视相博物馆 荣誉珐琅 飞车的奥秘-2.png|100px]]
+| style="text-align:left;"|[[文件:视相博物馆_荣誉珐琅_等级_2.png|20px|link=]] <span class="badgeRank">专项增益·Ⅱ</span> 场上出现额外的【两栖码头】<br>{{mdi|lock-open-variant}} 【障碍飞车】所有关卡达到A得分评级
+|-
+| style="background:#2d3039;"|[[文件:视相博物馆 荣誉珐琅 飞车的奥秘-3.png|100px]]
+| style="text-align:left;"|[[文件:视相博物馆_荣誉珐琅_等级_3.png|20px|link=]] <span class="badgeRank">专项增益·Ⅲ</span> 【搁浅零件】出现的更加频繁{{变动数值lite||蓝|(-20秒)}}<br>※关卡倒计时开始后/前一【搁浅零件】退场后{{变动数值lite|down|蓝|40秒}}投放新的【搁浅零件】<br>{{mdi|lock-open-variant}} 【障碍飞车】所有关卡达到SS得分评级
+|}
+|}
+{| class="wikitable mw-collapsible mw-collapsed" style="display:table;white-space:normal;text-align:center;background:#1c1e24;color:#fff;width:100%;max-width:700px;"
+! colspan=2 style="background:#0c0c0d;color:#cde2ff;text-align:left;" | 通用荣誉珐琅 - 提供在所有游戏中的通用增益
+|-
+| style="background:#2d3039;width:15%;"|[[文件:视相博物馆 荣誉珐琅 扭蛋的诀窍.png|x70px]]
+| style="text-align:left;"|<span class="badgeRank">扭蛋的诀窍</span> 【扭蛋机】初始获得一次充能<br>{{mdi|lock-open-variant}} 累计使用扭蛋机释放技能60次
+|-
+| style="background:#2d3039;"|[[文件:视相博物馆 荣誉珐琅 新手的诀窍.png|x70px]]
+| style="text-align:left;"|<span class="badgeRank">新手的诀窍</span> 初始部署位增加{{变动数值lite||蓝|(+1)}}<br>{{mdi|lock-open-variant}} 战斗中累计击败大富翁或宝藏神偷3次
+|-
+| style="background:#2d3039;"|[[文件:视相博物馆 荣誉珐琅 修改的诀窍.png|x70px]]
+| style="text-align:left;"|<span class="badgeRank">修改的诀窍</span> 支援道具的部署费用降低{{变动数值lite||蓝|(-5)}}<br>{{mdi|lock-open-variant}} 战斗中累计部署超时空电话亭、菜单电话机20次
+|}
+
+==<div style="line-height: 1;display: inline-block;">博物馆兑换台<div style="font-size:0.5em;"></div></div>==
+获得[[文件:道具 带框 积点卡券.png|40px|link=积点卡券]][[积点卡券]]提升博物馆兑换台等级以逐步获得奖励。
+
+各游戏的各关卡首次获得A及S评级时可获得积点卡券。
+
+※每个奖励左侧的大号数字为等级，下方的数字为 累积经验'''(+升至此级所需经验)'''
+{{活动里程碑2/style|bg=repeating-linear-gradient(0deg, #00000017 0px 1px, #0000 1px 2px), radial-gradient(circle at 100% 0%, #bec7da 30%, #d3ddef 30%)|color=#616871|css=border-radius:0}}
+<ul class="tl-eventpoint-ul">
+{{活动里程碑2|exp=30|1|龙门币|10000|{{道具图标|龙门币||48px}}}}
+{{活动里程碑2|exp=30|2|RMA70-12|3|{{道具图标|RMA70-12||48px}}|bg=repeating-linear-gradient(0deg, #00000017 0px 1px, #0000 1px 2px), radial-gradient(circle at 100% 0%, #77caeb 30%, #0000 30%), linear-gradient(90deg, #d3ddef 65%, #b4bccd 65% 70%, #d3ddef 70%);}}
+{{活动里程碑2|exp=30|3|高级作战记录|5|{{道具图标|高级作战记录||48px}}}}
+{{活动里程碑2|exp=30|4|固源岩组|3|{{道具图标|固源岩组||48px}}|bg=repeating-linear-gradient(0deg, #00000017 0px 1px, #0000 1px 2px), radial-gradient(circle at 100% 0%, #77caeb 30%, #0000 30%), linear-gradient(90deg, #d3ddef 65%, #b4bccd 65% 70%, #d3ddef 70%);}}
+{{活动里程碑2|exp=30|5|技巧概要·卷2|10|{{道具图标|技巧概要·卷2||48px}}}}
+<!---->
+{{活动里程碑2|exp=35|6|改量装置|2|{{道具图标|改量装置||48px}}|bg=repeating-linear-gradient(0deg, #00000017 0px 1px, #0000 1px 2px), radial-gradient(circle at 100% 0%, #cda8f1 30%, #0000 30%), linear-gradient(90deg, #d3ddef 65%, #b4bccd 65% 70%, #d3ddef 70%);}}
+{{活动里程碑2|exp=35|7|龙门币|10000|{{道具图标|龙门币||48px}}}}
+{{活动里程碑2|exp=35|8|化合切削液|3|{{道具图标|化合切削液||48px}}|bg=repeating-linear-gradient(0deg, #00000017 0px 1px, #0000 1px 2px), radial-gradient(circle at 100% 0%, #77caeb 30%, #0000 30%), linear-gradient(90deg, #d3ddef 65%, #b4bccd 65% 70%, #d3ddef 70%);}}
+{{活动里程碑2|exp=35|9|中级作战记录|10|{{道具图标|中级作战记录||48px}}}}
+{{活动里程碑2|exp=35|10|聚合剂|1|{{道具图标|聚合剂||48px}}|bg=repeating-linear-gradient(0deg, #00000017 0px 1px, #0000 1px 2px), radial-gradient(circle at 100% 0%, #f5d874 30%, #0000 30%), linear-gradient(90deg, #d3ddef 65%, #b4bccd 65% 70%, #d3ddef 70%);}}
+<!---->
+{{活动里程碑2|exp=35|11|技巧概要·卷3|5|{{道具图标|技巧概要·卷3||48px}}}}
+{{活动里程碑2|exp=35|12|RMA70-12|3|{{道具图标|RMA70-12||48px}}|bg=repeating-linear-gradient(0deg, #00000017 0px 1px, #0000 1px 2px), radial-gradient(circle at 100% 0%, #77caeb 30%, #0000 30%), linear-gradient(90deg, #d3ddef 65%, #b4bccd 65% 70%, #d3ddef 70%);}}
+{{活动里程碑2|exp=35|13|家具零件|200|{{道具图标|家具零件||48px}}}}
+{{活动里程碑2|exp=35|14|固源岩组|3|{{道具图标|固源岩组||48px}}|bg=repeating-linear-gradient(0deg, #00000017 0px 1px, #0000 1px 2px), radial-gradient(circle at 100% 0%, #77caeb 30%, #0000 30%), linear-gradient(90deg, #d3ddef 65%, #b4bccd 65% 70%, #d3ddef 70%);}}
+{{活动里程碑2|exp=35|15|龙门币|10000|{{道具图标|龙门币||48px}}}}
+<!---->
+{{活动里程碑2|exp=40|16|炽合金块|2|{{道具图标|炽合金块||48px}}|bg=repeating-linear-gradient(0deg, #00000017 0px 1px, #0000 1px 2px), radial-gradient(circle at 100% 0%, #cda8f1 30%, #0000 30%), linear-gradient(90deg, #d3ddef 65%, #b4bccd 65% 70%, #d3ddef 70%);}}
+{{活动里程碑2|exp=40|17|高级作战记录|5|{{道具图标|高级作战记录||48px}}}}
+{{活动里程碑2|exp=40|18|化合切削液|3|{{道具图标|化合切削液||48px}}|bg=repeating-linear-gradient(0deg, #00000017 0px 1px, #0000 1px 2px), radial-gradient(circle at 100% 0%, #77caeb 30%, #0000 30%), linear-gradient(90deg, #d3ddef 65%, #b4bccd 65% 70%, #d3ddef 70%);}}
+{{活动里程碑2|exp=40|19|技巧概要·卷2|10|{{道具图标|技巧概要·卷2||48px}}}}
+{{活动里程碑2|exp=40|20|视相|1|[[文件:界面主题 视相 道具.png|48px|link=界面主题一览#视相]]|bg=repeating-linear-gradient(0deg, #00000017 0px 1px, #0000 1px 2px), radial-gradient(circle at 100% 0%, #4864ae 30%, #5b80ea 30.5% 35.5%, #0000 36%), linear-gradient(90deg, #1f2228 60%, #345ca5 60% 65%, #1f2228 65%);|color=#dcecff}}
+<!---->
+{{活动里程碑2|exp=40|21|RMA70-12|3|{{道具图标|RMA70-12||48px}}|bg=repeating-linear-gradient(0deg, #00000017 0px 1px, #0000 1px 2px), radial-gradient(circle at 100% 0%, #77caeb 30%, #0000 30%), linear-gradient(90deg, #d3ddef 65%, #b4bccd 65% 70%, #d3ddef 70%);}}
+{{活动里程碑2|exp=40|22|龙门币|10000|{{道具图标|龙门币||48px}}}}
+{{活动里程碑2|exp=40|23|固源岩组|3|{{道具图标|固源岩组||48px}}|bg=repeating-linear-gradient(0deg, #00000017 0px 1px, #0000 1px 2px), radial-gradient(circle at 100% 0%, #77caeb 30%, #0000 30%), linear-gradient(90deg, #d3ddef 65%, #b4bccd 65% 70%, #d3ddef 70%);}}
+{{活动里程碑2|exp=40|24|中级作战记录|10|{{道具图标|中级作战记录||48px}}}}
+{{活动里程碑2|exp=40|25|聚合凝胶|2|{{道具图标|聚合凝胶||48px}}|bg=repeating-linear-gradient(0deg, #00000017 0px 1px, #0000 1px 2px), radial-gradient(circle at 100% 0%, #cda8f1 30%, #0000 30%), linear-gradient(90deg, #d3ddef 65%, #b4bccd 65% 70%, #d3ddef 70%);}}
+<!---->
+{{活动里程碑2|exp=45|26|技巧概要·卷3|5|{{道具图标|技巧概要·卷3||48px}}}}
+{{活动里程碑2|exp=40|27|化合切削液|3|{{道具图标|化合切削液||48px}}|bg=repeating-linear-gradient(0deg, #00000017 0px 1px, #0000 1px 2px), radial-gradient(circle at 100% 0%, #77caeb 30%, #0000 30%), linear-gradient(90deg, #d3ddef 65%, #b4bccd 65% 70%, #d3ddef 70%);}}
+{{活动里程碑2|exp=40|28|家具零件|200|{{道具图标|家具零件||48px}}}}
+{{活动里程碑2|exp=40|29|RMA70-12|3|{{道具图标|RMA70-12||48px}}|bg=repeating-linear-gradient(0deg, #00000017 0px 1px, #0000 1px 2px), radial-gradient(circle at 100% 0%, #77caeb 30%, #0000 30%), linear-gradient(90deg, #d3ddef 65%, #b4bccd 65% 70%, #d3ddef 70%);}}
+{{活动里程碑2|exp=40|30|聚合剂|1|{{道具图标|聚合剂||48px}}|bg=repeating-linear-gradient(0deg, #00000017 0px 1px, #0000 1px 2px), radial-gradient(circle at 100% 0%, #f5d874 30%, #0000 30%), linear-gradient(90deg, #d3ddef 65%, #b4bccd 65% 70%, #d3ddef 70%);}}
+<!---->
+{{活动里程碑2|exp=40|31|改量装置|2|{{道具图标|改量装置||48px}}|bg=repeating-linear-gradient(0deg, #00000017 0px 1px, #0000 1px 2px), radial-gradient(circle at 100% 0%, #cda8f1 30%, #0000 30%), linear-gradient(90deg, #d3ddef 65%, #b4bccd 65% 70%, #d3ddef 70%);}}
+{{活动里程碑2|exp=45|32|龙门币|10000|{{道具图标|龙门币||48px}}}}
+{{活动里程碑2|exp=45|33|固源岩组|3|{{道具图标|固源岩组||48px}}|bg=repeating-linear-gradient(0deg, #00000017 0px 1px, #0000 1px 2px), radial-gradient(circle at 100% 0%, #77caeb 30%, #0000 30%), linear-gradient(90deg, #d3ddef 65%, #b4bccd 65% 70%, #d3ddef 70%);}}
+{{活动里程碑2|exp=45|34|高级作战记录|5|{{道具图标|高级作战记录||48px}}}}
+{{活动里程碑2|exp=45|35|化合切削液|3|{{道具图标|化合切削液||48px}}|bg=repeating-linear-gradient(0deg, #00000017 0px 1px, #0000 1px 2px), radial-gradient(circle at 100% 0%, #77caeb 30%, #0000 30%), linear-gradient(90deg, #d3ddef 65%, #b4bccd 65% 70%, #d3ddef 70%);}}
+<!---->
+{{活动里程碑2|exp=45|36|技巧概要·卷2|10|{{道具图标|技巧概要·卷2||48px}}}}
+{{活动里程碑2|exp=45|37|炽合金块|2|{{道具图标|炽合金块||48px}}|bg=repeating-linear-gradient(0deg, #00000017 0px 1px, #0000 1px 2px), radial-gradient(circle at 100% 0%, #cda8f1 30%, #0000 30%), linear-gradient(90deg, #d3ddef 65%, #b4bccd 65% 70%, #d3ddef 70%);}}
+{{活动里程碑2|exp=45|38|龙门币|10000|{{道具图标|龙门币||48px}}}}
+{{活动里程碑2|exp=45|39|RMA70-12|3|{{道具图标|RMA70-12||48px}}|bg=repeating-linear-gradient(0deg, #00000017 0px 1px, #0000 1px 2px), radial-gradient(circle at 100% 0%, #77caeb 30%, #0000 30%), linear-gradient(90deg, #d3ddef 65%, #b4bccd 65% 70%, #d3ddef 70%);}}
+{{活动里程碑2|exp=45|40|“通关”|1|{{名片头像|activity_ARC1|48px|link=个人头像一览#通关}}|bg=repeating-linear-gradient(0deg, #00000017 0px 1px, #0000 1px 2px), radial-gradient(circle at 100% 0%, #4864ae 30%, #5b80ea 30.5% 35.5%, #0000 36%), linear-gradient(90deg, #1f2228 60%, #345ca5 60% 65%, #1f2228 65%);|color=#dcecff}}
+<!---->
+{{活动里程碑2|exp=50|41|固源岩组|3|{{道具图标|固源岩组||48px}}|bg=repeating-linear-gradient(0deg, #00000017 0px 1px, #0000 1px 2px), radial-gradient(circle at 100% 0%, #77caeb 30%, #0000 30%), linear-gradient(90deg, #d3ddef 65%, #b4bccd 65% 70%, #d3ddef 70%);}}
+{{活动里程碑2|exp=50|42|中级作战记录|10|{{道具图标|中级作战记录||48px}}}}
+{{活动里程碑2|exp=50|43|化合切削液|3|{{道具图标|化合切削液||48px}}|bg=repeating-linear-gradient(0deg, #00000017 0px 1px, #0000 1px 2px), radial-gradient(circle at 100% 0%, #77caeb 30%, #0000 30%), linear-gradient(90deg, #d3ddef 65%, #b4bccd 65% 70%, #d3ddef 70%);}}
+{{活动里程碑2|exp=50|44|技巧概要·卷3|5|{{道具图标|技巧概要·卷3||48px}}}}
+{{活动里程碑2|exp=50|45|聚合凝胶|2|{{道具图标|聚合凝胶||48px}}|bg=repeating-linear-gradient(0deg, #00000017 0px 1px, #0000 1px 2px), radial-gradient(circle at 100% 0%, #cda8f1 30%, #0000 30%), linear-gradient(90deg, #d3ddef 65%, #b4bccd 65% 70%, #d3ddef 70%);}}
+</ul>
+{| class="wikitable" style="text-align:center; display:table; white-space:normal; max-width:815px; width:100%;"
+! 报酬合计
+|-
+|{{名片头像|activity_ARC1|48px|link=个人头像一览#通关}}[[文件:界面主题 视相 道具.png|48px|link=界面主题一览#视相]]{{道具图标|龙门币|6万|48px}}{{道具图标|高级作战记录|15|48px}}{{道具图标|中级作战记录|30|48px}}{{道具图标|技巧概要·卷3|15|48px}}{{道具图标|技巧概要·卷2|30|48px}}<br>{{道具图标|聚合剂|2|48px}}{{道具图标|化合切削液|15|48px}}{{道具图标|炽合金块|4|48px}}{{道具图标|聚合凝胶|4|48px}}{{道具图标|RMA70-12|15|48px}}{{道具图标|固源岩组|15|48px}}{{道具图标|改量装置|4|48px}}{{道具图标|家具零件|400|48px}}
+|}
+
+==活动关联蚀刻章==
+{{#widget:MedalShowcase}}
+{{蚀刻章展示|medal=medal_activity_1arcade_01;medal_activity_1arcade_02}}
+
+==音乐鉴赏==
+{{#invoke:MusicTable|table|表格标题=[[文件:图标_视相博物馆.png|x64px|link=]]
+
+|标题1=sys_act1arcade (Intro)
+|样式1=
+|资源1=https://torappu.prts.wiki/assets/audio/music/act1arcade/m_sys_act1arcade_intro.mp3
+
+|标题2=sys_act1arcade (Loop)
+|样式2=
+|资源2=https://torappu.prts.wiki/assets/audio/music/act1arcade/m_sys_act1arcade_loop.mp3
+
+|标题3=bat1_act1arcade (Intro)
+|样式3=
+|资源3=https://torappu.prts.wiki/assets/audio/music/act1arcade/m_bat1_act1arcade_intro.mp3
+
+|标题4=bat1_act1arcade (Loop)
+|样式4=
+|资源4=https://torappu.prts.wiki/assets/audio/music/act1arcade/m_bat1_act1arcade_loop.mp3
+
+|标题5=bat2_act1arcade (Intro)
+|样式5=
+|资源5=https://torappu.prts.wiki/assets/audio/music/act1arcade/m_bat2_act1arcade_intro.mp3
+
+|标题6=bat2_act1arcade (Loop)
+|样式6=
+|资源6=https://torappu.prts.wiki/assets/audio/music/act1arcade/m_bat2_act1arcade_loop.mp3
+
+<!--临时修复2
+|标题1=
+|样式1=
+|资源1=https://static.prts.wiki/music/music/act1arcade/m_sys_act1arcade_combine.mp3
+
+|标题2=
+|样式2=
+|资源2=https://static.prts.wiki/music/music/act1arcade/m_bat1_act1arcade_combine.mp3
+
+|标题3=
+|样式3=
+|资源3=https://static.prts.wiki/music/music/act1arcade/m_bat2_act1arcade_combine.mp3
+-->
+}}

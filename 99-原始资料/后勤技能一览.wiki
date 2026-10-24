@@ -1,0 +1,69 @@
+{{#widget:style|style=
+/* 后勤技能一览术语 tooltip 暗色适配 */
+@media screen {
+  html.skin-theme-clientpref-night body.page-后勤技能一览 [data-tippy6-root] .tippy6-box[data-theme~="light-border"],
+  html.skin-theme-clientpref-night body.page-后勤技能一览 [data-tippy6-root] .tippy6-box[data-theme~="light-border"] {
+    background: #202122 !important;
+    color: #eaecf0 !important;
+    border-color: #54595d !important;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.65) !important;
+  }
+
+  html.skin-theme-clientpref-night body.page-后勤技能一览 [data-tippy6-root] .tippy6-box[data-theme~="light-border"] .tippy6-content,
+  html.skin-theme-clientpref-night body.page-后勤技能一览 [data-tippy6-root] .tippy6-box[data-theme~="light-border"] .tippy6-content {
+    color: #eaecf0 !important;
+  }
+
+  html.skin-theme-clientpref-night body.page-后勤技能一览 [data-tippy6-root] .tippy6-box[data-theme~="light-border"] > .tippy6-arrow::before,
+  html.skin-theme-clientpref-night body.page-后勤技能一览 [data-tippy6-root] .tippy6-box[data-theme~="light-border"] > .tippy6-arrow::before {
+    color: #202122 !important;
+    border-color: #202122 !important;
+  }
+
+  html.skin-theme-clientpref-night body.page-后勤技能一览 [data-tippy6-root] .tippy6-box[data-theme~="light-border"] a,
+  html.skin-theme-clientpref-night body.page-后勤技能一览 [data-tippy6-root] .tippy6-box[data-theme~="light-border"] a {
+    color: #6cb6ff !important;
+  }
+
+  /* 后勤技能一览技能图标列暗色适配 */
+  html.skin-theme-clientpref-night body.page-后勤技能一览 .mw-parser-output .wikitable.logo td[style*="background-color:#999999"],
+  html.skin-theme-clientpref-night body.page-后勤技能一览 .mw-parser-output .wikitable.logo td[style*="background-color: #999999"],
+  html.skin-theme-clientpref-night body.page-后勤技能一览 .mw-parser-output .wikitable.logo td[style*="background-color:#999999"],
+  html.skin-theme-clientpref-night body.page-后勤技能一览 .mw-parser-output .wikitable.logo td[style*="background-color: #999999"] {
+    background-color: #2f3338 !important;
+    border-color: #54595d !important;
+  }
+
+}
+
+@media screen and (prefers-color-scheme: dark) {
+  html.skin-theme-clientpref-os body.page-后勤技能一览 [data-tippy6-root] .tippy6-box[data-theme~="light-border"] {
+    background: #202122 !important;
+    color: #eaecf0 !important;
+    border-color: #54595d !important;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.65) !important;
+  }
+
+  html.skin-theme-clientpref-os body.page-后勤技能一览 [data-tippy6-root] .tippy6-box[data-theme~="light-border"] .tippy6-content {
+    color: #eaecf0 !important;
+  }
+
+  html.skin-theme-clientpref-os body.page-后勤技能一览 [data-tippy6-root] .tippy6-box[data-theme~="light-border"] > .tippy6-arrow::before {
+    color: #202122 !important;
+    border-color: #202122 !important;
+  }
+
+  html.skin-theme-clientpref-os body.page-后勤技能一览 [data-tippy6-root] .tippy6-box[data-theme~="light-border"] a {
+    color: #6cb6ff !important;
+  }
+
+  html.skin-theme-clientpref-os body.page-后勤技能一览 .mw-parser-output .wikitable.logo td[style*="background-color:#999999"],
+  html.skin-theme-clientpref-os body.page-后勤技能一览 .mw-parser-output .wikitable.logo td[style*="background-color: #999999"] {
+    background-color: #2f3338 !important;
+    border-color: #54595d !important;
+  }
+
+}
+}}
+{{#Widget:MathJax4}}
+{{:后勤技能一览/store}}

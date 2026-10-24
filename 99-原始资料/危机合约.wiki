@@ -1,0 +1,259 @@
+{{副标题|CONTINGENCY CONTRACT}}<section begin=危机合约开头 />{{#Widget:style|style=.purgelinks a{color:#f4c430 !important;}
+}}{{#Widget:style|style=.mw-body a.mw-redirect {color:#f4c430 !important;}
+}}{{危机合约计时
+|名称=新#5赛季「涤墨作战」
+|前回名称=新#4赛季「弧光作战」
+|开始时间=2026-06-26 16:00
+|结束时间=2026-07-10 03:59
+|大致开始时间=
+|进行中侧边色=#a9602b
+|进行中框体色=#426f71
+}}{{#widget:style|style=
+    .cc_intro .text::-webkit-scrollbar { width: 0 !important }
+    .cc_intro .text { clear:both;overflow:auto;width:100%;max-width:800px;height:150px;max-height:10em;background:transparent;border-bottom:1px solid black;-ms-overflow-style: none; }
+    .cc_intro .text { overflow: -moz-scrollbars-none; }
+    .cc_intro .right {float: right;display: flex;align-items: center;}
+    .cc_intro .right .tri {width: 0;height: 0;border: 7px solid;border-bottom: 0px;border-color: black transparent transparent;}
+}}<center><noinclude>[[文件:危机合约 作战赛季 头图.png|780px]]</noinclude></center>{{#vardefine:cc_quote|<poem>罗德岛成立之初，物质与商业资源的匮乏带来了无数的危机，在这片充满危险的大地上立足成了一种奢望。
+而“危机合约”的存在，为罗德岛这样的企业提供了赖以生存的机会。
+
+传闻“危机合约”的前身最早由一群天灾信使所创立。
+为了对抗当时几乎无法预测的天灾、以及其他紧随其后的危机，在数位天灾信使的主导之下，天灾信使们建立了一套独特的情报交换机制，以期为各自服务的城邦，以及无数遭到天灾威胁的市民谋夺一线生机。
+
+然而，各个势力的不断发展，并未给这片大地带去友善的交流与可贵的和平。对资源的争夺，各势力间种种力量的冲突，以及在各处不断滋生、不断被惨剧验证的阴谋诡计，使得各个城邦对于信息的封锁一度达到了最高峰。即使遭遇了极为可怕的灾难，各势力也从未互相伸出援手，毋论做出哪怕一丁点微小的牺牲。
+
+天灾信使们动摇了，他们服务着的理念与实体相互割裂，现实逼迫他们面对自己的选择。
+而其中最无私的那些，决定结合各自的力量与知识，为他们承载的理想与他们热爱的人们，建立统一的“危机合约”。
+
+无论出身，无论种族，无论善恶，只要你有足够的实力——活下来，处理目标，获得报酬。或是，处理危险的目标，获得巨额的报酬，以及，活下来。
+
+最终，在这片支离破碎的大地上，一个特殊的防范机制被秘密地建立了起来。不管接下来发生的将是怎样前所未有的灾难，“危机合约”都将在阴暗处继续撑起一张无人知晓的网。
+这一切，都是为了更多的生命。</poem>}}
+<div class="nomobile cc_intro">{{Cquote|<div class{{=}}"text">{{#var:cc_quote}}</div><span class{{=}}"right">SCROLL&nbsp;<span class{{=}}"tri"></span></span>|width=75%}}</div>
+<div class="nodesktop cc_intro">{{Cquote|<div class{{=}}"text">{{#var:cc_quote}}</div><span class{{=}}"right">SCROLL&nbsp;<span class{{=}}"tri"></span></span>|width=100%}}</div>
+<section end=危机合约开头 />
+<center>{{危机合约赛季导航}}</center>
+<!--以下引用子页面内容，子页面应只有行动地图和特设交换所两部分，公告则移动至子页面的“活动公告”子页面-->
+== 危机合约简述 ==
+危机合约是以赛季为单位限时开放的游戏模式，休赛期时常驻入口，但仅可使用部分功能。
+
+本模式以“自我挑战”为目标，通过选用各种“指标”或“指标集”提升危机等级和关卡难度、突破新的记录以获取“晶体合约赏金”兑换奖励的特殊模式。
+
+最初的危机合约形式，在十三个赛季之后，于2023年3月以最后的[[“复仇者”]]宣告这一个时代的落幕。
+
+在经历[[尖灭测试作战]]后，新的危机合约形式于2023年11月归来。
+
+游玩本模式不消耗理智。且自新合约#1开始，在危机合约战斗中允许在暂停时选择'''以当前阵容重新开始''' {{popup|内容=进入合约地图后，可以利用重新开始的功能不离开合约地图，从而不再受合约期限制约；完成战斗时即使合约期限已过，仍然允许进行结算。<br/>注意：蚀刻章仍然具有以时间戳为单位的最晚获取期限，超出期限的成绩可以进行结算归档，但很可能无法获取蚀刻章。}}。
+
+{{Cbox2|mdi=true|icon=archive-clock|text=关于经典赛季的相关信息已存档为子页面。<br>如需了解'''经典赛季的相关信息'''，您也可以查阅[[危机合约/存档：经典赛季]]页面。}}
+{{#vardefine:当前危机合约|{{#ask:[[分类:危机合约]][[活动结束时间::>>{{#time: c|now}}]]|link=none}}}}<!--
+-->{{#if:{{#var:当前危机合约}}|{{#ifexpr:{{#time:U|{{#show:{{#var:当前危机合约}}|?活动开始时间#ISO}}}}<={{#time: U|now}}|==当前赛季公告==
+{{半折叠/before|style=max-height:1200px;}}
+{{:{{#var:当前危机合约}}}}
+{{半折叠/after|按钮文字={{mdi|chevron-double-down}} 展开全文}}|<!--
+-->{{Cbox2|lv=3|mdi=true|icon=routes|title=[[{{#var:当前危机合约}}|{{#show:{{#var:当前危机合约}}|?名称}}]] 将在不久后开启。|text=在赛季开启前，您可以在【终端 - 周期挑战】的【危机合约】板块兑换所需物资与回顾以前参与的作战赛季记录。}}}}|}}
+
+==常设兑换所==
+* 危机合约作战赛季开放的新常设兑换所。<br>兑换消耗{{材料消耗|晶体合约赏金||45}}'''[[晶体合约赏金]]'''。
+* 兑换所存在阶梯商品，只有购买了前一商品后才能购买下一商品。
+* 一部分奖励可在赛季期间通过参与赛季作战'''免费'''获得，超时需消耗赏金兑换获得。
+: 这些奖励将会带有赛季编号。
+* 部分商品在自己已拥有时将直接标记为【已拥有】而无法重复购买。
+* 部分原【机密圣所 - 常设兑换所】的商品已转移至此处供兑换（不可重复兑换）。
+{{#widget:style|style=.season-badge {position: absolute;left: 0px;top: -1px;background: #b7864c;padding: 0px 3px;font-size: xx-small;border-radius: 2px;color: #fff;pointer-events:none;z-index:1;} }}
+<div style="max-width:600px;">
+<tabber>
+干员及其信物=<nowiki/>
+* 兑换状态与【机密圣所】互通，已在【机密圣所】兑换的奖励将无法兑换。
+{| class="wikitable" style="text-align:center;display:inline-table;white-space:normal;margin:0px;width:100%"
+|style="text-align:left;"|
+{{商店列表|id=ccBP_permshop_charlist|价格颜色=#ff9e93
+|{{招聘合同|柏喙|50px}};;PROGRESS;;;;;;23.5%
+{{招聘合同|稀音|50px}};;PROGRESS;;;;;;23.5%
+{{招聘合同|图耶|50px}};;PROGRESS;;;;;;23.5%
+{{招聘合同|埃拉托|50px}};;PROGRESS;;;;;;23.5%
+}}
+|-
+|style="text-align:left;"|<div style="vertical-align: bottom;background: #000;padding: 0px 1px;display: inline-block;height: 20px;width: 4px;"></div><div style="vertical-align: bottom;background: #333;padding: 0px 1px;display: inline-block;height: 16px;width: 4px;"></div><div style="vertical-align: bottom;background: #888;padding: 0px 1px;display: inline-block;height: 12px;width: 4px;"></div> 兑换阶梯表 <span style="background:#595959;color: #fff;padding-inline: 0.5em;">'''{{color|#ff9e93|1470}}/干员'''</span>
+{{商店列表|id=ccBP_permshop_charlist_sample|价格颜色=#ff9e93
+|<div><sup>[1]</sup>[[文件:招聘合同 4.png|50px|link=]]</div>;;1;;980;;;;30%
+<sup>[2]</sup>{{道具图标|图耶的信物||50px}};;1;;60;;;;30%
+<sup>[3]</sup>{{道具图标|图耶的信物||50px}};;1;;80;;;;30%
+<sup>[4]</sup>{{道具图标|图耶的信物||50px}};;1;;100;;;;30%
+<sup>[5]</sup>{{道具图标|图耶的信物||50px}};;1;;120;;;;30%
+<sup>[6]</sup>{{道具图标|图耶的信物||50px}};;1;;130;;;;30%
+}}
+|}
+|-|
+赛季时装=<nowiki/>
+* 兑换状态与【机密圣所】互通，已在【机密圣所】兑换的奖励将无法兑换。
+{| class="wikitable" style="text-align:center;display:inline-table;white-space:normal;margin:0px;width:100%"
+|colspan=2 style="text-align:left;"|
+{{商店列表|id=ccBP_permshop_skin|layout=repeat(4,1fr)//repeat(3,1fr)|价格颜色=#ff9e93
+|<div style{{=}}"position:relative;display:inline-block;"><span class{{=}}"season-badge">'''#1'''</span>{{皮肤头像|炎客|50|2|link=时装回廊/0011-飙系列#单刀}}</div>;;1;;2000;;linear-gradient(135deg,#952816,#ec6216,#d17c67,#0000 50%);;23.5%
+<div style{{=}}"position:relative;display:inline-block;"><span class{{=}}"season-badge">'''#2'''</span>{{皮肤头像|翎羽|50|1|link=时装回廊/玛尔特#从容时刻}}</div>;;1;;2000;;linear-gradient(135deg,#0f161c,#3c5556,#876640,#e5b041,#0000 50%);;23.5%
+<div style{{=}}"position:relative;display:inline-block;"><span class{{=}}"season-badge">'''#3'''</span>{{皮肤头像|石英|50|1|link=时装回廊/时代#封面佣兵}}</div>;;1;;2000;;linear-gradient(135deg,#1a1418,#9a3b53,#ab2f44,#0000 50%);;23.5%
+<div style{{=}}"position:relative;display:inline-block;"><span class{{=}}"season-badge">'''#4'''</span>{{皮肤头像|酸糖|50|2|link=时装回廊/珊瑚海岸#悠然假日 HD75}}</div>;;1;;2000;;linear-gradient(135deg,#ad9d84,#ddb69a,#565849,#ad9d84,#0000 50%);;23.5%
+<div style{{=}}"position:relative;display:inline-block;"><span class{{=}}"season-badge">'''#5'''</span>{{皮肤头像|稀音|50|2|link=时装回廊/生命之地#新地形}}</div>;;1;;2000;;linear-gradient(135deg,#7b4428,#f27209,#1b3642,#0000 50%);;23.5%
+{{皮肤头像|狮蝎|50|1|link=时装回廊/时代#无形悼挽}};;1;;980;;;;23.5%
+{{皮肤头像|风笛|50|1|link=时装回廊/啸风#皇后一号}};;1;;980;;;;23.5%
+{{皮肤头像|蓝毒|50|1|link=时装回廊/玛尔特#浅滩律动}};;1;;980;;;;23.5%
+{{皮肤头像|华法琳|50|2|link=时装回廊/珊瑚海岸#悠然假日HD31}};;1;;980;;;;23.5%
+{{皮肤头像|阿|50|2|link=时装回廊/0011™制造#妙手玄心}};;1;;980;;;;23.5%
+{{皮肤头像|石棉|50|1|link=时装回廊/0011-飙系列#幽谷奏鸣}};;1;;980;;;;23.5%
+{{皮肤头像|布洛卡|50|1|link=时装回廊/玛尔特#组间休息}};;1;;980;;;;23.5%
+{{皮肤头像|酸糖|50|1|link=时装回廊/0011-飙系列#“下午茶时光”}};;1;;980;;;;23.5%
+{{皮肤头像|星极|50|3|link=时装回廊/时代#奇工妙想}};;1;;980;;;;23.5%
+}}
+|-
+!小计
+|{{道具图标|晶体合约赏金|18820|50px}}
+|}
+|-|
+纪念家具=<nowiki/>
+* 每个仅可兑换一次。
+{| class="wikitable" style="text-align:center;display:inline-table;white-space:normal;margin:0px;width:100%"
+|colspan=2 style="text-align:left;"|
+{{商店列表|id=ccBP_permshop_furni|layout=repeat(4,1fr)//repeat(3,1fr)|价格颜色=#ff9e93
+|<div style{{=}}"position:relative;display:inline-block;"><span class{{=}}"season-badge">'''#1'''</span>{{家具图标|浊燃之旗|50px}}</div>;;1;;1800;;linear-gradient(135deg,#952816,#ec6216,#d17c67,#0000 50%);;23.5%
+<div style{{=}}"position:relative;display:inline-block;"><span class{{=}}"season-badge">'''#2'''</span>{{家具图标|潮曦之旗|50px}}</div>;;1;;1800;;linear-gradient(135deg,#0f161c,#3c5556,#876640,#e5b041,#0000 50%);;23.5%
+<div style{{=}}"position:relative;display:inline-block;"><span class{{=}}"season-badge">'''#3'''</span>{{家具图标|净罪之旗|50px}}</div>;;1;;1800;;linear-gradient(135deg,#1a1418,#9a3b53,#ab2f44,#0000 50%);;23.5%
+<div style{{=}}"position:relative;display:inline-block;"><span class{{=}}"season-badge">'''#4'''</span>{{家具图标|弧光之旗|50px}}</div>;;1;;1800;;linear-gradient(135deg,#ad9d84,#ddb69a,#565849,#ad9d84,#0000 50%);;23.5%
+<div style{{=}}"position:relative;display:inline-block;"><span class{{=}}"season-badge">'''#5'''</span>{{家具图标|涤墨之旗|50px}}</div>;;1;;1800;;linear-gradient(135deg,#7b4428,#f27209,#1b3642,#0000 50%);;23.5%
+}}
+|-
+!小计
+|{{道具图标|晶体合约赏金|9000|50px}}
+|}
+|-|
+通用信物=<nowiki/>
+* 兑换状态与【机密圣所】互通，已在【机密圣所】兑换的奖励将无法兑换。
+{| class="wikitable" style="text-align:center;display:inline-table;white-space:normal;margin:0px;width:100%"
+|colspan=2 style="text-align:left;"|
+<!--请勿调换顺序：这里的顺序从前到后是【实装顺序】-->
+{{商店列表|id=ccBP_permshop_token|价格颜色=#ff9e93
+|{{道具图标|先锋皇家信物||50px}};;4;;750;;;;23.5%
+{{道具图标|近卫皇家信物||50px}};;4;;750;;;;23.5%
+{{道具图标|特种皇家信物||50px}};;4;;750;;;;23.5%
+{{道具图标|狙击皇家信物||50px}};;4;;750;;;;23.5%
+{{道具图标|术师皇家信物||50px}};;4;;750;;;;23.5%
+{{道具图标|辅助皇家信物||50px}};;4;;750;;;;23.5%
+{{道具图标|重装皇家信物||50px}};;4;;750;;;;23.5%
+{{道具图标|医疗皇家信物||50px}};;4;;750;;;;23.5%
+
+{{道具图标|狙击遗产信物||50px}};;4;;200;;;;23.5%
+{{道具图标|重装遗产信物||50px}};;4;;200;;;;23.5%
+{{道具图标|医疗遗产信物||50px}};;4;;200;;;;23.5%
+{{道具图标|近卫遗产信物||50px}};;4;;200;;;;23.5%
+{{道具图标|特种遗产信物||50px}};;4;;200;;;;23.5%
+{{道具图标|辅助遗产信物||50px}};;4;;200;;;;23.5%
+{{道具图标|先锋遗产信物||50px}};;4;;200;;;;23.5%
+{{道具图标|术师遗产信物||50px}};;4;;200;;;;23.5%
+}}
+|-
+!小计
+|{{道具图标|晶体合约赏金|30400|50px}}
+|}
+|-|
+无限交换=
+{| class="wikitable" style="text-align:center;display:inline-table;white-space:normal;margin:0px;width:100%"
+|style="text-align:center;"|{{mdi|infinity}} '''无限交换'''
+|-
+|style="text-align:left;"|
+{{商店列表|id=ccBP_permshop_inf|价格颜色=#ff9e93
+|{{道具图标|RMA70-12||50px}};;;;75;;;;23.5%
+{{道具图标|研磨石||50px}};;;;60;;;;23.5%
+{{道具图标|轻锰矿||50px}};;;;60;;;;23.5%
+{{道具图标|扭转醇||50px}};;;;45;;;;23.5%
+{{道具图标|酮凝集||50px}};;;;60;;;;23.5%
+{{道具图标|异铁组||50px}};;;;60;;;;23.5%
+{{道具图标|糖组||50px}};;;;45;;;;23.5%
+{{道具图标|聚酸酯组||50px}};;;;45;;;;23.5%
+{{道具图标|全新装置||50px}};;;;75;;;;23.5%
+{{道具图标|固源岩组||50px}};;;;45;;;;23.5%
+}}
+|}
+</tabber>
+</div>
+{|style="display:table;width:600px" class="wikitable"
+|-
+!合计<br/>（不含无限交换）
+|style="text-align:center;"|{{道具图标|晶体合约赏金|64100|50px|12pt}}
+|}
+<noinclude><nowiki/>
+
+==关于危机合约==
+基于[[尖灭测试作战]]的原型设计，在保留危机合约的可选择难度增强机制的基础上，玩家需要从路径图上一个{{color|#d32e41|'''可用的起点'''（一个圆圈）}}开始，按照给定的路径连接各个指标成为{{color|#d32e41|'''“通路”'''}}，只有在{{color|#d32e41|'''通路'''}}上的指标才能作为作战附加条件参与当次作战。
+
+'''指标'''将为目标关卡带来各种提升难度的效果，如敌人属性提升、能力增强、我方削弱、环境变化等。
+
+* 虚线路径表示当前状态下无法以任何方式连接的路径；虚线指标表示当前状态下无法连接（选中）的指标。
+* 通常画面左侧会提供若干初始起点供连接。
+* 可以在一次作战中建立多个通路以选择更多指标。<br>取消选择一个指标时，若其连接的指标无法经由剩下的通路连接到任何可用起点，则这些指标也会被一同取消选择。
+* 绝大多数指标以单个指标为单位连接，少数指标会组合成OR分组（分组内的指标会互相冲突），这要求玩家只能从中选择一个连接。
+
+===特殊节点===
+除了指标，路径图上还有一些特殊的节点：
+* '''晶块陈列室：'''存放着“结晶瑰宝”的节点。<br>在一次行动中同时完成与其直接相连的指标集（后述）即可获得对应奖励。<br>一部分结晶瑰宝将在当前赛季结束后上架常设兑换所，若玩家未能在当前赛季获得该奖励，可消耗晶体合约赏金在常设兑换所兑换。
+* '''阵眼任务：'''需要在通关时满足给定的任务条件以完成任务。<br>完成后可领取奖励，并将任务节点转化为可用作新的{{color|#d32e41|'''可用起点'''}}的“关键节点”。
+
+===指标评分、圣所判定===
+{{#vardefine:icon|display:inline-block;width:27px;height:27px;background:#484848;text-align:center;}}
+各个指标有各自的指标评分，在{{color|#d32e41|'''通路'''}}上参与当次作战的指标的评分之和即为当次作战的指标总分。
+
+指标的评分还会细化到六个不同的维度，不同的指标会在不同的维度上给予分数，并以六维图方式显示。
+
+*<span style="{{#var:icon}}">[[文件:评分图标 战略.png|27px|link=]]</span> 带有'''战略'''的指标意味着将会迎战更强的敌人，指标效果通常会包括：全体敌人某种属性的提升。
+*<span style="{{#var:icon}}">[[文件:评分图标 技巧.png|27px|link=]]</span> 带有'''技巧'''的指标会控制特定精英敌人的出现或对其进行强化，指标效果通常会包括：特定敌人的出现、属性提升、附加能力。
+*<span style="{{#var:icon}}">[[文件:评分图标 调遣.png|27px|link=]]</span> 带有'''调遣'''的指标会更多地考量干员选择与部署行为，指标效果通常会包括：职业限制、费用限制、编队/可部署人数限制。
+*<span style="{{#var:icon}}">[[文件:评分图标 应变.png|27px|link=]]</span> 带有'''应变'''的指标意味着我方将以被削弱的状态出战，指标效果通常会包括：全体我方某种属性的降低。
+*<span style="{{#var:icon}}">[[文件:评分图标 洞察.png|27px|link=]]</span> 带有'''洞察'''的指标影响了整个战场的作战环境，指标效果通常会包括：地块封锁、变相的地块封锁、额外非精英敌人出现、最终防线
+*<span style="{{#var:icon}}">[[文件:评分图标 筹划.png|27px|link=]]</span> 带有'''筹划'''的指标需要制定针对性战术，指标效果通常会包括：地图机制的变更，地图或敌人机制附加效果。
+
+===指标集===
+具有强关联性的指标群会被划分到一个'''指标集'''内，和单一指标一样具有维度划分。
+
+当玩家在指标集内选择的指标达到该指标集的'''最高分数'''时，即视为{{color|#8a0b0b|'''选择了该指标集'''}}。
+
+部分指标集可以提供额外分数，'''仅在选择指标集的情况下才能获得其所在维度的额外分数'''。
+* '''指标集与其下属指标所属的维度没有必然联系。'''<br>可以出现指标集内含指标的维度与指标集所在维度不同的“混装”情况。
+
+玩家可点击画面左下角的按钮切换指标集视图或指标视图。
+* 在'''指标集视图'''下，玩家可以快速选择指标集，从而同时选择其下属的所有最高等级指标（冲突指标中自动选择随机一个最高分指标）；
+**指标集下属指标可不依靠外部起点构成通路的场合，该指标集才可以直接选择。
+* 在'''指标视图'''下，玩家可以详细修改要选择的指标，从而可以在保持选择指标集的情况下替换某些指标集内的指标。
+
+===圣所的评喻===
+系统还会根据玩家特殊作战条件的完成情况、作战风格、编队风格等得出一系列'''“圣所的评喻”'''，作为玩家作战指挥的参考评价。
+* 获得新的评喻时会有红色标记提示，每场作战结算时根据当前作战给出评喻。
+
+玩家可通过大厅左侧或【终端 - 周期挑战】页面的“作战回顾”按钮确认自己各作战赛季的记录，包括：
+* 历史最高单次作战总分；
+* 历史最高单次作战总分达成时的圣所判定六维图（白色条）；
+* 六维判定项目在多次作战中各自达到的历史最高分（白线）；
+* 完成过的主测试地指标；
+* 所有获得过的圣所评喻。
+* 自#2开始，还可以点选历史最高分右侧的'''回顾焦点'''，再现达成这一分数的瞬间。
+** 相当于重新播放一次不包含历史记录的最高分结算画面，注目干员的立绘将会随机出现。<br>不会保存新纪录状态（即不会显示NEW RECORD相关标志，例如六维图的灰条会在新纪录时变为白条，但在重放中不会再现）。
+** 由于该机制实装较晚，查阅#1的回顾焦点时仅能展示使用的干员，而无法记录其使用时装（显示为当前装扮的时装）、干员等级、技能与模组情况。
+
+===其它术语===
+*{{材料消耗|晶体合约赏金||45}} '''[[晶体合约赏金]]'''
+危机合约作战赛季期间获取的奖励货币，可用于在常设交换所和赛季期间的特设交换所换取物资。
+
+赛季结束后不会清空，可跨赛季持有。
+
+* {{mdi|checkbox-marked|color=#049faa}} '''已完成指标'''
+代表'''已经完成过'''的指标。
+
+每次在同一地点完成行动时，如果这次行动中有该次行动未曾选择并完成过的指标，则该指标将添加 {{mdi|checkbox-marked|color=#049faa}} 标记。
+
+对于路径图中每一个未被标记的指标（冲突指标各自独立计算），只要'''选择此指标完成一次行动，都会执行上述操作'''，且'''一次行动携带多个会同时完成计算'''。
+
+'''指标集也可被完成。'''在选择指标集的情况下完成行动，则视为完成指标集，并获得 <span style="background:#38aba6;color:white;padding:0px 3px;border-radius:2px;">COMPLETED</span>（已完成）标记。
+
+在主测试地完成过的合约会被记录在“作战回顾”中。
+
+==历史测试指标总览==
+{{参阅|危机合约/历史指标|出现过的测试指标的大致信息}}
+{{Navbox_危机合约}}

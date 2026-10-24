@@ -1,0 +1,18 @@
+{{页面迭代}}{{Ads|normal}}{{Ads/mobile}}
+{{道具一览补充说明}}
+<div style="display:none" id="cargo-data">
+{{#cargo_query:
+tables=item
+|fields=name,description,purpose,obtain_method,rarity,category1,category2,category3,itemId,sortId,iconId,filename,darkBackground
+|format=template
+|template=道具筛选数据2
+|limit=2000
+}}
+</div>
+{{#widget:ItemList}}
+{{#seo:
+|title=道具一览 - PRTS - 玩家共同构筑的明日方舟中文Wiki
+|titlemode=append
+|keywords=PRTS,明日方舟,明日方舟Arknights,Arknights,明日方舟wiki,明日方舟百科,明日方舟攻略,明日方舟图鉴,明日方舟,明日方舟资料站
+|description=PRTS是一个非营利性质的明日方舟资料Wiki网站
+}}

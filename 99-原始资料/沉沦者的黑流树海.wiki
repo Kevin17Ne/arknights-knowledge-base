@@ -1,0 +1,2557 @@
+{{活动信息
+|类型=集成战略
+|隐藏=是
+|名称=集成战略「沉沦者的黑流树海」
+|名称缩短=沉沦者的黑流树海
+|副标题=THE BLACK FLOW OF THE DROWNING SEEKERS
+|活动开始时间=2026-07-17 16:00:00
+|活动结束时间=2027-03-10 16:00:00
+|兑换结束时间=2027-03-10 16:00:00
+|标题图文件名=主题图 沉沦者的黑流树海.png
+|官网链接=
+}}
+<center>{{集成战略导航}}</center><div style="text-align: center; white-space: pre;">
+[[File:主题图 沉沦者的黑流树海.png|800px|link=]]
+</div>
+{{Cquote|<poem>黑流之下，树海之中，埋藏着不止一个秘密。
+阴谋家和探险者恣意出入，侵扰此地，沉沦其中。
+保持清醒，否则你也将永远成为其中一员。</poem>}}
+<center>[https://www.bilibili.com/video/BV19GNP6EE7e 主题宣传PV · 玩法介绍]<br>[https://ak.hypergryph.com/is/blackflowofdrowningseekers 官方主题专题页] {{popup|内容=在官方主题专题页'''生还案例'''或'''降生的故事'''处登录账号以解锁和使用此两项功能：
+* '''生还案例：'''查询本主题的数据统计，包括全服“概览”和“个人”数据
+* '''降生的故事：'''参与同名小游戏，了解关于黑流树海的一些碎片
+此外无需登录即可体验：
+* '''影像资料：'''查看本主题相关的影像信息
+* '''居民名录：'''查阅本主题的部分敌方单位信息
+* '''树海拾遗：'''查阅本主题的收藏品信息，其中还有“拾遗”条目展示本主题的新藏品
+* '''首席顾问：'''前往特设页面接洽特勤干员[[机械师]]，登录后还可快速查看特勤养成状态
+}}</center>
+{{编辑中}}{{限时显示duo|end={{#show:{{FULLPAGENAME}}|?活动结束时间#ISO}}|content={{#lst:集成战略|集成战略开头}}}}{{Cbox2|mdi=true|icon=lock-open-variant|title=解锁条件：通关[[3-8|主题曲3-8]]}}
+
+==本主题下的独特机制与机制调整==
+{{#vardefine:repeatbadge|<span style="background:#009688; color: white; padding: 0px 5px; border-radius: 2px;">{{mdi|autorenew|rotate=90}} 可重复</span>}}{{#vardefine:canseebadge|<span style="background:#fab619; color: #2f2f2f; padding: 0px 5px; border-radius: 2px;">{{mdi|eye}} 立即揭示</span>}}{{#widget:AKCollapse}}{{#widget:style|style=.AKCollapse.is7 .AKCollapse-title {background:linear-gradient(90deg, #050505, #082825, #040355, #440501);}
+
+/* theme:begin page-dark 主题适配：页内写死的浅色底 / 深色字的暗色值，由源码推导，见 prts-skin-migration/docs/主题适配盘点.md */
+html.skin-theme-clientpref-night .mw-parser-output tr[style^="background:#cced81;" i],
+html.skin-theme-clientpref-night .mw-parser-output tr[style*="background: rgb(204, 237, 129)"] {
+  background: #2c3901 !important;
+  color: #f0f0f0 !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output tr[style^="background:linear-gradient(90deg, #cced81, #97bcc5);" i],
+html.skin-theme-clientpref-night .mw-parser-output tr[style*="background: linear-gradient(90deg, rgb(204, 237, 129), rgb(151, 188, 197))"] {
+  background: linear-gradient(90deg, #2c3901, #2e4a51) !important;
+  color: #f0f0f0 !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output table[style*="background:white;" i] {
+  background: #1a1b1c !important;
+  color: #f0f0f0 !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output div[style^="background: linear-gradient(180deg, #a8e1dd, #0000 3.5em);" i] {
+  background: linear-gradient(180deg, #11403e, #0000 3.5em) !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output div[style^="background: linear-gradient(180deg, #e5cbac, #0000 3.5em);" i] {
+  background: linear-gradient(180deg, #483620, #0000 3.5em) !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output div[style^="background: linear-gradient(180deg, #aac1e1, #0000 3.5em);" i] {
+  background: linear-gradient(180deg, #314258, #0000 3.5em) !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output div[style^="background: linear-gradient(180deg, #bcaec4, #0000 3.5em);" i] {
+  background: linear-gradient(180deg, #4b4151, #0000 3.5em) !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output :is(td, th)[style^="background:#14b4a3;" i] {
+  background: #06665c !important;
+  color: #f0f0f0 !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output span[style*="background: linear-gradient(90deg, transparent, #00ffc4 50%);" i] {
+  background: linear-gradient(90deg, transparent, #033f2e 50%) !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output :is(td, th)[style*="background:#bdbdbd;" i] {
+  background: #414141 !important;
+  color: #f0f0f0 !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output :is(td, th)[style$="background:#bdbdbd" i],
+html.skin-theme-clientpref-night .mw-parser-output :is(td, th)[style*="background:#bdbdbd;" i],
+html.skin-theme-clientpref-night .mw-parser-output div[style*="background: #bdbdbd;" i],
+html.skin-theme-clientpref-night .mw-parser-output div[style*="background: rgb(189, 189, 189)"] {
+  background: #414141 !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output :is(td, th)[style*="background:#e9d102;" i] {
+  background: #423a02 !important;
+  color: #f0f0f0 !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output :is(td, th)[style*="background:linear-gradient(90deg,#f9e002,#f9a700);" i] {
+  background: linear-gradient(90deg,#3a3400,#5c3b02) !important;
+  color: #f0f0f0 !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output :is(td, th)[style^="background: linear-gradient(90deg,#b2f7ff,#bfb0f9);" i] {
+  background: linear-gradient(90deg,#003439,#44376c) !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output :is(td, th)[style^="background: #747577;" i] {
+  background: #57585a !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output div[style*="background: radial-gradient(#f7ed67de, transparent 60%);" i] {
+  background: radial-gradient(#332f01de, transparent 60%) !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output div[style*="background: radial-gradient(#ffed0078, transparent 60%);" i] {
+  background: radial-gradient(#332f0178, transparent 60%) !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output div[style*="background: radial-gradient(#f7ed67a8, transparent 60%);" i] {
+  background: radial-gradient(#332f01a8, transparent 60%) !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output div[style*="background:#8fa9c1;" i],
+html.skin-theme-clientpref-night .mw-parser-output div[style*="background: rgb(143, 169, 193)"],
+html.skin-theme-clientpref-night .mw-parser-output :is(td, th)[style^="background:#8fa9c1;" i] {
+  background: #3a4d5f !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output tr[style^="background:#ffdfdf;" i],
+html.skin-theme-clientpref-night .mw-parser-output tr[style*="background: rgb(255, 223, 223)"] {
+  background: #3c2828 !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output div[style*="background:#ad7d57;" i],
+html.skin-theme-clientpref-night .mw-parser-output div[style*="background: rgb(173, 125, 87)"],
+html.skin-theme-clientpref-night .mw-parser-output :is(td, th)[style^="background:#ad7d57;" i] {
+  background: #744e30 !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output div[style*="background:#de914b;" i],
+html.skin-theme-clientpref-night .mw-parser-output div[style*="background: rgb(222, 145, 75)"],
+html.skin-theme-clientpref-night .mw-parser-output :is(td, th)[style^="background:#de914b;" i] {
+  background: #6f3d01 !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output div[style^="background: white;" i],
+html.skin-theme-clientpref-night .mw-parser-output div[style*="background: white"],
+html.skin-theme-clientpref-night .mw-parser-output div[style*="background: #fff;" i],
+html.skin-theme-clientpref-night .mw-parser-output div[style*="background: rgb(255, 255, 255)"] {
+  background: #1a1b1c !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output :is(td, th)[style*="background:linear-gradient(90deg,#fff,#cbcbcb,#fff);" i] {
+  background: linear-gradient(90deg,#1a1b1c,#3b3b3b,#1a1b1c) !important;
+  color: #f0f0f0 !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output div[style*="background: #ba8f27;" i],
+html.skin-theme-clientpref-night .mw-parser-output div[style*="background: rgb(186, 143, 39)"] {
+  background: #705300 !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output div[style*="background: #fbfbfb;" i],
+html.skin-theme-clientpref-night .mw-parser-output div[style*="background: rgb(251, 251, 251)"] {
+  background: #232425 !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output :is(td, th)[style^="background:#f2c90b;" i] {
+  background: #473a02 !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output div[style*="background:#19a99d;" i],
+html.skin-theme-clientpref-night .mw-parser-output div[style*="background: rgb(25, 169, 157)"],
+html.skin-theme-clientpref-night .mw-parser-output :is(td, th)[style^="background:#19a99d;" i] {
+  background: #05665e !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output div[style*="background:#e251ad;" i],
+html.skin-theme-clientpref-night .mw-parser-output div[style*="background: rgb(226, 81, 173)"],
+html.skin-theme-clientpref-night .mw-parser-output :is(td, th)[style^="background:#e251ad;" i] {
+  background: #883468 !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output div[style*="background:#da3780;" i],
+html.skin-theme-clientpref-night .mw-parser-output div[style*="background: rgb(218, 55, 128)"],
+html.skin-theme-clientpref-night .mw-parser-output :is(td, th)[style^="background:#da3780;" i] {
+  background: #8e3257 !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output :is(td, th)[style^="background: lightgrey;" i] {
+  background: #383838 !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output span[style*=";color:#5e8505;" i]:not([style*="background" i]),
+html.skin-theme-clientpref-night .mw-parser-output span[style*=" color:#5e8505;" i]:not([style*="background" i]),
+html.skin-theme-clientpref-night .mw-parser-output span[style*="; color:#5e8505;" i]:not([style*="background" i]),
+html.skin-theme-clientpref-night .mw-parser-output sup[style="color:#5e8505" i]:not([style*="background" i]),
+html.skin-theme-clientpref-night .mw-parser-output sup[style="color:#5e8505;" i]:not([style*="background" i]),
+html.skin-theme-clientpref-night .mw-parser-output span[style="color:#5e8505;" i] {
+  color: #7fa24a !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output span[style*=";color:red;" i]:not([style*="background" i]),
+html.skin-theme-clientpref-night .mw-parser-output span[style*=" color:red;" i]:not([style*="background" i]),
+html.skin-theme-clientpref-night .mw-parser-output span[style*="; color:red;" i]:not([style*="background" i]),
+html.skin-theme-clientpref-night .mw-parser-output tr[style^="color:red;" i]:not([style*="background" i]) {
+  color: var(--prts-alert-text) !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output :is(td, th)[style*=";color: #384950;" i]:not([style*="background" i]),
+html.skin-theme-clientpref-night .mw-parser-output :is(td, th)[style*=" color: #384950;" i]:not([style*="background" i]),
+html.skin-theme-clientpref-night .mw-parser-output :is(td, th)[style*="; color: #384950;" i]:not([style*="background" i]) {
+  color: #8999a0 !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output div[style*=";color: black;" i]:not([style*="background" i]),
+html.skin-theme-clientpref-night .mw-parser-output div[style*=" color: black;" i]:not([style*="background" i]),
+html.skin-theme-clientpref-night .mw-parser-output div[style*="; color: black;" i]:not([style*="background" i]) {
+  color: var(--prts-page-text) !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output span[style*=";color:#731e19;" i]:not([style*="background" i]),
+html.skin-theme-clientpref-night .mw-parser-output span[style*=" color:#731e19;" i]:not([style*="background" i]),
+html.skin-theme-clientpref-night .mw-parser-output span[style*="; color:#731e19;" i]:not([style*="background" i]) {
+  color: #d18076 !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output div[style$=";color:#f3586c" i]:not([style*="background" i]),
+html.skin-theme-clientpref-night .mw-parser-output div[style$=" color:#f3586c" i]:not([style*="background" i]),
+html.skin-theme-clientpref-night .mw-parser-output div[style$="; color:#f3586c" i]:not([style*="background" i]),
+html.skin-theme-clientpref-night .mw-parser-output div[style*=";color:#f3586c;" i]:not([style*="background" i]),
+html.skin-theme-clientpref-night .mw-parser-output div[style*=" color:#f3586c;" i]:not([style*="background" i]),
+html.skin-theme-clientpref-night .mw-parser-output div[style*="; color:#f3586c;" i]:not([style*="background" i]) {
+  color: #ee6c79 !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output span[style="color:#72417d;" i] {
+  color: #b285bc !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output span[style="color:#0e6d71;" i] {
+  color: #5fa1a4 !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output span[style="color:#2958bc;" i] {
+  color: #6895ee !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output span[style="color:#8e2309;" i] {
+  color: #dd7c66 !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output span[style="color:#9b3c35;" i] {
+  color: #d57f75 !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output span[style="color:#751830;" i] {
+  color: #d37d89 !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output span[style="color:#949494;" i] {
+  color: #979797 !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output span[style="color:#b51330;" i] {
+  color: #f06e72 !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output span[style="color:blue;" i] {
+  color: #6594fb !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output span[style="color:darkgreen;" i] {
+  color: #60a45b !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output span[style="color:purple;" i] {
+  color: #d074cd !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output span[style="color:#2356a1;" i] {
+  color: #6996db !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output span[style="color:#9a41e5;" i] {
+  color: #b17de9 !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output span[style="color:#85342d;" i] {
+  color: #cf8379 !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output span[style="color:#6148a3;" i] {
+  color: #9d8bdd !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output span[style="color:#b7301e;" i] {
+  color: #e77360 !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output span[style="color:#1d7767;" i] {
+  color: #5fa293 !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output span[style="color:#7d0022;" i] {
+  color: #dd777d !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output span[style="color:#0c493d;" i] {
+  color: #719f92 !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output span[style="color:grey;" i] {
+  color: #959595 !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output span[style="color:#383637;" i],
+html.skin-theme-clientpref-night .mw-parser-output span[style="color:#3e3e3e;" i] {
+  color: #f0f0f0 !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output span[style="color:#E66B7B;" i] {
+  color: #df7782 !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output span[style="color:#a53900;" i] {
+  color: #dc7c58 !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output span[style="color:#9a290e;" i] {
+  color: #df7a63 !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output span[style="color:#85171a;" i] {
+  color: #da7971 !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output span[style="color:#575554;" i] {
+  color: #979594 !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output span[style^="color: #008bff;" i]:not([style*="background" i]),
+html.skin-theme-clientpref-night .mw-parser-output span[style*=" color: #008bff;" i]:not([style*="background" i]) {
+  color: #4397f4 !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output span[style^="color: #002a4e;" i]:not([style*="background" i]),
+html.skin-theme-clientpref-night .mw-parser-output span[style*=" color: #002a4e;" i]:not([style*="background" i]) {
+  color: #7699be !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output span[style^="color: #281c58;" i]:not([style*="background" i]),
+html.skin-theme-clientpref-night .mw-parser-output span[style*=" color: #281c58;" i]:not([style*="background" i]) {
+  color: #9490cc !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output span[style^="color: #B52711;" i]:not([style*="background" i]),
+html.skin-theme-clientpref-night .mw-parser-output span[style*=" color: #B52711;" i]:not([style*="background" i]) {
+  color: #ed745e !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output span[style^="color: #72a;" i]:not([style*="background" i]),
+html.skin-theme-clientpref-night .mw-parser-output span[style*=" color: #72a;" i]:not([style*="background" i]) {
+  color: #b67ce5 !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output span[style^="color: #2f6f4e;" i]:not([style*="background" i]),
+html.skin-theme-clientpref-night .mw-parser-output span[style*=" color: #2f6f4e;" i]:not([style*="background" i]) {
+  color: #6ba082 !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output span[style^="color: #8a6f00;" i]:not([style*="background" i]),
+html.skin-theme-clientpref-night .mw-parser-output span[style*=" color: #8a6f00;" i]:not([style*="background" i]) {
+  color: #ab944c !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output span[style="color:#ac7a55;" i] {
+  color: #ba8e6f !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output span[style="color:#287f81;" i] {
+  color: #5fa2a3 !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output span[style="color:#A40000;" i] {
+  color: #ed7060 !important;
+}
+html.skin-theme-clientpref-night .mw-parser-output span[style="color:#ff5201;" i] {
+  color: #ed734d !important;
+}
+html.skin-theme-clientpref-night .end_text.lose {
+  background: #3b2728;
+}
+html.skin-theme-clientpref-night .end_text.end1 {
+  background: #092c2b;
+}
+html.skin-theme-clientpref-night .end_text.end2 {
+  background: #235e7f;
+}
+html.skin-theme-clientpref-night .end_text.end3 {
+  background: #633c00;
+}
+html.skin-theme-clientpref-night .end_text.end4 {
+  background: #4b4151;
+}
+/* theme:end page-dark */
+
+/* theme-os:begin 自动偏好（跟随系统暗色）。由上方 night 规则机械生成，勿手改 */
+@media (prefers-color-scheme: dark) {
+  html.skin-theme-clientpref-os .mw-parser-output tr[style^="background:#cced81;" i],
+  html.skin-theme-clientpref-os .mw-parser-output tr[style*="background: rgb(204, 237, 129)"] {
+    background: #2c3901 !important;
+    color: #f0f0f0 !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output tr[style^="background:linear-gradient(90deg, #cced81, #97bcc5);" i],
+  html.skin-theme-clientpref-os .mw-parser-output tr[style*="background: linear-gradient(90deg, rgb(204, 237, 129), rgb(151, 188, 197))"] {
+    background: linear-gradient(90deg, #2c3901, #2e4a51) !important;
+    color: #f0f0f0 !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output table[style*="background:white;" i] {
+    background: #1a1b1c !important;
+    color: #f0f0f0 !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output div[style^="background: linear-gradient(180deg, #a8e1dd, #0000 3.5em);" i] {
+    background: linear-gradient(180deg, #11403e, #0000 3.5em) !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output div[style^="background: linear-gradient(180deg, #e5cbac, #0000 3.5em);" i] {
+    background: linear-gradient(180deg, #483620, #0000 3.5em) !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output div[style^="background: linear-gradient(180deg, #aac1e1, #0000 3.5em);" i] {
+    background: linear-gradient(180deg, #314258, #0000 3.5em) !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output div[style^="background: linear-gradient(180deg, #bcaec4, #0000 3.5em);" i] {
+    background: linear-gradient(180deg, #4b4151, #0000 3.5em) !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output :is(td, th)[style^="background:#14b4a3;" i] {
+    background: #06665c !important;
+    color: #f0f0f0 !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output span[style*="background: linear-gradient(90deg, transparent, #00ffc4 50%);" i] {
+    background: linear-gradient(90deg, transparent, #033f2e 50%) !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output :is(td, th)[style*="background:#bdbdbd;" i] {
+    background: #414141 !important;
+    color: #f0f0f0 !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output :is(td, th)[style$="background:#bdbdbd" i],
+  html.skin-theme-clientpref-os .mw-parser-output :is(td, th)[style*="background:#bdbdbd;" i],
+  html.skin-theme-clientpref-os .mw-parser-output div[style*="background: #bdbdbd;" i],
+  html.skin-theme-clientpref-os .mw-parser-output div[style*="background: rgb(189, 189, 189)"] {
+    background: #414141 !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output :is(td, th)[style*="background:#e9d102;" i] {
+    background: #423a02 !important;
+    color: #f0f0f0 !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output :is(td, th)[style*="background:linear-gradient(90deg,#f9e002,#f9a700);" i] {
+    background: linear-gradient(90deg,#3a3400,#5c3b02) !important;
+    color: #f0f0f0 !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output :is(td, th)[style^="background: linear-gradient(90deg,#b2f7ff,#bfb0f9);" i] {
+    background: linear-gradient(90deg,#003439,#44376c) !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output :is(td, th)[style^="background: #747577;" i] {
+    background: #57585a !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output div[style*="background: radial-gradient(#f7ed67de, transparent 60%);" i] {
+    background: radial-gradient(#332f01de, transparent 60%) !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output div[style*="background: radial-gradient(#ffed0078, transparent 60%);" i] {
+    background: radial-gradient(#332f0178, transparent 60%) !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output div[style*="background: radial-gradient(#f7ed67a8, transparent 60%);" i] {
+    background: radial-gradient(#332f01a8, transparent 60%) !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output div[style*="background:#8fa9c1;" i],
+  html.skin-theme-clientpref-os .mw-parser-output div[style*="background: rgb(143, 169, 193)"],
+  html.skin-theme-clientpref-os .mw-parser-output :is(td, th)[style^="background:#8fa9c1;" i] {
+    background: #3a4d5f !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output tr[style^="background:#ffdfdf;" i],
+  html.skin-theme-clientpref-os .mw-parser-output tr[style*="background: rgb(255, 223, 223)"] {
+    background: #3c2828 !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output div[style*="background:#ad7d57;" i],
+  html.skin-theme-clientpref-os .mw-parser-output div[style*="background: rgb(173, 125, 87)"],
+  html.skin-theme-clientpref-os .mw-parser-output :is(td, th)[style^="background:#ad7d57;" i] {
+    background: #744e30 !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output div[style*="background:#de914b;" i],
+  html.skin-theme-clientpref-os .mw-parser-output div[style*="background: rgb(222, 145, 75)"],
+  html.skin-theme-clientpref-os .mw-parser-output :is(td, th)[style^="background:#de914b;" i] {
+    background: #6f3d01 !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output div[style^="background: white;" i],
+  html.skin-theme-clientpref-os .mw-parser-output div[style*="background: white"],
+  html.skin-theme-clientpref-os .mw-parser-output div[style*="background: #fff;" i],
+  html.skin-theme-clientpref-os .mw-parser-output div[style*="background: rgb(255, 255, 255)"] {
+    background: #1a1b1c !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output :is(td, th)[style*="background:linear-gradient(90deg,#fff,#cbcbcb,#fff);" i] {
+    background: linear-gradient(90deg,#1a1b1c,#3b3b3b,#1a1b1c) !important;
+    color: #f0f0f0 !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output div[style*="background: #ba8f27;" i],
+  html.skin-theme-clientpref-os .mw-parser-output div[style*="background: rgb(186, 143, 39)"] {
+    background: #705300 !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output div[style*="background: #fbfbfb;" i],
+  html.skin-theme-clientpref-os .mw-parser-output div[style*="background: rgb(251, 251, 251)"] {
+    background: #232425 !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output :is(td, th)[style^="background:#f2c90b;" i] {
+    background: #473a02 !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output div[style*="background:#19a99d;" i],
+  html.skin-theme-clientpref-os .mw-parser-output div[style*="background: rgb(25, 169, 157)"],
+  html.skin-theme-clientpref-os .mw-parser-output :is(td, th)[style^="background:#19a99d;" i] {
+    background: #05665e !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output div[style*="background:#e251ad;" i],
+  html.skin-theme-clientpref-os .mw-parser-output div[style*="background: rgb(226, 81, 173)"],
+  html.skin-theme-clientpref-os .mw-parser-output :is(td, th)[style^="background:#e251ad;" i] {
+    background: #883468 !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output div[style*="background:#da3780;" i],
+  html.skin-theme-clientpref-os .mw-parser-output div[style*="background: rgb(218, 55, 128)"],
+  html.skin-theme-clientpref-os .mw-parser-output :is(td, th)[style^="background:#da3780;" i] {
+    background: #8e3257 !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output :is(td, th)[style^="background: lightgrey;" i] {
+    background: #383838 !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output span[style*=";color:#5e8505;" i]:not([style*="background" i]),
+  html.skin-theme-clientpref-os .mw-parser-output span[style*=" color:#5e8505;" i]:not([style*="background" i]),
+  html.skin-theme-clientpref-os .mw-parser-output span[style*="; color:#5e8505;" i]:not([style*="background" i]),
+  html.skin-theme-clientpref-os .mw-parser-output sup[style="color:#5e8505" i]:not([style*="background" i]),
+  html.skin-theme-clientpref-os .mw-parser-output sup[style="color:#5e8505;" i]:not([style*="background" i]),
+  html.skin-theme-clientpref-os .mw-parser-output span[style="color:#5e8505;" i] {
+    color: #7fa24a !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output span[style*=";color:red;" i]:not([style*="background" i]),
+  html.skin-theme-clientpref-os .mw-parser-output span[style*=" color:red;" i]:not([style*="background" i]),
+  html.skin-theme-clientpref-os .mw-parser-output span[style*="; color:red;" i]:not([style*="background" i]),
+  html.skin-theme-clientpref-os .mw-parser-output tr[style^="color:red;" i]:not([style*="background" i]) {
+    color: var(--prts-alert-text) !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output :is(td, th)[style*=";color: #384950;" i]:not([style*="background" i]),
+  html.skin-theme-clientpref-os .mw-parser-output :is(td, th)[style*=" color: #384950;" i]:not([style*="background" i]),
+  html.skin-theme-clientpref-os .mw-parser-output :is(td, th)[style*="; color: #384950;" i]:not([style*="background" i]) {
+    color: #8999a0 !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output div[style*=";color: black;" i]:not([style*="background" i]),
+  html.skin-theme-clientpref-os .mw-parser-output div[style*=" color: black;" i]:not([style*="background" i]),
+  html.skin-theme-clientpref-os .mw-parser-output div[style*="; color: black;" i]:not([style*="background" i]) {
+    color: var(--prts-page-text) !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output span[style*=";color:#731e19;" i]:not([style*="background" i]),
+  html.skin-theme-clientpref-os .mw-parser-output span[style*=" color:#731e19;" i]:not([style*="background" i]),
+  html.skin-theme-clientpref-os .mw-parser-output span[style*="; color:#731e19;" i]:not([style*="background" i]) {
+    color: #d18076 !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output div[style$=";color:#f3586c" i]:not([style*="background" i]),
+  html.skin-theme-clientpref-os .mw-parser-output div[style$=" color:#f3586c" i]:not([style*="background" i]),
+  html.skin-theme-clientpref-os .mw-parser-output div[style$="; color:#f3586c" i]:not([style*="background" i]),
+  html.skin-theme-clientpref-os .mw-parser-output div[style*=";color:#f3586c;" i]:not([style*="background" i]),
+  html.skin-theme-clientpref-os .mw-parser-output div[style*=" color:#f3586c;" i]:not([style*="background" i]),
+  html.skin-theme-clientpref-os .mw-parser-output div[style*="; color:#f3586c;" i]:not([style*="background" i]) {
+    color: #ee6c79 !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output span[style="color:#72417d;" i] {
+    color: #b285bc !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output span[style="color:#0e6d71;" i] {
+    color: #5fa1a4 !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output span[style="color:#2958bc;" i] {
+    color: #6895ee !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output span[style="color:#8e2309;" i] {
+    color: #dd7c66 !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output span[style="color:#9b3c35;" i] {
+    color: #d57f75 !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output span[style="color:#751830;" i] {
+    color: #d37d89 !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output span[style="color:#949494;" i] {
+    color: #979797 !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output span[style="color:#b51330;" i] {
+    color: #f06e72 !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output span[style="color:blue;" i] {
+    color: #6594fb !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output span[style="color:darkgreen;" i] {
+    color: #60a45b !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output span[style="color:purple;" i] {
+    color: #d074cd !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output span[style="color:#2356a1;" i] {
+    color: #6996db !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output span[style="color:#9a41e5;" i] {
+    color: #b17de9 !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output span[style="color:#85342d;" i] {
+    color: #cf8379 !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output span[style="color:#6148a3;" i] {
+    color: #9d8bdd !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output span[style="color:#b7301e;" i] {
+    color: #e77360 !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output span[style="color:#1d7767;" i] {
+    color: #5fa293 !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output span[style="color:#7d0022;" i] {
+    color: #dd777d !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output span[style="color:#0c493d;" i] {
+    color: #719f92 !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output span[style="color:grey;" i] {
+    color: #959595 !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output span[style="color:#383637;" i],
+  html.skin-theme-clientpref-os .mw-parser-output span[style="color:#3e3e3e;" i] {
+    color: #f0f0f0 !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output span[style="color:#E66B7B;" i] {
+    color: #df7782 !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output span[style="color:#a53900;" i] {
+    color: #dc7c58 !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output span[style="color:#9a290e;" i] {
+    color: #df7a63 !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output span[style="color:#85171a;" i] {
+    color: #da7971 !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output span[style="color:#575554;" i] {
+    color: #979594 !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output span[style^="color: #008bff;" i]:not([style*="background" i]),
+  html.skin-theme-clientpref-os .mw-parser-output span[style*=" color: #008bff;" i]:not([style*="background" i]) {
+    color: #4397f4 !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output span[style^="color: #002a4e;" i]:not([style*="background" i]),
+  html.skin-theme-clientpref-os .mw-parser-output span[style*=" color: #002a4e;" i]:not([style*="background" i]) {
+    color: #7699be !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output span[style^="color: #281c58;" i]:not([style*="background" i]),
+  html.skin-theme-clientpref-os .mw-parser-output span[style*=" color: #281c58;" i]:not([style*="background" i]) {
+    color: #9490cc !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output span[style^="color: #B52711;" i]:not([style*="background" i]),
+  html.skin-theme-clientpref-os .mw-parser-output span[style*=" color: #B52711;" i]:not([style*="background" i]) {
+    color: #ed745e !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output span[style^="color: #72a;" i]:not([style*="background" i]),
+  html.skin-theme-clientpref-os .mw-parser-output span[style*=" color: #72a;" i]:not([style*="background" i]) {
+    color: #b67ce5 !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output span[style^="color: #2f6f4e;" i]:not([style*="background" i]),
+  html.skin-theme-clientpref-os .mw-parser-output span[style*=" color: #2f6f4e;" i]:not([style*="background" i]) {
+    color: #6ba082 !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output span[style^="color: #8a6f00;" i]:not([style*="background" i]),
+  html.skin-theme-clientpref-os .mw-parser-output span[style*=" color: #8a6f00;" i]:not([style*="background" i]) {
+    color: #ab944c !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output span[style="color:#ac7a55;" i] {
+    color: #ba8e6f !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output span[style="color:#287f81;" i] {
+    color: #5fa2a3 !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output span[style="color:#A40000;" i] {
+    color: #ed7060 !important;
+  }
+
+  html.skin-theme-clientpref-os .mw-parser-output span[style="color:#ff5201;" i] {
+    color: #ed734d !important;
+  }
+
+  html.skin-theme-clientpref-os .end_text.lose {
+    background: #3b2728;
+  }
+
+  html.skin-theme-clientpref-os .end_text.end1 {
+    background: #092c2b;
+  }
+
+  html.skin-theme-clientpref-os .end_text.end2 {
+    background: #235e7f;
+  }
+
+  html.skin-theme-clientpref-os .end_text.end3 {
+    background: #633c00;
+  }
+
+  html.skin-theme-clientpref-os .end_text.end4 {
+    background: #4b4151;
+  }
+}
+/* theme-os:end */
+}}
+{{AKCollapse|showall=yes|class=is7|css=max-width:750px;}}
+{{AKCollapse/title|{{mdi|stairs}} 扩展难度}}
+<div class="AKCollapse-content">
+本次主题依旧继承了进阶式难度等级，每增加1个难度等级都会叠加难度附加条件，同时增加得分倍率，但有以下调整：
+* 初始的0级难度得分改为无负面的±0%，去除辅助增强收藏品；
+* 存在与挑战难度相关的“生灵的溯游”增益，通过强化收藏品、分队等助力探索。
+※关于难度等级的详细信息参见[[#开始探索|开始探索]]一节。
+</div>
+{{AKCollapse/title|{{mdi|apps}} 地图、行动力、追猎}}
+<div class="AKCollapse-content">
+你将孤身进入黑流树海，在这漫无边际的无人区探索。
+
+与以往所有主题采用的线性流程不同，本主题的探索采用'''平面图式地图'''。玩家将从某个初始节点开始，沿通路向四周探索。
+
+由于黑流树海的恶劣环境，所有节点将暂时进入<span style="text-shadow: 0 0 3px black;">'''未知状态'''</span>。
+* {{color|#72417d|'''未知的凶戾'''}}
+: ''继续向前吧，勇气是唯一的依仗。''
+: 此处将发生一场战斗。
+* {{color|#0e6d71|'''未知的诡秘'''}}
+: ''继续向前吧，好奇是最佳的向导。''
+: 此处将发生一场事件。
+你当前可以'''徒步跋涉'''抵达的节点会因为被观测到而变得'''清晰'''，从而显示出它原本的样子。
+* 相对的，如果从当前位置到目标节点之间存在'''未完成'''的节点，该目标节点将无法被观测。<br>'''在这种情况下，你将无法确认它的任何信息。'''
+** 包括战斗节点的战斗关卡名称等必要信息将无法通过任何方式确认。不得已将要进入此类节点时需要慎重考虑编队与技能的携带情况。<br>若进入的未知战斗节点为紧急作战，在作战开始后会在右上角出现弹窗提示“本场战斗为'''{{color|red|紧急作战}}'''”。
+* 同时，部分节点会因为其特殊性质，会{{#var:canseebadge}}从而可被观测。
+但即使是平面地图，黑流树海行动也并非完全自由。你需要通过特定的'''移动方式'''，消耗'''行动力'''才能辗转于不同的事件节点中。
+* 每层初始拥有若干行动力，剩余的行动力在右上角显示。
+* 你的基础移动方式是'''徒步跋涉'''：移动到任何路径连通的节点；路途中每经过1个格点，消耗1点行动力。<br>使用徒步跋涉移动时'''不能越过未完成的节点'''。
+* 为了减少行动力消耗，你可以使用一类'''零件'''——{{color|#2958bc|'''加工品'''}}。
+: 通过点击行动力计数器切换移动方式，或是点击画面底部的零件箱选择加工品'''装载'''后，你的移动距离和目的地将受到限制，但也可以因此'''只需要消耗1点（甚至不需要消耗）行动力'''即可直接抵达目标格点，并'''可越过未完成的节点'''。
+: ※你用当前移动方式可直接抵达的节点会出现一圈白光。
+: ※加工品具有使用次数。次数耗尽后，加工品将因损毁而消失。
+: ※大多数节点会在完成后变为无事件的【林间空地】，而另一部分则可以再次进入（{{#var:repeatbadge}}），此时其名称前方会出现 {{mdi|check-circle|color=#009688}} 标志表示该节点已完成。<br>注意：原地进入可重复进入的节点也需要消耗行动力（1点）。
+
+通常来说，你需要在行动力耗尽前，从本层的'''出口'''离开本层。出口节点分为三种类型：
+* {{color|#90ac34|'''险路尽头'''}}
+: 安全的出口之一。可以取出留存的招募券招募干员、获取一个加工品，并将所有剩余行动力转化为希望后进入下一层。
+* {{color|#cc9409|'''险路小径'''}}
+: 安全的出口之二。可以获取一个较为稀有的加工品，携带剩余行动力到下一层。
+* {{color|#8e2309|'''险路恶敌'''}}
+: 与以往类似的领袖战斗，出现时不再提供其它安全出口。击败后，剩余行动力会被转化为希望，然后进入下一层。
+
+如果在行动力耗尽后仍未能从出口离开本层，黑流树海派出的猎犬将追上你，你将迎战一场决定生死的{{color|#9b3c35|'''追猎'''}}。
+* '''追猎属于“节点外事件”——和“节点”判定相关的效果不会作用于追猎。'''
+* 非{{color|#8e2309|'''【险路恶敌】'''}}层级会出现一个通常追猎战。<br>{{color|#8e2309|'''【险路恶敌】'''}}层级则会出现该{{color|#8e2309|'''【险路恶敌】'''}}的'''特殊版本'''（如果有，否则仍旧为普通版本）。
+* 若你在追猎战中成功存活，你可以继续探索，但：
+** 通常追猎通关时仅会掉落一张招募券，'''没有任何指挥经验、源石锭和收藏品报酬。'''<br>险路恶敌追猎通关时则会正常掉落奖励。
+** 一枚“[[沉沦者的黑流树海/拟造物质编目#探测先锋|探测先锋]]”奖章将会加入你的持有收藏品——它会让你在通过追猎后的下一层初始行动力-1，同时记录你通过的追猎次数，让你在本次探索遭遇的“[[猎犬proto]]”变得更强大。<br>但同时也有部分收藏品效果受到该收藏品的层数加成，或许你可以……？
+
+点击左下角的按钮可以缩放地图和定位当前所在位置。
+
+请善用加工品，合理规划路线。
+</div>
+{{AKCollapse/title|{{mdi|ticket-account}} 招募券留存}}
+<div class="AKCollapse-content">
+除初始招募外，玩家获得招募券时，若暂时不想即时招募，可点击画面右上角的按钮“留存招募券”。
+
+在{{color|#90ac34|'''【险路尽头】'''}}或{{color|#00a1e9|'''【安全的角落】'''}}（点亮【生命游戏】的“血管”节点后）可以将留存的招募券取出招募。
+
+※注意：留存券数初始上限3张，将招募卷取出时不可再次存入。<!--（可因部分效果改变留存上限）-->
+
+※注意：对于招募券包含的随机效果（如随机直升、随机获取干员、临时招募出现状态等），在取出时会重新进行随机判定。
+
+※注意：留存达到上限时，无法继续留存；留存时，亦无法选择替换已留存的券。
+</div>
+{{锚点|零件}}{{AKCollapse/title|{{mdi|eye-settings-outline}} 零件}}
+<div class="AKCollapse-content">
+零件是一类在树海中拾取到的奇特物品，分为三类：
+* {{color|#2958bc|'''加工品'''}}
+: 可被装载，提供特殊的地图移动能力。具有一定使用次数，耗尽后损毁。
+* {{color|#52e1c0|'''自然物'''}}
+: 无法使用，但相较于其他类型的零件，其具有较高的估价，可被卖出换取源石锭。一些条件会改变它的估价。
+: 一部分自然物还拥有对探索产生各种影响的能力。
+* {{color|#95abc2|'''概念体'''}}
+: 携带后可在一定条件下被动激活，提供一次性增益或获取各类资源。<br>有的概念体与加工品一样具有使用次数，耗尽后损毁，也有可以无限次激活的概念体。
+零件主要通过下列方式获取：
+* 战斗完成后大概率掉落
+* 在战斗中花费50部署费用激活【[[丰饶树冢]]】
+* 通过{{color|#90ac34|'''险路尽头'''}}和{{color|#cc9409|'''险路小径'''}}进入下一层时，可以获得1个加工品
+** 在<保密等级·16+>难度下，险路尽头将不会获得加工品
+* 在{{color|#d3a609|'''【秘境行商】'''}}购买零件（陈列数较多）
+* 在{{color|#0c493d|'''【诡意行商】'''}}购买零件（陈列数极少）
+获取的零件会存放在画面底部的'''零件箱'''中。<br>零件箱具有储存上限。当零件箱超载时，{{color|red|'''你将无法行动（包括进入追猎战斗）'''}}。此时你需要整理零件箱（例如丢弃零件等）避免超载。
+* 与以往大多数主题不同，在大多数奖励领取和商店界面，你可以立刻丢弃零件。
+
+所有的零件具有'''估价'''。<br>在行商节点中，你可以出售持有的零件换取源石锭。
+
+此外，还有一种特殊的自然物零件——'''种子'''。<br>种子没有任何直接效果，但可在{{color|#d3a609|'''【秘境行商】'''}}中于机械师的园圃培育。<br>培育完成后会随机出现：
+* 一个非种子的随机零件。
+* 为'''下次<常规探索>'''提供助力的'''襁褓生灵'''。
+
+※所有获得过的零件会收入黑流数据库的“[[沉沦者的黑流树海/引擎配件目录|引擎配件目录]]”。
+
+※关于襁褓生灵，参阅[[沉沦者的黑流树海/黑流数据库#襁褓培育室]]
+</div>
+{{AKCollapse/title|{{mdi|decagram}} <span style{{=}}"background: linear-gradient(90deg, #116b62, #29288b, #751d18); color: white; padding: 0px 5px; border-radius: 2px;border: 1px solid #fff;"><2+></span> 理想域：实托邦（理念·方针）、乌托邦}}
+<div class="AKCollapse-content">
+在<保密等级·2+>难度中，树海“居民”聚集在一起，依照某种被预设的“规律”或“信仰”生活。<br>这种感受被实化，就会在树海中产生一片具有实际效果的'''理想域'''。
+
+理想域分为{{color|#751830|'''实托邦'''}}与{{color|#751830|'''乌托邦'''}}两种类型。
+*{{color|#751830|实托邦}}在进入新一层时概率刷新，且在当前层永久存在，但不会覆盖整张地图。
+**地图中背景有着向外伸展的脉络的节点，即为{{color|#949494|'''理想源'''}}，其会产生一个范围为{{popup/range|x-1}}的实托邦区域。位于其中的节点会带有波雾状的特效，代表其正在受到实托邦的影响。<br>你可以在地图中看到被笼罩的区域边缘。
+**如果你能前往{{color|#949494|理想源}}并'''破坏掉这个节点'''，'''实托邦就会被消除'''。<br>注意：{{color|#949494|理想源}}所在节点必定为{{color|red|紧急作战}}，请务必谨慎行动。
+**在<保密等级·12+>难度，实托邦的影响范围会扩大为{{popup/range|x-3}}。
+**实托邦的核心效果被称为'''理念'''，会在进入节点时生效。随着难度提升，实托邦的理念效果也会逐渐加深。<br>在<保密等级·6+>难度中，实托邦的附加效果“'''方针'''”将会与理念一同出现，其会在经过节点时触发，但不会随难度提升而变化。
+* 通过【误入奇境】进入黑潭时，则会'''固定'''触发覆盖整个地图的{{color|#751830|'''乌托邦'''}}。
+※所有遭遇过的实托邦与乌托邦会收入黑流数据库的“[[沉沦者的黑流树海/黑流数据库#乌托邦幸福论|乌托邦幸福论]]”。
+</div>
+{{AKCollapse/title|{{mdi|grass}} <del>宝箱</del> 恶笼草}}
+<div class="AKCollapse-content">
+在作战节点的战场上会随机出现各种'''恶笼草'''，击破它们将会带来额外的奖励，分为三类：
+* '''恶笼草'''：普通的恶笼草，击破后将额外带来2源石锭的奖励。
+* '''畸变恶笼草'''：受到攻击时会反弹部分伤害。击破后将额外带来5源石锭的奖励。
+* '''箱型恶笼草'''：通常[[恶笼草(装置)|静止不动]]，受到攻击时将会[[恶笼草|行动起来]]。<br>击破后将额外带来10源石锭的奖励，但若是让其进入目标点则会'''偷走'''10源石锭。
+除了上述常见的恶笼草外，本次探索还会出现一种新的宝箱：
+* '''丰饶树冢'''：消耗50点部署费用开启，开启后获得1个随机零件。'''可被敌人击毁。'''
+{{参阅|恶笼草(装置);畸变恶笼草;箱型恶笼草;恶笼草;丰饶树冢|各种宝箱}}
+
+'''关于宝箱的刷新概率'''
+
+黑流树海作战的宝箱刷新实际由两个互不影响的随机点控制，普通和紧急概率相同：
+
+单个随机点概率：
+{| class="wikitable" style="text-align:center;"
+! 结果 !! 权重 !! 概率
+|-
+| 不出现 || 850 / 1040 || 81.73%
+|-
+| 恶笼草 || 105 / 1040 || 10.10%
+|-
+| 畸变恶笼草 || 35 / 1040 || 3.37%
+|-
+| 丰饶树冢 || 35 / 1040 || 3.37%
+|-
+| 箱型恶笼草 || 15 / 1040 || 1.44%
+|-
+| 任意宝箱 || 190 / 1040 || 18.27%
+|}
+
+因此每个关卡：
+{| class="wikitable" style="text-align:center;"
+! 事件 !! 概率
+|-
+| 完全没有宝箱 || 66.80%
+|-
+| 至少1个任意宝箱 || 33.20%
+|-
+| 恰好1个任意宝箱 || 29.86%
+|-
+| 恰好2个任意宝箱 || 3.34%
+|-
+| 至少1个恶笼草 || 19.17%
+|-
+| 至少1个畸变恶笼草 || 6.62%
+|-
+| 至少1个丰饶树冢 || 6.62%
+|-
+| 至少1个箱型恶笼草 || 2.86%
+|}
+</div>
+{{AKCollapse/title|{{mdi|account-clock}} 应急雇佣}}
+<div class="AKCollapse-content">
+有时候若是无法招募干员但存在急需人力的情况，可以考虑'''应急雇佣'''干员临时加入作战。
+* 干员通过应急雇佣加入时会带有{{color|#cfbd38|金色{{mdi|account-clock}}}}标志。
+* 应急雇佣干员仅可用于一次作战。一旦其编入队伍并完成作战，该干员将离开队伍，直到下次被招募或应急雇佣。
+: 编队后开始行动时，你需要进行二次确认。
+* 当干员以应急雇佣状态加入时，其将无法被重复招募（包括“转正”），也无法在先行一步中被选择。
+* 应急雇佣干员在离开队伍前视为被拥有，可以解锁分队。
+通常你需要前往【应急助力】节点进行应急雇佣。参见[[#应急助力|节点：应急助力]]。
+</div>
+{{AKCollapse/title|{{mdi|ghost}} 空值体}}
+<div class="AKCollapse-content">
+[[空值体|一种特殊的生命形态。]]
+
+它们似乎想要成为“居民”，因此'''在出场时会伪装成一个我们曾见到过的敌方单位，并拥有该单位的所有能力'''。
+
+但它们的缺陷使得它们的'''模型上具有噪声特效'''，并且'''一旦受到伤害就会立刻显露真身'''。
+* 为便于参考，站内关卡页面的'''空值体'''记作：'''空值体(伪装体名称)'''。
+* 因为在被识破前它们“拥有该单位的所有能力”，因此只要不去伤害它们，就会……？
+</div>
+{{AKCollapse/title|{{mdi|square-rounded-badge}} 节点标记}}
+<div class="AKCollapse-content">
+各类节点可能因为某些效果被赋予'''节点标记'''，使其处于不同的特殊效果，甚至可以临时改变节点事件。
+* 点击该节点查看信息时，可在节点名称左侧点击标记查看该节点被赋予的标记列表。
+* 当一个节点被赋予多个节点标记时，效果可能会互相覆盖，但外观上只会显示一个标记，请注意查看标记列表。
+* 与节点不同，标记的立即揭示与否与被赋予的节点的可观测状态/初始揭示无关（通常也需要被观测到才会揭示标记）。
+{{参阅|沉沦者的黑流树海/黑流数据库#标记绘图集录|各类可能出现的节点标记}}
+</div>
+{{AKCollapse/title|<span style{{=}}"background: linear-gradient(90deg, #116b62, #29288b, #751d18);color: #fff;padding: 0px 5px;border-radius: 2px;">UPDATE</span> '''其他新增与调整'''}}
+<div class="AKCollapse-content">
+* '''招募和进阶干员需求的希望'''
+:{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;white-space:normal"
+|-
+! 干员稀有度 !! 招募消耗 !! 进阶消耗
+|-
+| ★ || 0 || —
+|-
+| ★★ || 0 || —
+|-
+| ★★★ || 0 || —
+|-
+| ★★★★ || 0 || 1
+|-
+| ★★★★★ || 2 || 1
+|-
+| ★★★★★★ || 6 || 3
+|-
+|colspan=3|※所有的临时招募干员招募时不消耗希望，进阶消耗同上。
+|}
+* 增加了新的探索分队，并调整了部分原有探索分队的效果。
+* 新增新的节点，一些节点也存在调整，详见[[#事件节点|事件节点]]一节。
+* 前瞻性投资系统更新：不同主题中前瞻性投资系统的余额不互通，投资奖赏变化。
+* 在本主题中，目标生命值仍然存在上限，且不会超过上限；探索中能获得消耗性的“护盾值”避免目标生命值降低。指挥等级提升将额外提升目标生命上限。<br>提升/降低生命值上限会获得/扣除等量的目标生命值（扣除生命值上限时，目标生命值不会低于1），单纯获得目标生命值将会受到上限制约。
+* 即使奖励里程碑【源流堆栈】等级达到当前上限，探索仍然能够获得能力提升道具【演化算子】。
+* 能力提升系统【生命游戏】的加成对本主题的所有模式生效。
+<hr style="width:50%;">
+* 出现可以脱离“节点”单位触发的“'''节点外事件'''”：其触发和一般遭遇到的作战或事件类似，但不视为“进入了当前或某个节点”。
+* 部分收藏品的效果生效范围'''绑定干员'''：仅有这部分干员可以享受该收藏品的效果。
+</div>
+</div>
+
+==活动专属道具==
+* '''奖励道具：'''源流样本
+: 收集源流样本以提升【[[#源流堆栈|源流堆栈]]】等级，获取奖励。<br>※【源流堆栈】等级达到最大值时，将无法获得源流样本。
+* '''能力提升道具：'''<div style="background: #2b2b2b; border-radius: 4px; display: inline-block;">[[文件:集成战略 7 道具 演化算子.png|40px|link=演化算子]]</div>[[演化算子]]
+: 在【[[#生命游戏|生命游戏]]】中消耗以获得永久性探索增益。<br>'''在【常规行动】中'''，'''每累计获得200点得分'''可获得1点演化算子，即使【源流堆栈】等级达到最大值也依旧可获取。<br>※因此演化算子的获取效率仅受难度倍率影响。<br>※未获得演化算子的得分将被保留到后续探索累加。<br>※当获得的演化算子能够升级所有【生命游戏】节点时，将不再可获得演化算子。
+
+==主题更新记录==
+{| class="wikitable mw-collapsible mw-collapsed" style="display:table;text-align:center;width:min(900px, 100%);white-space:normal;"
+! colspan=3 | 主题更新记录
+|-
+! style="width:6em;" |更新时间
+! style="width:12em;"| 大型更新内容
+!详细信息
+|-
+| 2026/11/1 || ——
+| 开放[[#源流堆栈|源流堆栈]]等级至Lv??，包含稀有奖励：黑流印象家具收藏包二、模组数据整合箱<br>开放实践者列表“[[沉沦者的黑流树海/实践者列表#2026年11月_？？？|？？？]]”——[[？？？]]
+|-
+| 2026/10/16 || 内容拓展Ⅰ：旧日重燃
+| 追加1个游戏难度<br>追加？？个主题关卡<br>追加1个游戏结局<br>新增2个分队<br>新增？？个事件<br>新增12个收藏品<br>新增16个生命游戏节点<br>形艺特辑“黑流树海主题套组”开放
+|-
+| 2026/10/1 || ——
+| 开放[[#源流堆栈|源流堆栈]]等级至Lv95，包含稀有奖励：承曦格雷伊形象时装“千尺俯瞰”<br>开放实践者列表“[[沉沦者的黑流树海/实践者列表#2026年10月_南方往事|南方往事]]”——[[谬因]]
+|-
+| 2026/9/1 || ——
+| 开放[[#源流堆栈|源流堆栈]]等级至Lv80，包含稀有奖励：黑流印象家具收藏包一、界面主题“幽脉”<br>开放实践者列表“[[沉沦者的黑流树海/实践者列表#2026年9月_未冷的|未冷的]]”——[[佩德洛]]
+|-
+| 2026/8/1 || ——
+| 开放[[#源流堆栈|源流堆栈]]等级至Lv65，包含稀有奖励：高级资深干员技巧集<br>开放实践者列表“[[沉沦者的黑流树海/实践者列表#2026年8月_向前走？|向前走？]]”——[[杜宾]]
+|-
+| 2026/7/17 || 正式上线
+| 开放[[#源流堆栈|源流堆栈]]等级至Lv50，包含稀有奖励：干员[[机械师]]及其信物<br>开放实践者列表“[[沉沦者的黑流树海/实践者列表#2026年7月 无畏|无畏]]”——[[米格鲁]]<br>新增87个主题关卡：普通作战31个，追猎关卡10个（含3个中层Boss关卡升级版，1个最终Boss关卡升级版）<br>狭路相逢关卡2个<br>险路恶敌6个<br>鸭爵与雇员5个，特殊挑战10个<br>共3个游戏结局<br>新增？？个不期而遇事件、1个误入奇境事件<br>新增239个收藏品
+|}
+
+==开始探索==
+开始探索前，你需要选择一个游戏模式，它将决定最最基础的游玩方式。
+{{cbox2|lv=3|text=无论使用何种游戏模式游玩，开始探索后都会有一分钟的“初始化时间”，在此期间内结束探索无法立刻开始下一次探索。}}
+=== 常规行动 ===
+{{UnlockMobileImg|.blackflow-init-values}}
+{| class="wikitable blackflow-init-values prts-table-dark" style="display:table; width:min(500px, 100%); table-layout: fixed; text-align: center; background:#2f2f2f; --color-base:white;"
+! style="background: #000;" colspan=4 | {{color|white|初始状态值}}
+|-
+! style="background: #000;" | [[文件:任务_印章.png|x12px|link=]] 目标生命值
+| {{color|dodgerblue|8}}
+! style="background: #000;" | [[文件:图标 希望.png|x12px|link=]] 希望
+| {{color|gold|6}}
+|-
+! style="background: #000;" | [[文件:图标 源石锭.png|x12px|link=]] 源石锭
+| {{color|mediumspringgreen|6}}
+! style="background: #000;" | [[文件:集成战略 招募标签图标 红临时.png|x12px|link=]] 可携带干员数
+| {{color|white|6}}
+|-
+! style="background: #000;" | {{mdi|ticket-account|color=lightskyblue}} 招募券留存
+| 上限{{color|lightskyblue|3}}
+! style="background: #000;" | {{mdi|tools|color=#73e5c2}} 零件箱容量
+|{{color|#73e5c2|10}}
+|}
+标准的集成战略游戏模式。在此模式下，还需要选择一个'''游戏难度'''。
+
+本主题的难度为进阶式扩展难度。玩家将可在重重条件的制约下逐级挑战增加的难度，并以此获得追加的探索得分。
+
+从<保密等级>难度开始，通关一个难度等级即可解锁其下一级的难度等级。
+
+{| class="wikitable" style="text-align:center;white-space:normal"
+! colspan=7 | 游戏难度
+|-
+! 
+! 难度
+! 等级 {{popup|内容=按叠加方向叠加后的'''最终值'''<br>加粗等级为触发调查者增益的等级阈值，详见后述}}
+! 追加条件 {{popup|内容=按叠加方向'''逐个应用生效'''；此类条件中，同类百分比提升效果作叠乘计算，其余为叠加<br>此处移除了调查者增益信息，详见后述}}
+! 得分效率 {{popup|内容=按叠加方向叠加后的'''最终值'''}}
+! 敌人难度 {{popup|内容=每进入一个新的区域时（含第1层，不含黑潭），敌方单位的'''攻击力'''和'''生命值{{color|red|提升至（1+敌人难度%）倍}}'''，与追加条件、收藏品、紧急难度加成等作叠乘计算。}}
+! 实托邦景象 {{popup|内容=是否触发'''实托邦'''及'''实托邦'''的效果等级}}
+|- style="background:#cced81;color:#132229;"
+| style="vertical-align:top;" | {{mdi|rhombus}}
+| style="text-align:left;" | '''保密等级'''<br><span style="font-size:0.8em;">''沉沦于黑流，浮起幻梦或骸骨''</span>
+| 0
+| style="text-align:left;" | 初始生命值上限更高，失败时下次探索获得收藏品【[[沉沦者的黑流树海/拟造物质编目#特勤任务影像|特勤任务影像]]】<br>{{修正|所有敌人最大生命值-40%，攻击力-30%（仅限该难度）|原因=7|name=注}}
+| ±0%
+| ——
+| 无
+|- style="background:#cced81;color:#132229;"
+| {{mdi|arrow-down}}
+| style="text-align:left;opacity:0.94" | '''保密等级·1'''
+| 1
+| style="text-align:left;" | 初始目标生命上限-2<br>{{修正|所有敌人最大生命值-20%，攻击力-20%（仅限该难度）|原因=7|name=注}}
+| +5%
+| ——
+| ~
+|- style="background:#cced81;color:#132229;"
+|
+| style="text-align:left;opacity:0.88" | '''保密等级·2'''
+| 2
+| style="text-align:left;" | [[沉沦者的黑流树海/黑流数据库#实托邦·理念|实托邦]]将会在区域中生成{{popup|内容=生成概率：<br>1层0%、2层'''10%'''、3层'''15%'''、4-5层'''20%'''、6层0%}}<br>{{修正|所有敌人最大生命值-15%，攻击力-15%（仅限该难度）|原因=7|name=注}}
+| +10%
+| ——
+| 早期
+|- style="background:linear-gradient(90deg, #cced81, #97bcc5);color:#132229;"
+|
+| style="text-align:left;opacity:0.82" | '''保密等级·3'''
+| <span style="color: #e8f6ff; text-shadow: -2px -2px 3px #6f8f57, 0 -2px 3px #6f8f57, 2px -2px 3px #6f8f57, -2px 0px 3px #6f8f57, 2px 0px 3px #6f8f57, -2px 2px 3px #6f8f57, 0px 2px 3px #6f8f57, 2px 2px 3px #6f8f57;
+">'''3'''</span>
+| style="text-align:left;" | {{color|#b51330|'''1个'''}}【险路尽头】节点不再提前揭示<br>{{修正|所有敌人最大生命值-10%，攻击力-10%（仅限该难度）|原因=7|name=注}}
+| +15%
+| ——
+| ~
+|- style="background:#cced81;color:#132229;"
+|
+| style="text-align:left;opacity:0.76" | '''保密等级·4'''
+| 4
+| style="text-align:left;" | 出现【“居民”据点】节点，失败后不再获得收藏品【[[沉沦者的黑流树海/拟造物质编目#特勤任务影像|特勤任务影像]]】
+| +20%
+| ——
+| ~
+|- style="background:#cced81;color:#132229;"
+|
+| style="text-align:left;opacity:0.70" | '''保密等级·5'''
+| 5
+| style="text-align:left;" | 所有敌人最大生命+30%
+| +25%
+| +1
+| ~
+|- style="background:linear-gradient(90deg, #cced81, #97bcc5);color:#132229;"
+|
+| style="text-align:left;opacity:0.64" | '''保密等级·6'''
+| <span style="color: #e8f6ff; text-shadow: -2px -2px 3px #6f8f57, 0 -2px 3px #6f8f57, 2px -2px 3px #6f8f57, -2px 0px 3px #6f8f57, 2px 0px 3px #6f8f57, -2px 2px 3px #6f8f57, 0px 2px 3px #6f8f57, 2px 2px 3px #6f8f57;
+">'''6'''</span>
+| style="text-align:left;" | <span style="opacity: 0.5;">（实托邦的效果提升至中期）</span><br>实托邦将会更频繁地生成{{popup|内容=生成概率：<br>1层'''10%'''、2层'''20%'''、3-6层'''30%'''}}<br>并将添加[[沉沦者的黑流树海/黑流数据库#实托邦·方针|实托邦·方针]]的效果
+| +30%
+| +2
+| 中期
+|- style="background:#cced81;color:#132229;"
+|
+| style="text-align:left;opacity:0.58" | '''保密等级·7'''
+| 7
+| style="text-align:left;" | 零件箱的初始容量-2
+| +35%
+| +3
+| ~
+|- style="background:#cced81;color:#132229;"
+|
+| style="text-align:left;opacity:0.52" | '''保密等级·8'''
+| 8
+| style="text-align:left;" | 精英及领袖敌人攻击力+15%
+| +40%
+| +5
+| ~
+|- style="background:linear-gradient(90deg, #cced81, #97bcc5);color:#132229;"
+|
+| style="text-align:left;opacity:0.46" | '''保密等级·9'''
+| <span style="color: #e8f6ff; text-shadow: -2px -2px 3px #6f8f57, 0 -2px 3px #6f8f57, 2px -2px 3px #6f8f57, -2px 0px 3px #6f8f57, 2px 0px 3px #6f8f57, -2px 2px 3px #6f8f57, 0px 2px 3px #6f8f57, 2px 2px 3px #6f8f57;
+">'''9'''</span>
+| style="text-align:left;" | 进入下一区域时损失10%的源石锭
+| +45%
+| +6
+| ~
+|- style="background:#cced81;color:#132229;"
+|
+| style="text-align:left;opacity:0.40" | '''保密等级·10'''
+| 10
+| style="text-align:left;" | 可同时部署人数-1<br>初始目标生命上限-2
+| +50%
+| +7
+| ~
+|- style="background:linear-gradient(180deg, #cced81, #790c20); color:white;"
+| {{mdi|alert}}
+| colspan=6 | {{mdi|chevron-down}} '''—— 以下难度较大，请谨慎选择 ——''' {{mdi|chevron-down}}
+|- style="background:#790c20;color:#fff;"
+|
+| style="text-align:left;" | '''保密等级·11'''
+| 11
+| style="text-align:left;" | 领袖敌人受到的伤害降低20％
+| +50%
+| +8
+| ~
+|- style="background:#790c20;color:#fff;"
+|
+| style="text-align:left;opacity:0.81" | '''保密等级·12'''
+| 12
+| style="text-align:left;" | <span style="opacity: 0.5;">（实托邦的效果提升至晚期）</span><br>单个实托邦影响的范围扩大{{popup/range|x-3}}<br>{{修正|{{color|red|'''实托邦生成的概率进一步提升'''}}|原因=7|name=注}}{{popup|内容=生成概率：<br>1层'''10%'''、2层'''20%'''、3-5层'''40%'''、6层'''30%'''}}
+| +50%
+| +10
+| 晚期
+|- style="background:#790c20;color:#fff;"
+|
+| style="text-align:left;opacity:0.57;vertical-align:middle;" | '''保密等级·13'''
+| 13
+| style="text-align:left;" | 非初始招募五星干员的希望+1<br>“[[玻利瓦尔，症结之核|{{color|cyan|玻利瓦尔，症结之核}}]]”的防御力提升{{color|yellow|'''至150%'''}}<br>“未熄之地”额外造成{{color|yellow|'''攻击力10%的'''}}灼燃损伤 {{popup|内容=[[玻利瓦尔，症结之核]]通过【未熄之地dot】输出伤害时，再造成攻击力10%的灼燃损伤}}
+| +50%
+| +12
+| ~
+|- style="background:#790c20;color:#fff;"
+|
+| style="text-align:left;opacity:0.33;vertical-align:middle;" | '''保密等级·14'''
+| 14
+| style="text-align:left;" | “[[猎犬proto|{{color|cyan|猎犬proto}}]]”进入目标点后行动力-1<br>“[[源阶方|{{color|cyan|源阶方}}]]”的最大生命值提升{{color|yellow|'''至200%'''}}，激活后全场我方每秒流失{{color|yellow|'''100点'''}}生命
+| +50%
+| +16
+| ~
+|- style="background:#790c20;color:#fff;"
+|
+| style="text-align:left;opacity:0.09;vertical-align:middle;" | '''保密等级·15'''
+| 15
+| style="text-align:left;" | 非初始招募六星干员的希望+1<br>“[[猎犬proto|{{color|cyan|猎犬proto}}]]”的最大生命值提升{{color|yellow|'''至150%'''}}<br>且攻击时会为“[[卡德霍，黑流之源|{{color|cyan|卡德霍，黑流之源}}]]”{{修正|和[[痛楚化身|{{color|bg＝gray|痛楚化身}}]]|原因=7|name=注}}回复{{color|yellow|'''1%最大'''}}生命
+| +50%
+| +20
+| ~
+|- style="background:linear-gradient(180deg, #790c20, #790c20); color:white;"
+| {{mdi|alert}}
+| colspan=6 | {{mdi|chevron-down}} '''—— 【内容拓展·I】新增 ——''' {{mdi|chevron-down}}<br>'''{{color|#ff9090|以下难度极大，请谨慎选择}}'''
+|- style="background:#790c20;color:#fff;"
+|
+| style="text-align:left;vertical-align:middle;" | {{color|#ff6464|'''保密等级·16'''}}
+| 16
+| style="text-align:left;" | 险路尽头不再获得加工品，秘境行商{{修正|和诡意行商|原因=1|name=注2}}刷新价格+4
+| +50%
+| +25
+| ~
+|}
+<references/>
+在本主题中，当玩家挑战特定难度时，还会获得不同的调查者增益：
+* '''多元化展现'''
+: 当玩家挑战3~5、6~8、9或以上难度等级时，【[[沉沦者的黑流树海/拟造物质编目#No.？？？ 多元奇物|多元奇物]]】类别收藏品的效果将会从结构化分别获得'''半结构化'''、'''非结构化'''和'''混沌化'''强化。
+* '''生灵的溯游'''
+: 当玩家挑战3或以上难度等级时，若已在【生命游戏】中点亮了对应节点，将会自动生效对应增益：
+:* 难度等级在3或以上时，<分裂>生效；
+:* 难度等级在6或以上时，<卵生>生效；
+:* 难度等级在9或以上时，<胎生>生效。
+: 关于这些节点的信息请参阅“[[#生命游戏|生命游戏]]”一节。
+: 选择难度并开始后将位于'''浅文明之地'''并开始探索准备阶段。此阶段放弃探索将无法结算和获取奖励。
+
+'''1. 选择分队'''
+
+选择具有全局效果的分队。
+
+※本次主题新增若干分队，之前的分队效果亦有所调整
+
+※部分分队可在【[[#生命游戏|生命游戏]]】中点亮节点以解锁和提升效果，在此处以{{color|#5e8505|'''绿字'''}}表示，其中：
+* 序号表示任意难度均可生效的升级效果；升级效果按①→②的顺序叠加或提升。
+* {{color|#5e8505|'''<X+>'''}}表示需要至少X难度等级才会生效的升级效果，对应效果会以<span style="text-decoration:underline dotted #5e8505 2px;color:#5e8505;">点状下划线</span>提示。
+{{#vardefine:newbadge|<span style="background:linear-gradient(90deg, #116b62, #29288b, #751d18); color: white; padding: 0px 5px; border-radius: 2px;">NEW</span>}}
+{| class="wikitable" style="text-align:center;white-space:normal"
+|-
+! 分队 !! 效果 !! 解锁条件
+|-
+|style="background-color:#212121;color:white;"|[[文件:集成战略 分队 37.png|50px|link=]]<br>{{#var:newbadge}} 本源研修分队
+|招募和进阶4星以上【<span class="plainlinks">[https://prts.wiki/w/%E5%B9%B2%E5%91%98%E4%B8%80%E8%A7%88#?subProfession=1-%E6%9C%AC%E6%BA%90%E6%9C%AF%E5%B8%88 本源术师]<span>】【<span class="plainlinks">[https://prts.wiki/w/%E5%B9%B2%E5%91%98%E4%B8%80%E8%A7%88#?subProfession=1-%E6%9C%AC%E6%BA%90%E9%93%81%E5%8D%AB 本源铁卫]<span>】【<span class="plainlinks">[https://prts.wiki/w/%E5%B9%B2%E5%91%98%E4%B8%80%E8%A7%88#?subProfession=1-%E6%9C%AC%E6%BA%90%E8%BF%91%E5%8D%AB 本源近卫]<span>】【<span class="plainlinks">[https://prts.wiki/w/%E5%B9%B2%E5%91%98%E4%B8%80%E8%A7%88#?subProfession=1-%E5%B7%AB%E5%BD%B9 巫役]<span>】干员时希望降低2点<br>并初始携带【[[沉沦者的黑流树海/拟造物质编目#河谷祭祈|河谷祭祈]]】|| ''初始解锁''
+|-
+|style="background-color:#212121;color:white;"|[[文件:集成战略 分队 38.png|50px|link=]]<br>{{#var:newbadge}} 文明开化分队
+|消除实托邦中的理想源后获得2点行动力和1{{color|#5e8505|''' ① {{mdi|arrow-right}} 2,②{{mdi|arrow-right}} 4'''}}个随机收藏品，'''{{color|#5e8505| ① 不受[[沉沦者的黑流树海/黑流数据库#实托邦·方针|实托邦·方针]]影响,当通过}}{{color|#9b3c35|追猎}}{{color|#5e8505|进入下一区域时，触发}}{{color|#751830|实托邦}}{{color|#5e8505|的概率增加}}''' {{popup|内容=生成概率：<br>1层'''10%'''、2层约'''75%'''、3-6层约'''99%'''}}|| 生命游戏中解锁【羽毛】
+|-
+|style="background-color:#212121;color:white;"|[[文件:集成战略 分队 39.png|50px|link=]]<br>{{#var:newbadge}} 开拓者分队
+|{{color|#5e8505|''' ① 初始携带1个②（稀有的）加工品'''}}，进入新的区域时获得1个随机加工品或概念体，{{color|#5e8505|''' 初始携带<[[沉沦者的黑流树海/引擎配件目录#旅行绒|旅行绒]]>'''}}|| 生命游戏中解锁【蹄】
+|-
+|style="background-color:#212121;color:white;"|[[文件:集成战略 分队 40.png|50px|link=]]<br>{{#var:newbadge}} 多边贸易分队
+|零件箱容量+2{{color|#5e8505|''' ① {{mdi|arrow-right}} +4'''}}，在同一个行商节点中卖出3个零件后获得8源石锭<br>{{color|#5e8505|''' ① 每次进入行商节点时获得1个<[[沉沦者的黑流树海/引擎配件目录#枯苔藓球|枯苔藓球]]>'''}};{{color|#5e8505|''' ② 初始携带3个<[[沉沦者的黑流树海/引擎配件目录#枯苔藓球|枯苔藓球]]>'''}}|| 生命游戏中解锁【鳃】
+|-
+|style="background-color:#212121;color:white;"|[[文件:集成战略 分队 41.png|50px|link=]]<br>{{#var:newbadge}} 地质调查分队
+|{{修正|初始携带【[[沉沦者的黑流树海/拟造物质编目#黑流树海笔记|黑流树海笔记]]】|原因=关键用语未统一且描述与游戏实际表现不符合}}<br>{{color|darkgrey|可通过探访不同类型的节点，提升战斗后获得收藏品的概率}}|| ''初始解锁''
+|-
+|style="background-color:#212121;color:white;"|[[文件:集成战略 分队 1.png|50px|link=]]<br>指挥分队
+|目标生命上限+2，每次战斗结束后额外回复1目标生命<br><span style="text-decoration:underline dotted #5e8505 2px;color:#5e8505;">每次战斗结束后若护盾小于5点，额外获得1点护盾</span><sup style="color:#5e8505">'''<3+>'''</sup>|| ''初始解锁''
+|-
+|style="background-color:#212121;color:white;"|[[文件:集成战略 分队 2.png|50px|link=]]<br>特勤分队
+|可携带干员+2，可同时部署人数+2<br>初始招募五名罗德岛预备干员<span style="text-decoration:underline dotted #5e8505 2px;color:#5e8505;">和{{:集成战略/招募标签|临时招募|color=blue|icon=蓝临时}}[[机械师|机械师]]</span><sup style="color:#5e8505">'''<精2机械师解锁>'''</sup>|| ''初始解锁''
+|-
+|style="background-color:#212121;color:white;"|[[文件:集成战略 分队 3.png|50px|link=]]<br>后勤分队
+|初始源石锭+20，初始希望+2<br><span style="text-decoration:underline dotted #5e8505 2px;color:#5e8505;">初始携带<[[沉沦者的黑流树海/引擎配件目录#多生苔藓|多生苔藓]]></span><sup style="color:#5e8505">'''<6+>'''</sup>|| ''初始解锁''
+|-
+|style="background-color:#212121;color:white;"|[[文件:集成战略 分队 4.png|50px|link=]]<br>矛头分队
+|初始目标生命值变为1，所有我方单位的攻击力+15%，防御力+15%，生命值+15%<br><span style="text-decoration:underline dotted #5e8505 2px;color:#5e8505;">初始携带【[[沉沦者的黑流树海/拟造物质编目#233|时光之末]]】</span><sup style="color:#5e8505">'''<9+>'''</sup>|| ''初始解锁''
+|-
+|style="background-color:#212121;color:white;"|[[文件:集成战略 分队 5.png|50px|link=]]<br>突击战术分队
+|招募和进阶4星以上的【近卫】【先锋】干员时希望降低2点和1点，<br>{{修正|招募的第一个该职业干员必定|原文=首次招募时|原因=8|name=注}}为直升状态{{popup|内容=执行初始招募和探索中通过招募券招募时，若招募列表中存在对应职业的干员，则触发【职业全员直升】：选择所有持有且满足条件的干员共99999名，其中每名干员独立判定，各有100%的概率直升。<br>在触发【职业全员直升】的状态下，招募（不包括进阶）非助战，且非临时招募的4★或更高稀有度的对应职业干员后，后续招募不再触发【职业全员直升】（即“完成首次招募”从而被消耗）。<br>'''※本质上仍然是随机直升判定，故直升对象不包括临时招募和助战招募的干员'''<br>※所有目标职业共享消耗状态<br>※若招募券自身存在直升效果，则这些效果将会互相叠加（例如【前线统合资深招募券】会在触发【近锋职业全员直升】的同时依旧判定重装与特种职业干员的随机直升）}}，并更容易购买到相应职业的招募券 || 拥有合计至少5名先锋或近卫干员完成游戏结局
+|-
+|style="background-color:#212121;color:white;"|[[文件:集成战略 分队 6.png|50px|link=]]<br>堡垒战术分队
+|招募和进阶4星以上的【重装】【辅助】干员时希望降低2点和1点，<br>{{修正|招募的第一个该职业干员必定|原文=首次招募时|原因=8|name=注}}为直升状态，并更容易购买到相应职业的招募券 || 拥有合计至少5名重装或辅助干员完成游戏结局
+|-
+|style="background-color:#212121;color:white;"|[[文件:集成战略 分队 7.png|50px|link=]]<br>远程战术分队
+|招募和进阶4星以上的【医疗】【狙击】干员时希望降低2点和1点，<br>{{修正|招募的第一个该职业干员必定|原文=首次招募时|原因=8|name=注}}为直升状态，并更容易购买到相应职业的招募券 || 拥有合计至少5名医疗或狙击干员完成游戏结局
+|-
+|style="background-color:#212121;color:white;"|[[文件:集成战略 分队 8.png|50px|link=]]<br>破坏战术分队
+|招募和进阶4星以上的【术师】【特种】干员时希望降低2点和1点，<br>{{修正|招募的第一个该职业干员必定|原文=首次招募时|原因=8|name=注}}为直升状态，并更容易购买到相应职业的招募券 || 拥有合计至少5名术师或特种干员完成游戏结局
+|-
+|style="background-color:#212121;color:white;"|[[文件:集成战略 分队 26.png|50px|link=]]<br>高台突破分队
+| 招募4星及以上【术师】【狙击】【医疗】【辅助】干员时希望降低2点
+| 拥有合计至少4名术师、狙击、医疗或辅助干员完成游戏结局
+|-
+|style="background-color:#212121;color:white;"|[[文件:集成战略 分队 27.png|50px|link=]]<br>地面突破分队
+| 招募4星及以上【先锋】【近卫】【重装】【特种】干员时希望降低2点
+| 拥有合计至少4名先锋、近卫、重装或特种干员完成游戏结局
+|-
+|colspan=3 style="background: linear-gradient(270deg,#ff54d3,transparent 2em);"|'''【内容拓展·Ⅰ】追加分队'''
+|-
+|style="background: linear-gradient(135deg, #ff54d3, #212121 20%);color:white;"|[[文件:集成战略 分队 42.png|50px|link=]]<br>{{#var:newbadge}} 团结阵线分队
+|应急助力节点刷新时不再消耗源石锭，初始携带收藏品【[[沉沦者的黑流树海/拟造物质编目#似曾相识棋盒|似曾相识棋盒]]】<br>{{color|darkgrey|可同时部署人数+1，进入下一区域时，获得一定数量的应急干员}}||  【内容拓展 · 一】后，<br>完成一次游戏结局
+|-
+|style="background: linear-gradient(135deg, #ff54d3, #212121 20%);color:white;"|[[文件:集成战略 分队 43.png|50px|link=]]<br>{{#var:newbadge}} 踏足遍历分队
+|使用加工品移动后随机揭露3处节点的视野，初始携带收藏品[[沉沦者的黑流树海/拟造物质编目#《去踏足》|《去踏足》]]<br>{{color|darkgrey|若本区域节点的视野全部揭露，立刻获得一定数量的源石锭}}||  【内容拓展 · 一】后，<br>完成一次游戏结局
+|-
+|}
+<references/>
+当玩家使用某一分队通关后，在分队选择界面该分队的左上角会显示该次通关结局的“结局勋章”。
+
+同一结局勋章的标记图案样式相同，但会因通关过的最高难度显示不同的视觉效果：
+{|class="wikitable logo" style="display:table;white-space:normal;width:min(500px, 100%);"
+!0~3||4~9||10~11||12+||结局条件
+|-
+|style="background:#212121;width:30px;text-align:center;"|[[文件:集成战略 7 complete 1.png|25px|link=]]
+|style="background:#212121;width:30px;text-align:center;"|[[文件:集成战略 7 complete 1-2.png|25px|link=]]
+|style="background:#212121;width:30px;text-align:center;"|[[文件:集成战略 7 complete 1-3.png|25px|link=]]
+|style="background:#212121;width:30px;text-align:center;"|[[文件:集成战略 7 complete 1-4.png|25px|link=]]
+|玩家使用该分队达成了 '''强制重启''' 结局
+|-
+|style="background:#212121;width:30px;text-align:center;"|[[文件:集成战略 7 complete 2.png|25px|link=]]
+|style="background:#212121;width:30px;text-align:center;"|[[文件:集成战略 7 complete 2-2.png|25px|link=]]
+|style="background:#212121;width:30px;text-align:center;"|[[文件:集成战略 7 complete 2-3.png|25px|link=]]
+|style="background:#212121;width:30px;text-align:center;"|[[文件:集成战略 7 complete 2-4.png|25px|link=]]
+|玩家使用该分队达成了 '''维度重构''' 结局
+|-
+|style="background:#212121;width:30px;text-align:center;"|[[文件:集成战略 7 complete 3.png|25px|link=]]
+|style="background:#212121;width:30px;text-align:center;"|[[文件:集成战略 7 complete 3-2.png|25px|link=]]
+|style="background:#212121;width:30px;text-align:center;"|[[文件:集成战略 7 complete 3-3.png|25px|link=]]
+|style="background:#212121;width:30px;text-align:center;"|[[文件:集成战略 7 complete 3-4.png|25px|link=]]
+|玩家使用该分队达成了 '''纠缠，调和''' 结局
+|-
+|style="background:#212121;width:30px;text-align:center;"|[[文件:集成战略 7 complete 4.png|25px|link=]]
+|style="background:#212121;width:30px;text-align:center;"|[[文件:集成战略 7 complete 4-2.png|25px|link=]]
+|style="background:#212121;width:30px;text-align:center;"|[[文件:集成战略 7 complete 4-3.png|25px|link=]]
+|style="background:#212121;width:30px;text-align:center;"|[[文件:集成战略 7 complete 4-4.png|25px|link=]]
+|玩家使用该分队达成了 '''旧日重燃''' 结局
+|}
+若玩家使用同一分队在<保密等级·10+>难度完成了至少三个结局，则还会附加特殊边框。
+
+'''1.5. 收获培育结果'''
+
+若上一次行动中培育出了襁褓生灵，则它们将在这个阶段开始生效。
+{{参阅|沉沦者的黑流树海/黑流数据库#襁褓培育室|襁褓生灵的具体信息}}
+
+'''2. 选择行动奖励'''
+
+若上一次行动至少通过两层，则会触发本阶段，玩家可选择一个行动奖励，否则跳过本阶段进入第三阶段。
+
+※以下6个选项中随机出现3个，再选择其一。<br>在本主题中，襁褓生灵的效果可以增加行动奖励选项及选择次数。
+{{#invoke:ISEvent|list
+|theme=沉沦者的黑流树海
+|collectionLink=拟造物质编目
+|eventId=choice_ro6_startbuff
+|scene1=;;你的上一次探索突破了至少两层困难，这一次可以获得更多支援。;;collapsed
+|item1=simple;;未编号物;;relic;;获得{{color|#73e5c2|1件}}普通收藏品;;
+simple;;调查预付款;;gold;;获得{{color|#73e5c2|8}}源石锭;;
+simple;;空间租赁;;initial_reward_max_weight;;消耗{{color|#ff6e6e|6}}源石锭，零件箱容量{{color|#73e5c2|+2}};;
+simple;;退行补偿;;initial_reward_unknown_pay_hp;;消耗{{color|#ff6e6e|2}}目标生命值上限，获得{{color|#73e5c2|1件}}随机收藏品;;
+simple;;林间代步;;initial_reward_scrap_move;;获得{{color|#73e5c2|1件}}加工品;;
+simple;;巢寄生;;initial_reward_unknown_pay_weight;;零件箱容量{{color|#ff6e6e|-1}}，获得{{color|#73e5c2|1件}}稀有收藏品;;
+|scene2=;;
+|item2=home;;;;;;;;}}
+
+'''3. 选择招募组合'''
+
+选择一组三张招募券职业组合。包括：
+:* '''先手必胜'''：获得先锋、狙击、特种招募券各一张
+:* '''稳扎稳打'''：获得重装、术师、狙击招募券各一张
+:* '''取长补短'''：获得近卫、辅助、医疗招募券各一张
+:* '''灵活部署'''：获得先锋、辅助、特种招募券各一张
+:* '''坚不可摧'''：获得重装、术师、医疗招募券各一张
+:* '''随心所欲'''：获得随机三张招募券（不会出现三张相同职业），但其中必然有一张包含5星临时招募的高级招募券。<br>需使用其它招募组合进行一次探索后才能解锁。<br>※第一张为5星临时招募券，第二张仅可能出现先锋、近卫、重装、特种职业的招募券，第三张仅可能出现狙击、术师、医疗、辅助职业的招募券。
+
+'''4. 进行初始招募'''
+
+开始招募本次探索所需的初始干员。初始干员可以使用好友的助战干员。
+
+此时选择招募券进入干员选择页后，可点击右上角“选择助战”按钮招募助战干员（包括好友和系统助战），消耗的希望正常计算，被招募的助战干员将带有{{:集成战略/招募标签|助战招募|color=orange}}标志。需要对所有的初始招募券进行招募（或放弃招募）后方可进行下一步。
+
+完成以上步骤后，探索准备阶段结束，探索正式开始。
+
+=== 实践者列表 ===
+需在【常规行动】模式下探索一次后解锁。
+
+在此模式下，玩家将自动携带一名理想践行者，配合通过两张招募券所招募的初始阵容，以开局获得某个固定收藏品、初始拥有一定量的目标生命值上限、希望、源石锭和编队上限的状态开始探索。
+
+理想践行者不受玩家的持有状态和养成情况所影响固定可用。为区分干员，编队内的理想践行者将会带上标记
+
+每名理想践行者拥有“实践随行录”和“委托报酬”，其中：
+* '''实践随行录'''记录了该名理想践行者的实践随行录，可通过游玩该理想践行者并推进探索进程解锁。
+* '''委托报酬'''记录了该理想践行者的委托任务，完成任务可获得一次性奖励，包括源流样本和各类材料。
+
+{{cbox2|lv=3|title=注意！使用此模式游玩时：|text=* 探索环境、实践者增益等与常规行动'''<保密等级·0>'''相同。
+* '''委托报酬的任务进度可以跨局累计。'''即在此对象的可游玩期间可通过进行多次实践者列表游玩累积任务进度直至完成任务。
+<!--* 在本模式的探索中，玩家会遇到与访谈对象相关的专属【命运所指】节点，其中的事件基于已有事件增加了一个特殊选项。-->
+* 不进行探索分数结算，也即'''无法通过结算获得源流样本'''。
+* 无法解锁新的收藏品（但能够获得在【常规行动】模式中已解锁的收藏品）和完成月度委托任务。
+* 一些在【常规行动】模式中解锁和使用的系统无法在此模式下生效（包含：前瞻性投资系统等）。
+* 【[[#生命游戏|生命游戏]]】的加成在本模式中依然有效。}}
+
+主题更新期间，理想践行者将在每月初刷新变动，玩家在每月可以使用不同的理想践行者进行探索并解锁不同理想践行者的实践随行录。
+
+主题每月更新内容完结后，所有理想践行者将回归常驻并保留奖励领取状态。玩家可自选理想践行者游玩以解锁实践随行录和获得委托报酬，'''但无法再获得报酬中的源流样本或是领取过的奖励'''。
+
+{{参阅|沉沦者的黑流树海/实践者列表|本主题实践者列表的更新记录，实践随行录及委托报酬}}
+
+==区域==
+本主题共有五个常规区域和三个隐藏区域。{{#widget:style|style=
+.AKCollapse.is7_area > .AKCollapse-title {text-align:center;}
+.AKCollapse.is7_area > hr.area_divider {width: 70%;margin: 1em auto 0.8em;background: linear-gradient(90deg, #0000, #c0796b, #0000);height: 0.2em;}
+.AKCollapse.is7_area > div.area_divider {width: 70%;margin: 1.5em auto 1.3em;background: linear-gradient(90deg, #0000, #0c221c, #0000);text-align: center;color: #fff;font-size: 0.7em;height: 0.4em;display: flex;justify-content: center;align-items: center;text-shadow: 0 0 5px #203a2e, 0 0 5px #fc476e, 0 0 5px #d0bb5d, 0 0 5px #203a2e, 0 0 5px #fc476e, 0 0 5px #d0bb5d;letter-spacing: 1em;}
+.code {font-family:monospace;} .serif{font-family: serif;} .serif_aa{transform: scaleX(1.0005);}
+.raw_title, .raw_title_dec {background: linear-gradient(90deg, #0000 20%, #0006, #0000 80%);}
+.raw_title {display: flex;flex-direction: column;align-items: center;padding-bottom: 0.6em;}
+.raw_title_dec {background: linear-gradient(90deg, #0000 20%, #000000a1, #0000 80%);text-align: center;color: #fff;}
+.raw_title_decode {background: darkgreen;color: #fff;width: fit-content;padding-inline: 0.3em;margin: 0.3em auto;box-shadow: 0 2px 5px #0006;}
+.end_text{text-align:center;}
+.end_text.lose{background: #ffe0e0;--co-ti: #fff;--bg-ca: darkred;--bg-ti: #ab5050;}
+.end_text.end1{background: #d2fffc;--co-ti: #fff;--bg-ca: #1c8f87;--bg-ti: #2ca79e;}
+.end_text.end2{background: #3a82ab;--co-ti: #fff;--bg-ca: #294b7c;--bg-ti: #2356a1;} 
+.end_text.end3{background: #dfa664;--co-ti: #fff;--bg-ca: #b67932;--bg-ti: #c98e4a;}
+.end_text.end4{background: #bcaec4;--co-ti: #fff;--bg-ca: #20394e;--bg-ti: #4e6d92;}
+.end_text.end5{background: #aa5242;--co-ti: #fff;--bg-ca: #1a1a1a;--bg-ti: #523434;}
+.end_caption{background:var(--bg-ca);color:var(--co-ti);font-size:0.8em;}
+.end_title{background:var(--bg-ti);color:var(--co-ti);font-family:serif;}
+.end_title .big {display:inline-block;font-size: 1.5em;}
+.end_pinyin {display: inline-block;transform: scaleX(1.2);}
+.end_btn {color: #fff;background: #272025;padding-inline: 1em;border-radius: 50px;box-shadow: 0 2px 5px #27202596;} }}
+
+{{cbox2|lv=4|mdi=true|icon=eye-circle|title=以下内容可能包含剧透。|text=如果您希望完整地体验游戏的所有内容，请勿展开隐藏内容。}}
+{{AKCollapse|class=is7_area|css=max-width:750px;}}
+<!---   000   --->
+<!---F0--->
+{{AKCollapse/title|/ 未萌生的摇篮|css=background: linear-gradient(90deg, #f2ece2, #f6dcb7, #cf7562, #8f888c, #cf7562, #f6dcb7, #f2ece2);}}
+<div class="AKCollapse-content">
+<div id="mw-customcollapsible-raw_title_decode-0" class="mw-collapsible raw_title">[[文件:集成战略_7_层级_0.png|x45px|link=]][[文件:集成战略_7_层级_0-2.png|x45px|link=]]</div>
+<div id="mw-customcollapsible-raw_title_decode-0" class="mw-collapsible mw-collapsed raw_title_dec">{{color|#f1cd9f|No nacido}}<br>未萌生的摇篮<br>{{color|#f1cd9f|(??)}} Feto</div>
+<div style="text-align: center;">
+<div class="raw_title_decode mw-customtoggle-raw_title_decode-0">{{mdi|console-line}}</div>
+''诞生前的炼狱。''<br><div class="serif serif_aa">El crisol que predece al albor.</div>
+
+地图构型：基于前置事件决定
+</div>
+此层为额外隐藏层。
+* 在【误入奇境】节点中，从随机选择的3个加工品中选择一个消耗，即可进入该层。
+该层具有多种固定的节点布局，进入后会触发对应的、覆盖全域的乌托邦效果。'''该乌托邦效果可根据事件描述中【雾气的颜色】及所听闻的【定则】提前判定。'''
+* {{color|red|'''红色'''}}的雾气，'''以趋利避害掌控规则为目标'''：进入战斗节点构型，触发与战斗相关的一种乌托邦（“巨人摇篮”，“迪斯科狂热”，“已知浩劫”，“孤立石林”）
+* {{color|blue|'''蓝色'''}}的雾气，'''以灵活调整极速适应为策略'''：进入随机节点构型，触发乌托邦：全知者盲区
+* {{color|darkgreen|'''绿色'''}}的雾气，'''以全民皆兵维护尊严为根本'''：进入居民恶意构型，触发乌托邦：未亡者遗怨
+* {{color|gold|'''金色'''}}的雾气，'''以熔炼历史浇铸未来为纲领'''：进入固定一种战斗节点构型，触发乌托邦：源石之城
+* {{color|orange|'''橙色'''}}的雾气，'''以舍生忘死不惧挑战为荣耀'''：进入狭路相逢构型，触发乌托邦：消耗螺旋
+* {{color|purple|'''紫色'''}}的雾气，'''以追溯本源复兴文明为己任'''：进入失与得构型，触发乌托邦：换心联结
+进入后会获得一定量'''本层专用'''的行动力，行动力耗尽后会返回进入该层时所在节点的位置。
+{{ISArea/end|class=lose
+|<span class{{=}}"code">scatter()</span>
+|<span class{{=}}"big">信息丢失</span>
+|<div style{{=}}"padding: 0.5em 0;">很高兴你不用见识世间的残酷。</div>
+}}
+</div>
+
+<hr class="area_divider">
+<!---F1--->
+{{AKCollapse/title|Ⅰ 玻利瓦尔肤层|css=background:#3d6335;color:#fff}}
+<div class="AKCollapse-content">
+<div id="mw-customcollapsible-raw_title_decode-1" class="mw-collapsible raw_title">[[文件:集成战略_7_层级_1.png|x45px|link=]][[文件:集成战略_7_层级_1-2.png|x45px|link=]]</div>
+<div id="mw-customcollapsible-raw_title_decode-1" class="mw-collapsible mw-collapsed raw_title_dec">{{color|#f1cd9f|uno(I)}}<br>玻利瓦尔肤层<br>{{color|#f1cd9f|(I)}} Superficie</div>
+<div style="text-align: center;">
+<div class="raw_title_decode mw-customtoggle-raw_title_decode-1">{{mdi|console-line}}</div>
+''未经探索的土地将自己献与新的主人。''<br><div class="serif serif_aa">La tierra ignota se ofrenda a sí misma ante su nuevo dueño.</div>
+
+初始行动力：5；点亮【生命游戏】的“翅膀”节点后，变为6
+</div>
+{{ISArea/end|class=lose
+|<span class{{=}}"code">scatter()</span>
+|<span class{{=}}"big">信息丢失</span>
+|<div style{{=}}"padding: 0.5em 0;">征服者欣然笑纳，将剑与火作为忠诚的馈赠。</div>
+}}
+</div>
+<!---F2--->
+{{AKCollapse/title|Ⅱ 甜美的伤口|css=background:#1f1147;color:#fff}}
+<div class="AKCollapse-content">
+<div id="mw-customcollapsible-raw_title_decode-2" class="mw-collapsible raw_title">[[文件:集成战略_7_层级_2.png|x45px|link=]][[文件:集成战略_7_层级_2-2.png|x45px|link=]]</div>
+<div id="mw-customcollapsible-raw_title_decode-2" class="mw-collapsible mw-collapsed raw_title_dec">{{color|#f1cd9f|dos(II)}}<br>甜美的伤口<br>{{color|#f1cd9f|(II)}} Carne</div>
+<div style="text-align: center;">
+<div class="raw_title_decode mw-customtoggle-raw_title_decode-2">{{mdi|console-line}}</div>
+''刀锋划开，原罪混杂着甘甜倾泻而出。''<br><div class="serif serif_aa">Se abre la herida por el filo, y brota el pecado original imbuido en miel.</div>
+
+初始行动力：6
+</div>
+{{ISArea/end|class=lose
+|<span class{{=}}"code">scatter()</span>
+|<span class{{=}}"big">信息丢失</span>
+|<div style{{=}}"padding: 0.5em 0;">饮下蜜糖之人，可曾想过它的来处？</div>
+}}
+</div>
+<!---F3--->
+{{AKCollapse/title|Ⅲ 血色空脉|css=background:#d1b321;}}
+<div class="AKCollapse-content">
+<div id="mw-customcollapsible-raw_title_decode-3" class="mw-collapsible raw_title">[[文件:集成战略_7_层级_3.png|x45px|link=]][[文件:集成战略_7_层级_3-2.png|x45px|link=]]</div>
+<div id="mw-customcollapsible-raw_title_decode-3" class="mw-collapsible mw-collapsed raw_title_dec">{{color|#f1cd9f|tres(III)}}<br>血色空脉<br>{{color|#f1cd9f|(III)}} Vena</div>
+<div style="text-align: center;">
+<div class="raw_title_decode mw-customtoggle-raw_title_decode-3">{{mdi|console-line}}</div>
+''当赤金沐浴阳光的那一刻，整片大地都为之闪烁。''<br><div class="serif serif_aa">En el instante en que el oro bermejo se funde con el sol, la tierra entera estalla en un fulgor ciego.</div>
+
+初始行动力：7
+</div>
+{{ISArea/end|class=lose
+|<span class{{=}}"code">scatter()</span>
+|<span class{{=}}"big">信息丢失</span>
+|<div style{{=}}"padding: 0.5em 0;">光芒之下，贪婪大快朵颐。</div>
+}}
+</div>
+<!---F4--->
+{{AKCollapse/title|Ⅳ 受害者腐殖|css=background:#79461b;color:#fff}}
+<div class="AKCollapse-content">
+<div id="mw-customcollapsible-raw_title_decode-4" class="mw-collapsible raw_title">[[文件:集成战略_7_层级_4.png|x45px|link=]][[文件:集成战略_7_层级_4-2.png|x45px|link=]]</div>
+<div id="mw-customcollapsible-raw_title_decode-4" class="mw-collapsible mw-collapsed raw_title_dec">{{color|#f1cd9f|cuatro(IV)}}<br>受害者腐殖<br>{{color|#f1cd9f|(IV)}} Dolor</div>
+<div style="text-align: center;">
+<div class="raw_title_decode mw-customtoggle-raw_title_decode-4">{{mdi|console-line}}</div>
+''如果大地不能缓和您的愤怒，就请拿走我的血与骨。''<br><div class="serif serif_aa">"Si la tierra no puede aplacar tu ira, llévate entonces mi sangre y mis huesos."</div>
+
+初始行动力：8
+</div>
+{{ISArea/end|class=lose
+|<span class{{=}}"code">scatter()</span>
+|<span class{{=}}"big">信息丢失</span>
+|<div style{{=}}"padding: 0.5em 0;">只知供奉的人从不知道，索取永无尽头。</div>
+}}
+</div>
+
+<!---F5--->
+{{AKCollapse/title|Ⅴ 卡德霍之颅|css=background: #4b0f0f; color:fff;}}
+<div class="AKCollapse-content">
+<div id="mw-customcollapsible-raw_title_decode-5" class="mw-collapsible raw_title">[[文件:集成战略_7_层级_5.png|x45px|link=]][[文件:集成战略_7_层级_5-2.png|x45px|link=]]</div>
+<div id="mw-customcollapsible-raw_title_decode-5" class="mw-collapsible mw-collapsed raw_title_dec">{{color|#f1cd9f|cinco(V)}}<br>卡德霍之颅<br>{{color|#f1cd9f|(V)}} Bolívar</div>
+<div style="text-align: center;">
+<div class="raw_title_decode mw-customtoggle-raw_title_decode-5">{{mdi|console-line}}</div>
+''有些伤口不会愈合，有些愤怒不会平息。''<br><div class="serif serif_aa">Hay llagas que no conocen la sutura, y furores que el tiempo jamás logra mitigar.</div>
+
+初始行动力：8
+</div>
+{{ISArea/end|class=lose
+|<span class{{=}}"code">scatter()</span>
+|<span class{{=}}"big">信息丢失</span>
+|<div style{{=}}"padding: 0.5em 0;">当祂张开巨口，文明的辩解将苍白无力。</div>
+}}
+<!--ED1+2--->
+{{AKCollapse|css=max-width:750px;margin-top:0.5em;}}
+<!---   001   --->
+<!---ED1--->
+{{AKCollapse/title|我看见，联合政府的军人追到了这里|css=text-align:center;}}
+<div class="AKCollapse-content">
+{{ISArea/end|class=end1
+|<span class{{=}}"code">//successfully rebooted.</span>
+|<span class{{=}}"big">强制重启</span><br><span class{{=}}"code">reboot()</span>
+|<div style{{=}}"padding: 0.5em 0;">[[#结局|<span class{{=}}"end_btn">{{mdi|play-circle}} LOG</span>]]</div>
+}}
+'''进入方式'''
+* 通过与[[卡德霍，黑流之源]]对决的【[[ISW-DF 永无安宁|永无安宁]]】或其追猎版本【[[ISW-DF 痛苦将息|痛苦将息]]】，且以不持有【怦然信标】及【祭日之契】的状态通过第Ⅴ层，即可完成游戏结局。
+</div>
+<!---ED2--->
+{{AKCollapse/title|我看见，梅兰德的特工找到了这里|css=text-align:center;}}
+<div class="AKCollapse-content">
+{{ISArea/end|class=end2
+|<span class{{=}}"code">//Theory-4 starting...</span>
+|<span class{{=}}"big">维度重构</span><br><span class{{=}}"code">reshape()</span>
+|<div style{{=}}"padding: 0.5em 0;">[[#结局|<span class{{=}}"end_btn">{{mdi|play-circle}} LOG</span>]]</div>
+}}
+'''进入方式'''
+* 完成游戏结局【强制重启】，解锁本结局的相关选项和收藏品。
+* 获取'''一个或多个'''【沙盘】收藏品：
+**【[[沉沦者的黑流树海/拟造物质编目#沙盘α|'''沙盘α''']]】：于第Ⅱ层到第Ⅳ层探索时可能会出现一个标记为<[[File:集成战略 7 节点标记 2.png|20px|link=]]'''线人与线索'''>的不期而遇“[[沉沦者的黑流树海/事件一览#线人|线人]]”。<br>在该事件中选择“我受雇于梅兰德”即可获得，但这会使我方单位的部署费用+2。
+**【[[沉沦者的黑流树海/拟造物质编目#沙盘β|'''沙盘β''']]】：大概率在第Ⅰ层到第Ⅲ层的诡意行商中以1源石锭的价格出售，但这会使我方单位的部署费用+3。
+* 抵达第Ⅴ层，此时地图上将刷新3个命运所指并{{#var:canseebadge}}。'''其中2个为[[沉沦者的黑流树海/事件一览#好奇心与死|好奇心与死]]，1个为窥视箱中。
+** 3个命运所指无法从外观分辨。<br>同时持有两个【沙盘】时，为【窥视箱中】的命运所指将被自动标记为<[[File:集成战略 7 节点标记 3.png|20px|link=]]'''谜题与谜底'''>。
+** 若遭遇的是'''好奇心与死'''：{{color|red|本次寻找失败}}，可选择在此处获得1个收藏品；未标记时，可选择消耗50源石锭立即标记。
+** 若遭遇的是'''窥视箱中'''：{{color|#2356a1|'''寻找成功'''}}。
+* '''[[沉沦者的黑流树海/事件一览#窥视箱中|窥视箱中]]'''：选择【保护证据，查缴那些机器！】，此后该节点变为阻止[[洛伦茨，扰动之谬]]及[[源阶方]]的'''险路恶敌'''【[[ISW-DF 混沌源阶理论|混沌源阶理论]]】。
+** 因节点机制影响，对“作战'''节点'''”生效的效果'''不能'''在这个险路恶敌中生效（如概念体），且'''节点变化后将无法离开'''，请在此之前做好所需准备。
+** 若选择【她在说什么疯话？】，则会暂离并完成该节点。该节点{{#var:repeatbadge}}且会被标记，可在完成准备后再次访问。
+* 以不持有【怦然信标】及【祭日之契】的状态完成该作战通过第Ⅴ层，即可完成游戏结局。
+* 在持有【祭日之契】的情况下，还可以选择【等等，这东西不太对劲】来开启更艰难的战斗[[ISW-DF 失恒常量|失恒常量]]。
+</div>
+<!---   001   --->
+</div>
+<!--ED1+2--->
+</div>
+
+<!---F6--->
+{{AKCollapse/title|0 源流交汇处|css=background:linear-gradient(90deg, #196350, #563022, #a72b1c, #c78683, #a72b1c, #563022, #196350);color:#fff}}
+<div class="AKCollapse-content">
+<div id="mw-customcollapsible-raw_title_decode-6" class="mw-collapsible raw_title">[[文件:集成战略_7_层级_6.png|x45px|link=]][[文件:集成战略_7_层级_6-2.png|x45px|link=]]</div>
+<div id="mw-customcollapsible-raw_title_decode-6" class="mw-collapsible mw-collapsed raw_title_dec">{{color|#f1cd9f|cero(O)}}<br>源流交汇处<br>{{color|#f1cd9f|(VI)}} Bestia Aristócrata</div>
+<div style="text-align: center;">
+<div class="raw_title_decode mw-customtoggle-raw_title_decode-6">{{mdi|console-line}}</div>
+''兽主们欢迎你的到来。''<br><div class="serif serif_aa">Los Soberanos de las Bestias os aguardan para daros la bienvenida.</div>
+
+初始行动力：5，固定路线排布，{{#var:canseebadge}}'''所有节点'''
+</div>
+{{ISArea/end|class=lose
+|<span class{{=}}"code">scatter()</span>
+|<span class{{=}}"big">信息丢失</span>
+|<div style{{=}}"padding: 0.5em 0;">祂们很喜欢你，如果你能再多坚持一会就好了。</div>
+}}
+<!--ED3--->
+{{AKCollapse|css=max-width:750px;margin-top:0.5em;}}
+<!---   003   --->
+{{AKCollapse/title|你看见//访问了什么？|css=text-align:center;}}
+<div class="AKCollapse-content">
+{{ISArea/end|class=end3
+|<span class{{=}}"code">//AddressException: Writing Conflict</span>
+|<span class{{=}}"big">纠缠，调和</span><br><span class{{=}}"code">reconcile()</span>
+|<div style{{=}}"padding: 0.5em 0;">[[#结局|<span class{{=}}"end_btn">{{mdi|play-circle}} LOG</span>]]</div>
+}}
+'''进入方式'''
+* 完成游戏结局【强制重启】，解锁本结局的相关选项和收藏品。
+* 于第Ⅱ层到第IV层进入【先行一步】，选择【尝试探索树的源头】，并送出一名干员。<br>进入下一层后，该干员返回，但不会被进阶，而是带来2希望和收藏品【[[沉沦者的黑流树海/拟造物质编目#怦然信标|'''怦然信标''']]】，这会使我方单位生命值-40%，且所有敌人生命值+20%。
+* （非必须）在抵达第Ⅵ层前，找到具有以下标记的节点，可以获得削弱强敌的办法：
+** <[[File:集成战略 7 节点标记 5.png|20px|link=]]'''神明之殇'''>：未持有【[[沉沦者的黑流树海/拟造物质编目#击坠“神明”|击坠“神明”]]】时标记于【不期而遇】：[[沉沦者的黑流树海/事件一览#泪之聚落|泪之聚落]]，选择【倾囊相助】，消耗所有源石锭获得收藏品【[[沉沦者的黑流树海/拟造物质编目#击坠“神明”|击坠“神明”]]】；<!--应该不会有人在这选择空过吧？有，打无削弱就是空过（-->
+** <[[File:集成战略 7 节点标记 6.png|20px|link=]]'''文明之烬'''>：未持有【[[沉沦者的黑流树海/拟造物质编目#焚毁“文明”|焚毁“文明”]]】时标记于【失与得】，选择【复原“文明”】，消耗随机2个自然物获得收藏品【[[沉沦者的黑流树海/拟造物质编目#焚毁“文明”|焚毁“文明”]]】；
+** <[[File:集成战略 7 节点标记 4.png|20px|link=]]'''光明之末'''>：未持有【[[沉沦者的黑流树海/拟造物质编目#湮没“光明”|湮没“光明”]]】时标记于普通【作战】：对战[[未名的荒原]]的[[ISW-NO 无效验尸|无效验尸]]，完成后可以选择获得收藏品【[[沉沦者的黑流树海/拟造物质编目#湮没“光明”|湮没“光明”]]】。
+* 持有【怦然信标】而通过第Ⅴ层战斗后，可进入该层，直面【[[ISW-DF 畸症|畸症]]】的核心[[玻利瓦尔，症结之核]]。
+* （非必须）'''[[沉沦者的黑流树海/事件一览#调谐仪式|调谐仪式]]'''：于该层起点右侧的【命运所指】中遭遇，可以提交指定收藏品以削弱[[玻利瓦尔，症结之核]]的能力。
+** 提交【击坠“神明”】后，首次释放的灾厄之口不会摧毁“危朽”。
+** 提交【焚毁“文明”】后，灾厄之口释放时不会封锁待部署区。
+** 提交【湮没“光明”】后，灾厄之口的伤害降低。
+** 使用【[[沉沦者的黑流树海/拟造物质编目#源私钥|源私钥]]】可以作弊以替换上述任一需求。
+* 通过第Ⅵ层即可完成游戏结局。
+</div>
+<!---   003   --->
+</div>
+</div>
+<!---F7--->
+{{AKCollapse/title|1=<span id="盲目者所见">''i'' 盲目者所见</span>}}
+<div class="AKCollapse-content">
+<div id="mw-customcollapsible-raw_title_decode-7" class="mw-collapsible raw_title">[[文件:集成战略_7_层级_7.png|x45px|link=]][[文件:集成战略_7_层级_7-2.png|x45px|link=]]</div>
+<div id="mw-customcollapsible-raw_title_decode-7" class="mw-collapsible mw-collapsed raw_title_dec">{{color|#f1cd9f|imaginario(i)}}<br>盲目者所见<br>{{color|#f1cd9f|(VI)}} ojo</div>
+<div style="text-align: center;">
+<div class="raw_title_decode mw-customtoggle-raw_title_decode-7">{{mdi|console-line}}</div>
+''在此处，光与影所及之物皆是幻想。''<br><div class="serif serif_aa">Aquí, cuanto alcanzan la luz y la sombra no es sino ilusión.</div>
+</div>
+{{ISArea/end|class=lose
+|<span class{{=}}"code">scatter()</span>
+|<span class{{=}}"big">信息丢失</span>
+|<div style{{=}}"padding: 0.5em 0;">无论面对辉煌或深渊，都不应当长久地直视。</div>
+}}
+<!--ED4--->
+{{AKCollapse|css=max-width:750px;margin-top:0.5em;}}
+{{AKCollapse/title|我找寻//丢失了什么？|css=text-align:center;}}
+<div class="AKCollapse-content">
+{{ISArea/end|class=end4
+|<span class{{=}}"code">replicate()</span>
+|<span class{{=}}"big">旧日重燃</span>
+|<div style{{=}}"padding: 0.5em 0;">“你”好像就是不肯放弃。这里没有新的错误原因，我们或许很快会见面。<br>[[沉沦者的黑流树海/黑流数据库#Ending 04：旧日重燃|<span class{{=}}"end_btn">{{mdi|play-circle}} LOG</span>]]</div>
+}}
+'''结局路线'''
+* 在【内容拓展·一】更新后，完成一次游戏结局，解锁本结局的相关收藏品。
+* 在第Ⅰ层或第Ⅱ层的【险路尽头】中选择【帮助倒下的探险家同伴】，消耗10源石锭，获得【[[沉沦者的黑流树海/拟造物质编目#谒日之祈|'''谒日之祈''']]】。
+* 持有【谒日之祈】后，从第Ⅲ层“血色空脉”起，后续区域的地图右侧会出现总节点数量最少6（待补充）的'''熄日余径'''。其距离原本的区域具有2的最短节点距离且不与主要区域连通，无法通过徒步的方式进入。
+** 血色空脉中的险路恶敌也会变得更加艰难。
+** '''熄日余径'''出现的作战地图隶属于所在层的下一层，并且有所强化；探险者会出现在其中的战斗里，在完成目标前需保证其存活。
+* 完成'''熄日余径'''的'''普通作战节点'''后，会额外获得一个随机收藏品。
+* 若探险者在熄日余径的战斗中首次倒下，会出现提示：'''探险家负伤后走散了，如果能找到他一定还有救'''。
+** 下次进入'''无标记的不期而遇'''时，将遭遇【手术祭坛】，选择【小心地移除电极】，失去一半目标生命上限，获得【[[沉沦者的黑流树海/拟造物质编目#破碎噩兆|'''破碎噩兆''']]】，使探险者重新出现在熄日余径的战斗中。'''该机会每局流程仅限一次'''。
+* '''熄日余径'''中的命运所指必定为'''大红按钮'''。
+** 遭遇【大红按钮】后，在'''探险家存活'''的情况下选择【这个按钮是做什么用的？】，再选择仅有的选项【这下有麻烦了】，进入特殊战斗【[[ISW-NO 灰坑|灰坑]]】。
+** 之后需要保护出现于熄日余径战斗中的“沉沦探险者”，在特殊战斗【[[ISW-NO 灰坑|灰坑]]】中，其技能被替换为【太阳渴望鲜血！】。该技能需要240技力，会强制结束关卡，让探索开启不同的方向；相关路线收藏品为【[[沉沦者的黑流树海/拟造物质编目#祭日之契|'''祭日之契''']]】。
+** 获得【祭日之契】后，不再出现熄日余径，所有干员再部署时间+50%，使用加工品移动后会使其损毁。
+* （非必须）在【制图桌】中选择【端详那册精致的图纸】，可获得【[[沉沦者的黑流树海/拟造物质编目#生命蓝图|'''生命蓝图''']]】。这会使敌方单位攻击力、移动速度+30%，最大生命值+50%，精英和领袖敌人登场30秒内受到的物理和法术伤害-50%，并使【[[ISW-DF 熄日|熄日]]】出现额外敌人。
+* 通过第Ⅵ层即可完成游戏结局。
+</div>
+</div>
+</div>
+</div>
+<!---   000   --->
+
+不同区域中作战获得的指挥经验和源石锭有所不同，具体如下：
+{{#vardefine:hardlvl|<span class="mc-tooltips"><span style="cursor:help;color:red;">{{mdi|sword-cross}}</span><span style="display:none" data-size="350" data-trigger="mouseenter focus">紧急作战版本适用此掉落</span></span>}}{{#vardefine:sundial|<span class="mc-tooltips"><span style="cursor:help;color:orange;">}}
+{{#widget:style|style=
+.is6-exp-toggle {
+  display:inline-flex;
+  align-items:center;
+  gap:0.35em;
+  margin-left:0.65em;
+  padding:0.18em 0.75em;
+  border:0;
+  border-radius:3px;
+  background:#36c;
+  color:#fff;
+  font-size:12px;
+  font-weight:normal;
+  line-height:1.45;
+  cursor:pointer;
+  user-select:none;
+}
+.is6-exp-toggle-full {
+  background:#54595d;
+  color:#fff;
+}
+.is6-exp.is-fulltech {
+  color:#36c;
+  font-weight:bold;
+}
+.is6-exp-table-title {
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  gap:0.35em;
+  flex-wrap:wrap;
+}
+}}
+{{#vardefine:exp10|<span class="mw-collapsible is6-exp" id="mw-customcollapsible-is6ExpFullTech">10</span><span class="mw-collapsible mw-collapsed is6-exp is-fulltech" id="mw-customcollapsible-is6ExpFullTech">13</span>}}{{#vardefine:exp12|<span class="mw-collapsible is6-exp" id="mw-customcollapsible-is6ExpFullTech">12</span><span class="mw-collapsible mw-collapsed is6-exp is-fulltech" id="mw-customcollapsible-is6ExpFullTech">15</span>}}{{#vardefine:exp13|<span class="mw-collapsible is6-exp" id="mw-customcollapsible-is6ExpFullTech">13</span><span class="mw-collapsible mw-collapsed is6-exp is-fulltech" id="mw-customcollapsible-is6ExpFullTech">17</span>}}{{#vardefine:exp15|<span class="mw-collapsible is6-exp" id="mw-customcollapsible-is6ExpFullTech">15</span><span class="mw-collapsible mw-collapsed is6-exp is-fulltech" id="mw-customcollapsible-is6ExpFullTech">19</span>}}{{#vardefine:exp16|<span class="mw-collapsible is6-exp" id="mw-customcollapsible-is6ExpFullTech">16</span><span class="mw-collapsible mw-collapsed is6-exp is-fulltech" id="mw-customcollapsible-is6ExpFullTech">21</span>}}{{#vardefine:exp18|<span class="mw-collapsible is6-exp" id="mw-customcollapsible-is6ExpFullTech">18</span><span class="mw-collapsible mw-collapsed is6-exp is-fulltech" id="mw-customcollapsible-is6ExpFullTech">23</span>}}{{#vardefine:exp20|<span class="mw-collapsible is6-exp" id="mw-customcollapsible-is6ExpFullTech">20</span><span class="mw-collapsible mw-collapsed is6-exp is-fulltech" id="mw-customcollapsible-is6ExpFullTech">26</span>}}{{#vardefine:exp22|<span class="mw-collapsible is6-exp" id="mw-customcollapsible-is6ExpFullTech">22</span><span class="mw-collapsible mw-collapsed is6-exp is-fulltech" id="mw-customcollapsible-is6ExpFullTech">29</span>}}{{#vardefine:exp24|<span class="mw-collapsible is6-exp" id="mw-customcollapsible-is6ExpFullTech">24</span><span class="mw-collapsible mw-collapsed is6-exp is-fulltech" id="mw-customcollapsible-is6ExpFullTech">31</span>}}{{#vardefine:exp25|<span class="mw-collapsible is6-exp" id="mw-customcollapsible-is6ExpFullTech">25</span><span class="mw-collapsible mw-collapsed is6-exp is-fulltech" id="mw-customcollapsible-is6ExpFullTech">33</span>}}{{#vardefine:exp30|<span class="mw-collapsible is6-exp" id="mw-customcollapsible-is6ExpFullTech">30</span><span class="mw-collapsible mw-collapsed is6-exp is-fulltech" id="mw-customcollapsible-is6ExpFullTech">39</span>}}{{#vardefine:exp32|<span class="mw-collapsible is6-exp" id="mw-customcollapsible-is6ExpFullTech">32</span><span class="mw-collapsible mw-collapsed is6-exp is-fulltech" id="mw-customcollapsible-is6ExpFullTech">42</span>}}{{#vardefine:exp35|<span class="mw-collapsible is6-exp" id="mw-customcollapsible-is6ExpFullTech">35</span><span class="mw-collapsible mw-collapsed is6-exp is-fulltech" id="mw-customcollapsible-is6ExpFullTech">46</span>}}{{#vardefine:exp36|<span class="mw-collapsible is6-exp" id="mw-customcollapsible-is6ExpFullTech">36</span><span class="mw-collapsible mw-collapsed is6-exp is-fulltech" id="mw-customcollapsible-is6ExpFullTech">47</span>}}{{#vardefine:exp38|<span class="mw-collapsible is6-exp" id="mw-customcollapsible-is6ExpFullTech">38</span><span class="mw-collapsible mw-collapsed is6-exp is-fulltech" id="mw-customcollapsible-is6ExpFullTech">50</span>}}{{#vardefine:exp50|<span class="mw-collapsible is6-exp" id="mw-customcollapsible-is6ExpFullTech">50</span><span class="mw-collapsible mw-collapsed is6-exp is-fulltech" id="mw-customcollapsible-is6ExpFullTech">66</span>}}{{#vardefine:exp70|<span class="mw-collapsible is6-exp" id="mw-customcollapsible-is6ExpFullTech">70</span><span class="mw-collapsible mw-collapsed is6-exp is-fulltech" id="mw-customcollapsible-is6ExpFullTech">93</span>}}
+{| class="wikitable mw-collapsible mw-collapsed logo" style="text-align:center;width:min(750px, 100%);white-space:normal"
+|-
+! colspan=9 | 作战指挥经验值及源石锭数量{{popup|内容=此处基础数值表示不受战斗经验加成或源石锭加成影响时，能获取的基础指挥经验值和基础源石锭数量。多个指挥经验加成之间乘算叠加，最终结果向下取整}}</span><span class="mw-customtoggle-is6ExpFullTech mw-collapsible is6-exp-toggle" id="mw-customcollapsible-is6ExpFullTech">显示满级生命游戏加成</span><span class="mw-customtoggle-is6ExpFullTech mw-collapsible mw-collapsed is6-exp-toggle is6-exp-toggle-full" id="mw-customcollapsible-is6ExpFullTech">显示基础数值</span></span>
+|-
+! rowspan=2 width=150px | 作战区域 !! colspan=2 | 普通作战 !! colspan=2 | 紧急作战 !! colspan=2 | 险路恶敌 !! colspan=2 | 追猎
+|-
+! 指挥经验 !! 源石锭 !! 指挥经验 !! 源石锭 !! 指挥经验 !! 源石锭 !! 指挥经验 !! 源石锭
+|-
+| style="background:#2f2f2f;color:#fff;" | Ⅰ
+| {{#var:exp10}} || 1 || {{#var:exp12}} || 2 || —— || —— || —— || ——
+|-
+| style="background:#2f2f2f;color:#fff;" | Ⅱ
+| {{#var:exp12}} || 2 || {{#var:exp18}} || 2 || —— || —— || —— || ——
+|-
+| style="background:#2f2f2f;color:#fff;" | Ⅲ
+| {{#var:exp13}} || 2 || {{#var:exp25}} || 3 || {{#var:exp32}} || 5 || {{#var:exp32}} || 5
+|-
+| style="background:#2f2f2f;color:#fff;" | Ⅳ
+| {{#var:exp15}} || 2 || {{#var:exp30}} || 3 || —— || —— || —— || ——
+|-
+| style="background:#2f2f2f;color:#fff;" | Ⅴ
+| {{#var:exp20}} || 2 || {{#var:exp36}} || 5 || {{#var:exp50}} || 8 || {{#var:exp50}} || 8
+|-
+| style="background:#2f2f2f;color:#fff;" | 0
+| {{#var:exp20}} || 5 || {{#var:exp36}} || 5 || {{#var:exp70}} || 8 || {{#var:exp70}} || 8
+|-
+| style="background:#2f2f2f;color:#fff;" | /
+|colspan=4|与战斗节点所属层/特殊战斗一致 || —— || —— || —— || ——
+|-
+! colspan=9 | 特殊作战指挥经验值及源石锭数量
+|-
+! colspan=5 | 作战关卡 !! colspan=2 | 指挥经验 !! colspan=2 | 源石锭
+|-
+| colspan=5 | 不期而遇 [[沉沦者的黑流树海/事件一览#思乡心切|思乡心切]]<br>[[ISW-NO 陌生旅伴|陌生旅伴]] || colspan=2 | {{#var:exp10}} || colspan=2 | 2~3
+|-
+| colspan=5 | 不期而遇 [[沉沦者的黑流树海/事件一览#划算买卖|划算买卖]]<br>[[ISW-NO 安保措施|安保措施]] || colspan=2 | {{#var:exp12}} || colspan=2 | 2
+|-
+| colspan=5 rowspan=2 | 不期而遇 [[沉沦者的黑流树海/事件一览#鸭托邦|鸭托邦]]<br>[[ISW-NO 开业剪彩|开业剪彩]] || colspan=2 | {{#var:exp13}} || colspan=2 | 2
+|-style="color:red;"
+| colspan=2 | {{#var:hardlvl}} {{#var:exp24}} || colspan=2 | {{#var:hardlvl}} 3
+|-
+| colspan=5 rowspan=2 | 不期而遇 [[沉沦者的黑流树海/事件一览#传奇团伙|传奇团伙]]<br>[[ISW-NO 合伙人会议|合伙人会议]] || colspan=2 | {{#var:exp25}} || colspan=2 | 3
+|-style="color:red;"
+| colspan=2 | {{#var:hardlvl}} {{#var:exp36}} || colspan=2 | {{#var:hardlvl}} 3
+|-
+| colspan=5 | 狭路相逢 [[沉沦者的黑流树海/事件一览#原始娱乐|原始娱乐]]<br>[[ISW-NO 搏杀|搏杀]] || colspan=2 | {{#var:exp13}} || colspan=2 | 3
+|-
+| colspan=5 | 狭路相逢 [[沉沦者的黑流树海/事件一览#掠夺成性|掠夺成性]]<br>[[ISW-NO 共斗|共斗]] || colspan=2 | {{#var:exp18}} || colspan=2 | 3
+|-
+| colspan=5 | 商店战斗<br>[[ISW-NO 死箱|死箱]] || colspan=2 | {{#var:exp10}} || colspan=2 | 4
+|-
+| colspan=5 | 商店战斗<br>[[ISW-NO 活木|活木]] || colspan=2 | {{#var:exp15}} || colspan=2 | 5
+|-
+| colspan=5 | 特殊挑战<br>[[ISW-NO 无效验尸|无效验尸]] || colspan=2 | {{#var:exp36}} || colspan=2 | ?
+|-
+| colspan=5 rowspan=2 | 不期而遇 [[沉沦者的黑流树海/事件一览#湖中仙女|湖中仙女]]<br>[[ISW-NO 湖中魇|湖中魇]] || colspan=2 | {{#var:exp25}} || colspan=2 | 4
+|-style="color:red;"
+| colspan=2 | {{#var:hardlvl}} {{#var:exp36}} || colspan=2 | {{#var:hardlvl}} 8
+|-
+| colspan=5 | 流窜居民<br>[[ISW-NO 强买强卖|强买强卖]] || colspan=2 | {{#var:exp15}} || colspan=2 | 3
+|-
+| colspan=5 | 流窜居民<br>[[ISW-NO 进退趋同|进退趋同]] || colspan=2 | {{#var:exp18}} || colspan=2 | 5
+|-
+| colspan=5 | 居民据点<br>[[ISW-NO 枯枝|枯枝]] || colspan=2 | {{#var:exp25}} || colspan=2 | 5
+|-
+| colspan=5 | 居民据点<br>[[ISW-NO 败叶|败叶]] || colspan=2 | {{#var:exp30}} || colspan=2 | 5
+|-
+| colspan=5 | 不期而遇 [[沉沦者的黑流树海/事件一览#黑诞|黑诞]]<br>[[ISW-NO “闹乐”|“闹乐”]] / [[ISW-NO “纵怒”|“纵怒”]] / [[ISW-NO “灭身”|“灭身”]] / [[ISW-NO 晶矿惊蝗|晶矿惊蝗]]|| colspan=2 | {{#var:exp30}} || colspan=2 | 3
+|}
+
+==事件节点==
+{{参阅|沉沦者的黑流树海/事件一览|本主题的所有事件信息}}
+* ''“空白”'' {{color|#adadaf|林间空地}}
+: ''无事发生便是最动人的温柔。''
+: 一个无事发生的中途节点，可以移动前往，但不会触发任何战斗或是事件。
+* {{color|#9a41e5|作战}}　
+: ''大家手里都拿着武器，肯定不是来谈判的。''
+: 遭遇一场随机战斗，不同区域的敌人作战方式会有所不同。战胜敌人可以'''获取随机奖励'''。
+* {{color|#85342d|紧急作战}}　
+: ''有些暴力可能会超出你的预期，这很常见。''
+: 遭遇一场'''难度更高'''的战斗，相比于普通作战，敌人的强度会显著提升，战胜敌人'''可以获取的奖励也更多'''。
+* {{color|#6148a3|险路}}{{color|#b7301e|恶敌}}
+: ''坏人，恶棍，诅咒之人......你有麻烦了。''
+: 遭遇一场有'''领袖级别敌人'''出没的极难战斗。
+: 在部分区域中，需要战胜险路恶敌才能前往下一区域，剩余的行动力将在行动完成后转化为希望。
+* ''事件'' {{color|#14bec0|不期而遇}}
+: ''新朋友、老对头......奇遇不会老去，陈旧的只有伤疤。''
+: 遭遇一次随机事件。不同区域的事件内容会有所不同。<br>※某些特殊事件只会在达成特定条件时出现。
+* ''事件'' {{color|#00a1e9|安全的角落}}
+: ''这里不会有人打扰，食物和水也很充足，别一直紧绷着神经了。''
+: 可以临时休息片刻的节点。在此获取可选的随机三个增益中的一个。
+: ※该节点不会在第I层出现
+* ''事件'' {{color|#14bec0|命运所指}}
+: ''抉择就在眼前，结局早已注定。''
+: 在这里，你将来到重要的抉择时刻。
+* ''事件'' {{color|#1d7767|得偿所愿}}
+: ''许愿的形式千奇百怪，而愿望本身却大同小异。''
+: 获得一个免费的收藏品。
+: ※可从2个中选择1个获得；可消耗4源石锭刷新一次陈列。
+* ''事件'' {{color|#1d7767|狭路相逢}}
+: ''猎物与猎手的对话。''
+: 可以选择进入一场特殊的“公平战斗”。
+: 在限定时间内击败更难的对手将会获得更好的奖励{{popup|内容=最左敌人奖励1'''低稀有度'''或{{color|#2ac5c9|'''中稀有度'''}}零件+2招募券<br>中间敌人奖励1{{color|#2ac5c9|'''中稀有度'''}}/{{color|#7d0022|'''高稀有度'''}}零件/浪花/雾滚草/小八界+2招募券<br>最右敌人奖励1收藏品+2招募券。<br>实际你可以根据当前需求（获取零件或获取更好藏品）选择敌人}}。
+: ※该战斗失败时不会扣除生命值或护盾值。
+: ※该节点不会在第I，II，VI层出现。
+* ''商店'' {{color|#0c493d|诡意行商}} {{锚点|诡意行商}}
+: ''不是盟友也不是敌人，有些人喜欢站在中间。''
+: 可以消耗源石锭购买道具（包括招募券和战术道具）、收藏品和零件的''坎诺特''的商店。
+: 相较于往期主题，于第1层出现的商店出现的职业招募券不再仅限先锋/术师/医疗三种。
+: '''在点亮【生命游戏】的“脊髓”节点后，每个诡意行商节点均可消耗源石锭用于刷新商店库存。'''
+:* 初始消耗4源石锭，每次刷新库存消耗的源石锭+4，每个节点最多刷新4次。
+: 在点亮【生命游戏】的“额叶”节点后，还可以出售不再需要的零件。
+: ※{{#var:repeatbadge}}；完成节点后将在节点详情处展示商品状态。
+: '''※前瞻性投资系统'''在本主题中仍然有效且不与其他主题互通，但存在以下更新：
+<div style="background: #227c6c; border-radius: 5px; padding: 10px; box-shadow: 0 4px 5px 0px #0000004f; color:white;" class="mw-collapsible" id="mw-customcollapsible-ro2shopinner">
+* 投资计算方式更新：不再需要投资系统的余额达到标准，只需你的'''历史累计投资额'''达到标准就可解锁对应奖赏。
+* 投资奖赏更新：
+: {| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;white-space:normal;display:table;color:black;background:white;"
+! 历史累计投资额 !! 投资奖赏
+|-
+| 15 || 前瞻性投资系统解锁取款功能
+|-
+| 50 || <span style="border-bottom:1px solid black;" class="mw-customtoggle-ro2shopinner">坎诺特向你展示了货柜？{{mdi|chevron-right}}</span>
+|-
+| 125 || 诡意行商中会额外出售一个商品
+|-
+| 250 || 解锁收藏品【[[沉沦者的黑流树海/拟造物质编目#金酒之杯|金酒之杯]]】
+|-
+| 500 || 诡意行商中会额外出售一个商品
+|}
+* '''余额提取'''功能解锁后，无论是否投资受限，都可以消耗一定的系统余额提取1源石锭。
+: 通常情况下，每次提取消耗和当前节点取款次数相同的余额提取1源石锭（最高7源石锭/次），单个节点最多提取12次。
+</div>
+<div style="background: linear-gradient(180deg, #227c6c, #481f20); border-radius: 5px; padding: 10px; box-shadow: 0 4px 5px 0px #0000004f; color:white;" class="mw-collapsible mw-collapsed" id="mw-customcollapsible-ro2shopinner">
+<span style="background: #ffffff40; padding: 1px 15px; border-radius: 2px;" class="mw-customtoggle-ro2shopinner">{{mdi|chevron-left}} 返回</span>
+
+当玩家在本主题的最高投资额达到50时，画面左下角将出现“试探性碰碰商品”按钮，连续点击可激怒坎诺特。
+
+此时玩家可以“听坎诺特的”，或者“请”坎诺特“降价”。
+* 选择“听坎诺特的”，则无事发生。
+* 选择“请”坎诺特“降价”，则会进入特殊的商店战斗（到达第4层前进入[[ISW-NO 死箱|{{color|yellow|死箱}}]]，第4层及之后进入[[ISW-NO 活木|{{color|yellow|活木}}]]）。<br>通关后即可'''有限洗劫'''坎诺特的商店，但坎诺特会离开，该诡意行商节点变为林间空地，且在本次探索内之后的诡意行商节点将不再提供任何功能（空无一物）。
+与以往不同的是，在本主题中，[[坎诺特(黑流树海)|{{color|yellow|坎诺特}}]]会将商品封入到若干个[[坎诺特保险柜|{{color|yellow|坎诺特保险柜}}]]中。
+* 我方可以主动出击撬开保险柜，再部署干员“零元购买”商品，但这些干员在这次战斗中无法再部署。
+* 坎诺特会回收他附近的保险柜，并让自身获得一定的物理和法术伤害减免。<br>击倒坎诺特可以从其手中夺取'''部分'''保险柜“零元购买”商品；但若放任他离开，不仅他会狠狠'''抓走'''你手中的源石锭，被他带走的保险柜中的商品也会'''无法以任何方法购买'''，请务必谨慎对待。
+* '''若是选择原地投降，坎诺特会回收所有的保险柜，带走所有的商品！'''
+</div>
+{{参阅|沉沦者的黑流树海/诡意行商|坎诺特的互动记录}}
+* ''事件'' {{color|#0c493d|失与得}}
+: ''失去的空洞与无措，会被获得的满足与喜悦填充。''
+: 可以选择自己持有但不需要的收藏品交换。
+: 在点亮【生命游戏】的“声带”节点后，还可以交换零件。
+: 在点亮【生命游戏】的“手掌”节点后，交换次数+1，但只能交换和首次交换相同类型的物品。
+: ※交换后可获得的物品/提供的选项受给出的物品稀有度影响。
+: ※一部分收藏品（包括绑定干员生效的收藏品、结局相关收藏品）不可用于交换，具体可交换情况参见[[沉沦者的黑流树海/拟造物质编目|拟造物质编目（收藏品一览）]]页面。
+: ※在交换物品时，可“上一步”重新选择选项。
+: ※该节点不会在第I，VI层出现。
+* {{#var:newbadge}} ''事件'' {{color|#90ac34|险路尽头}}　
+: ''只是另一场求索的起点。''
+: '''当前层出口之一。'''获得1件加工品，随后将剩余的行动力转化为等量希望后，进入下一层。
+: ※{{#var:repeatbadge}} {{#var:canseebadge}}
+: ※在<保密等级·3+>难度下，出现时揭示的数量-1。
+: ※可在离开前于此处取出留存的招募券进行招募。
+* {{#var:newbadge}} ''事件'' {{color|#cc9409|险路小径}}
+: ''嘘，不要把这个秘密告诉别人。''
+: '''当前层出口之二。'''可以携带剩余行动力进入下一层。
+: 相较于【险路尽头】，会获得1件'''珍贵的加工品'''，但不能使用留存的招募券进行招募。
+: ※{{#var:repeatbadge}}
+* {{#var:newbadge}} ''商店'' {{color|#feb312|秘境行商}}
+: ''秘密与路途被摆上天平，摇晃之间价码已被定下。''
+: 可以消耗源石锭购买零件，也可以出售不再需要的零件以换取源石锭的''{{color|orange|机械师}}''的商店。
+: 在此可消耗种子进行种子培育，有概率获得当局零件或跨局增益。
+: ※{{#var:repeatbadge}}；完成节点后将在节点详情处展示商品状态。
+{{参阅|沉沦者的黑流树海/秘境行商|机械师的互动记录}}
+* {{#var:newbadge}} ''商店'' {{color|#ffb40c|应急助力}} {{锚点|应急助力}}
+: ''人手不嫌多，朋友不嫌少。''
+: 可以消耗源石锭应急雇佣干员的''{{color|orange|佩德洛}}''的干员联络处。
+: ※参见[[#本主题下的独特机制与机制调整|应急雇佣]]。
+: ※每次进入时会刷新8名干员，其中5~6名通常干员可消耗4源石锭雇佣；2~3名[[干员一览/专属干员|{{color|orange|集成战略专属干员}}]]干员可免费雇佣（优先出现罗德岛特派（初始5★），其次出现预备干员（初始3★））。<br>进入节点时，可雇佣最多3名干员；所有被雇佣的干员以已进阶状态入队。
+: ※可消耗源石锭刷新联络名单。<br>初始消耗4源石锭，每次刷新消耗的源石锭+4，每个节点最多刷新4次。
+: ※该节点不会在第I，VI层出现。
+{{参阅|沉沦者的黑流树海/应急助力|佩德洛的互动记录}}
+* {{#var:newbadge}} ''传送'' {{color|#FAB616|曲折密道}}　
+: ''本地人的杰作''。
+: 成对出现，进入后可传送到另一个【曲折密道】节点所在的位置。
+: ※行动力只在进入时被消耗。
+: ※徒步跋涉可以越过未完成的此节点。
+: ※{{#var:repeatbadge}} {{#var:canseebadge}}
+: ※该节点不会在第I，II，VI层出现。
+* {{#var:newbadge}} ''视野'' {{color|#FAB71A|羽瞰点}}　
+: ''所见并非所得，做好标记后别忘了计算行程。''
+: 出现时，{{#var:canseebadge}}自身及周围4格{{popup/range|x-5}}内的节点信息。前往该节点后，揭示范围扩大至周围12格{{popup/range|x-1}}并获得1行动力。
+: ※点亮【生命游戏】的“分裂”节点后，<保密等级·3+>难度下，该节点出现时的揭示范围变为周围12格{{popup/range|x-1}}，前往该节点后扩大的揭示范围变为周围24格{{popup/range|x-3}}。
+: ※若该节点被【流窜“居民”】占据，前往也仍能获得1行动力。
+* {{#var:newbadge}} <span style{{=}}"background: linear-gradient(90deg, #116b62, #29288b, #751d18);color: #fff;padding: 0px 5px;border-radius: 2px;"><4+></span> {{color|#8e2309|“居民”据点}}　
+: 仅在<保密等级·4+>可能出现且不会于I，VI层出现。出现时，节点周边会生成0-3个【流窜“居民”】标记。
+:{{#lst:沉沦者的黑流树海/黑流数据库|流窜居民标记}}
+: 战胜【“居民”据点】可以获得奖励并'''直接'''驱逐区域内所有【流窜“居民”】。
+<span style="background:linear-gradient(90deg, #116b62, #29288b, #751d18); color: white; padding: 0px 5px; border-radius: 2px;">MORE!</span> '''在生命游戏中点亮相关加成后'''，还将可能'''自然出现'''以下新的事件节点：
+* ''事件'' {{color|#751830|误入奇境}}
+: 可以选择消耗一个加工品，获得专用于本区域探索的行动力，并进入一整层额外的节点。
+: ※该节点不会在第I，II，VI层出现。
+: ※进入和离开特殊层时，不会使“无法被携带至下一层”的加工品损坏（包括在特殊层获得的）。
+* ''事件'' {{color|#1d7767|先行一步}}
+: ''总有人要走在前头，好为后来的人指明道路。''
+: 可以选择一名当前招募的干员暂时离队。该干员将在下一层开始时归来。
+: 在点亮【生命游戏】的“喙”节点后，干员归来时还可获得随机加工品。
+: ※可不选择干员并“确认”重新选择选项；若不派遣干员则可选择获得2希望。
+: ※该节点不会在第I，V，VI层出现。
+
+==结局==
+本主题共有4个结局，其中3个结局需要达成特定条件才可解锁，其解锁方式参见本页面“[[#区域|区域]]”一节。
+{{#widget:style|style=.AKCollapse.is7_end > .AKCollapse-title {text-align:center;padding:0.3em 0.5em 0;font-family: serif;} .AKCollapse.is7_end > .AKCollapse-content {text-align:center;} .semibig {display: inline-block;font-size:1.3em;line-height:1em;} .end_changed {background: #2f2f2f;color: #fff;border-radius: 0.5em;} }}
+{{cbox2|lv=4|mdi=true|icon=eye-circle|title=以下内容可能包含剧透。|text=如果您希望完整地体验游戏的所有内容，请勿展开隐藏内容。}}
+{{cbox2|title=通过达成特定条件，还能了解这些结局的后续内容。|text=<span style="background: #ab0000; color: white; padding: 0px 5px; border-radius: 2px;">{{mdi|eye-circle}} 这些内容将不可避免地包含深层剧透</span>，前往[[沉沦者的黑流树海/黑流数据库#分形索引|黑流数据库 - 分形索引]]了解更多信息。}}
+{{AKCollapse|class=is7_end|css=max-width:750px;}}
+<!------>
+{{AKCollapse/title|<span class{{=}}"semibig">强制重启</span><br><span class{{=}}"code">reboot()</span>|css=background:#2ca79e;color:#fff;}}
+<div class="AKCollapse-content">
+[[文件:Avg pic rogue 6 41.png|600px]]<br><br>[[文件:情报处理室 播放按钮.png|40px|link=RO6-END-1/NBT]] [[RO6-END-1/NBT|<span class="serif">回放记录</span>]]<br>''“你”还会继续尝试的，对吗？错误原因：子线程因栈空间不足发生致命错误，进程终止。''
+<div style="background: linear-gradient(180deg, #a8e1dd, #0000 3.5em);text-align:left;padding:0.5em;">'''function() {'''<br>　　在任意难度未持有【怦然信标】及【祭日之契】的情况下/<br>　　完成关卡 [[ISW-DF 永无安宁]] 或其追猎版本 [[ISW-DF 痛苦将息]];<br>'''}'''</div>
+</div>
+{{AKCollapse/title|<span class{{=}}"semibig">维度重构</span><br><span class{{=}}"code">reshape()</span>|css=background:#294c7d;color:#fff;}}
+<div class="AKCollapse-content">
+<div class="end_changed"><small>探索走向了不同的结局……</small><br>[[洛伦茨，扰动之谬|'''<span style="color:#55d547;text-decoration:underline;">篡夺者</span>''']][[源阶方|'''<span style="color:#55d547;text-decoration:underline;">静候</span>''']]求索者的到来。</div>
+[[文件:Avg pic rogue 6 42.png|600px]]<br><br>[[文件:情报处理室 播放按钮.png|40px|link=RO6-END-2/NBT]] [[RO6-END-2/NBT|<span class="serif">回放记录</span>]]<br>''她始终会在这里等“你”。错误原因：调试器已附加到目标进程，会话即将终止。''
+<div style="background: linear-gradient(180deg, #e5cbac, #0000 3.5em);text-align:left;padding:0.5em;">'''function() {'''<br>　　在任意难度未持有【怦然信标】及【祭日之契】的情况下/<br>　　完成关卡 [[ISW-DF 混沌源阶理论]];<br>'''}'''</div>
+</div>
+{{AKCollapse/title|<span class{{=}}"semibig">纠缠，调和</span><br><span class{{=}}"code">reconcile()</span>|css=background:#b67932;color:#fff;}}
+<div class="AKCollapse-content">
+<div class="end_changed"><small>探索走向了不同的结局……</small><br>[[玻利瓦尔，症结之核|'''<span style="color:#55d547;text-decoration:underline;">乌托邦</span>''']]必将崛起。</div>
+[[文件:Avg pic rogue 6 43.png|600px]]<br><br>[[文件:情报处理室 播放按钮.png|40px|link=RO6-END-3/NBT]] [[RO6-END-3/NBT|<span class="serif">回放记录</span>]]<br>''它们发现“你”了。错误原因：在尝试写入时发生冲突；请求因无法解析中枢地址而终止。''
+<div style="background: linear-gradient(180deg, #aac1e1, #0000 3.5em);text-align:left;padding:0.5em;">'''function() {'''<br>　　在任意难度完成关卡 [[ISW-DF 畸症]];<br>'''}'''</div>
+</div>
+{{AKCollapse/title|<span class{{=}}"semibig">旧日重燃</span><br><span class{{=}}"code">replicate()</span>|css=background:#4e6d92;color:#fff;}}
+<div class="AKCollapse-content">
+<div class="end_changed"><small>探索走向了不同的结局……</small><br>这将会是无数次[[沉沦之人|'''<span style="color:#55d547;text-decoration:underline;">失败尝试</span>''']]中的又一例。</div>
+{{#widget:Torappu|src=avg/images/pic_rogue_6_48.png|width=600|alt=回归平常}}<br><br>[[文件:情报处理室 播放按钮.png|40px|link=RO6-END-4/NBT]] [[RO6-END-4/NBT|<span class="serif">回放记录</span>]]<br>''“你”好像就是不肯放弃。这里没有新的错误原因，我们或许很快会见面。''
+<div style="background: linear-gradient(180deg, #bcaec4, #0000 3.5em);text-align:left;padding:0.5em;">'''function() {'''<br>　　在任意难度完成关卡 [[ISW-DF 熄日]];<br>'''}'''</div>
+</div>
+<!------>
+</div>
+
+==本月委托栏==
+主题更新期间每月更新的当月任务。
+
+* 每月初会覆盖更新新一批委托（随机分配），并丢失上月进度。
+: 每次更新后将会获得4次刷新未完成委托的机会，可消耗1次机会对1个委托进行刷新。刷新出的委托会与被刷新的委托具有相同的等级，被刷新的委托会丢失进度。<br>委托等级分为a、b、c三级，分别奖励500、250、125源流样本。<br>每月必定且只会出现，也只能完成至多一个a级、一个b级和两个c级委托（即每月最多可通过此处委托获得'''1000'''源流样本）。
+* 当该次探索结束后获得的源流样本足以将源流堆栈的等级提升至当前等级上限时，本月委托栏中的任务将自动结束并无法获取源流样本。
+* 主题更新结束后，本月委托栏也将一并停止更新，不会再在本主题出现。
+{| class="wikitable mw-collapsed mw-collapsible" style="display:table;white-space:normal;text-align:center;width:min(600px, 100%);"
+! 委托等级 !! 委托名 !! 任务要求
+|-
+| rowspan=6 style="background: radial-gradient(circle, #e8e2e2 0.7em, #d9ad9d, #2d4b47, #0000 1.6em), linear-gradient(180deg, #24302e 60%, #699090, #e3d3cb);color: black;font-size:x-large;"| <span style="display:inline-block;line-height: 1em;vertical-align: middle;font-weight:bold;margin-bottom: 0.3em;">a</span>
+|高普尼克杀手||累计击败了3次高普尼克
+|-
+|犬口生还||累计通关1次结局
+|-
+|叮叮当当||在前瞻性投资系统中，累计投资30个源石锭
+|-
+|止啼||累计击败3次流泪小子
+|-
+|啮齿克星||累计击败3次圆仔
+|-
+|断獠牙||累计摆脱3次追猎
+|-
+| rowspan=9 style="background: radial-gradient(circle, #e8e2e2 0.7em, #d9ad9d, #2d4b47, #0000 1.6em), linear-gradient(180deg, #24302e 60%, #699090, #e3d3cb);color: black;font-size:x-large;"| <span style="display:inline-block;line-height: 1em;vertical-align: middle;font-weight:bold;margin-bottom: 0.3em;">b</span>
+|惊喜连连||累计探索24次不期而遇节点
+|-
+|披荆斩棘||累计探索8次紧急作战节点
+|-
+|主动出击||累计获得4次战术道具
+|-
+|呼朋唤友||累计助战招募8次干员
+|-
+|天衣无缝||累计完美作战12次
+|-
+|幸存者||在险路恶敌中，累计击败4次领袖
+|-
+|赏金猎人||累计迁走1次居民据点
+|-
+|半程伙伴||累计探索3次应急助力节点
+|-
+|好园丁||在秘境行商中，累计培育5个种子
+|-
+| rowspan=14 style="background: radial-gradient(circle, #e8e2e2 0.7em, #d9ad9d, #2d4b47, #0000 1.6em), linear-gradient(180deg, #24302e 60%, #699090, #e3d3cb);color: black;font-size:x-large;"| <span style="display:inline-block;line-height: 1em;vertical-align: middle;font-weight:bold;margin-bottom: 0.3em;">c</span>
+|珍品收藏||累计获得35次收藏品
+|-
+|人力管理||通过招募或应急助力，累计获得35次干员
+|-
+|久经战阵||累计歼灭500个敌人
+|-
+|资深调查员||累计探索50个非林间空地节点
+|-
+|甄选精英||累计进阶10次干员
+|-
+|源石经销商||累计消耗100源石锭
+|-
+|运筹帷幄||累计升级15次指挥等级
+|-
+|拾级而上||累计通过15个区域
+|-
+|行商知己||在诡意行商或秘境行商中，累计购买10件商品
+|-
+|分发希望||累计在招募时消耗75希望
+|-
+|广袤人脉||累计临时招募10次干员
+|-
+|实地考察||累计部署100次干员
+|-
+|狂飙大师||累计装载加工品进行10次移动
+|-
+|清仓高手||累计售出10个零件
+|}
+
+==特勤培训==
+{| class="wikitable" style="text-align:center; width:min(500px, 100%);display:table;"
+|-
+|style="background:#000;"|{{干员头像/发光|机械师|60px}}
+|rowspan=2|在'''【沉沦者的黑流树海】'''中具有特殊能力<br>通过与本活动的相关任务培养
+|-
+|style="background:#000;"|{{color|white|'''机械师'''}}
+|}
+达到[[#源流堆栈|源流堆栈]]1级获得机械师，解锁特勤培训任务养成干员！
+{{参阅|机械师#特勤培训|该特勤干员的培训方式}}
+
+==源流堆栈==
+{{#vardefine:prts-info|<span style="color: black; background: #91cf6b; padding: 4px 8px; width: fit-content; border-radius: 2px; box-shadow: 0 2px 6px 0px black;">{{mdi|information-variant-circle}} 在PRTS中查看</span>}}
+{{#vardefine:prts-info-red|<span style="color: white; background: #ff2525; padding: 4px 8px; width: fit-content; border-radius: 2px; box-shadow: 0 2px 6px 0px black;">{{mdi|close}} 暂无信息</span>}}
+{{#widget:style|style=
+.monthbar {background:#090809; color:white; max-width: 780px; width: 100%; padding: 10px; border-radius: 3px; box-shadow: 0 5px 5px 0px #929292;}
+.monthlayer {background: #91cf6b; color:#000; padding: 5px; border-radius: 3px;}
+.grandprize {display:flex;justify-content: space-between;align-items: center;} 
+@media screen and (max-width:600px) {
+      .grandprize {flex-direction: column-reverse;}
+} }}
+{{活动里程碑2/style|bg=#2f2f2f|color=white}}
+{{cbox2|lv=0|mdi=true|icon=bookmark|title=本小节奖励常驻获取。|text=当前处于每月更新期间，敬请关注官方信息。}}
+<!--{{参阅|表象载体/套组一览#黑流树海主题套组{{!}}表象载体/套组一览#黑流树海主题套组|本集成战略奖励解锁的表象载体套组}}-->
+通过获取[[文件:道具 带框 源流样本.png|40px|link=源流样本]][[源流样本]]提升等级以逐步获得奖励：
+* '''常驻方式：'''游玩[[#常规行动|常规行动]]模式，根据探索分数获得源流样本：
+{|class="wikitable mw-collapsed mw-collapsible" style="white-space:normal"
+!colspan=2|计算方式
+|-
+|通过层数 '''※1'''||0/40/80/150/270/400/550/650
+|-
+|通过步数||通过步数×1
+|-
+|普通战斗次数||普通战斗次数×10
+|-
+|招募干员次数 '''※2'''||招募干员次数×2
+|-
+|获得物品数 '''※3'''||获得物品数×5
+|-
+|领袖战斗次数 '''※4'''||领袖战斗次数×30
+|-
+|精英战斗次数||精英战斗次数×20
+|-
+|colspan=2|'''※1''' 每通过1次【未萌生的摇篮】，本次结算通过层数+1，超过6层按通过6层给予分数，本结算显示上限为6
+|-
+|colspan=2|'''※2''' 不含初始招募阶段的执行的各类招募（进阶）
+|-
+|colspan=2|'''※3''' 包括收藏品与战术道具'''以及零件'''，不含初始携带的收藏品和当次探索培育出的<襁褓生灵>；通过各种方式失去的上述物品也会被计入
+|-
+|colspan=2|'''※4''' 因节点机制影响，【[[ISW-DF 混沌源阶理论|混沌源阶理论]]】不计入该类计数
+|-
+|colspan=2|以上数值求和后乘以难度提供的倍率即为探索分数。<br>默认分数转换源流样本效率为1:1，通过[[#生命游戏|生命游戏]]可提升转换效率<br>（最大提升10%。难度等级3+/6+/9+时每个额外提升2%，即1:1.1/1.12/1.14/1.16）
+|}
+* '''仅限主题更新期间：'''
+** 完成每月的[[#本月委托栏|本月委托栏]]委托获得源流样本；
+** 完成每月的[[#游览者列表|实践者列表]]任务获得源流样本。
+* '''等级开放购买：'''主题完结后开放，使用1个[[至纯源石]]直接提升1级源流堆栈等级。
+** 可提升任意多个等级，最高可提升至当前提供的最高等级，系统将自动计算经过的等级并实时调整支付价格和可获得的奖励。<br>每购买1级等级视为立刻补充等同于当前等级0经验时升级所需的源流样本。
+※每个奖励左侧的大号数字为等级，下方的数字为 累积经验'''(+升至此级所需经验)'''
+<tabber>
+26/7 ▶=
+<div class="monthbar"><big>'''2026/07'''</big> <span class="monthlayer">{{mdi|layers}} '''LV 1 ~ 50'''</span> {{mdi|checkbox-multiple-blank-circle|flip=h}} 合计 '''1.3万''' 源流样本'''（+1.3万）'''</div>
+<ul class="tl-eventpoint-ul">
+{{活动里程碑2|exp=200|1<sup style{{=}}"font-size: x-small;">[{{mdi|star}}]</sup>|机械师|1|{{招聘合同|机械师|48}}|bg=linear-gradient(90deg, #5b8d3d, #223f68, #af4843)|color=#fff}}
+{{活动里程碑2|exp=200|2|龙门币|20000|{{道具图标|龙门币||48px}}}}
+{{活动里程碑2|exp=200|3|高级作战记录|10|{{道具图标|高级作战记录||48px}}}}
+{{活动里程碑2|exp=200|4|液化高能气体|10|{{道具图标|液化高能气体||48px}}|bg=linear-gradient(90deg, #2196F3, #2f2f2f 30%)}}
+{{活动里程碑2|exp=200|5|技巧概要·卷1|30|{{道具图标|技巧概要·卷1||48px}}}}
+<!---->
+{{活动里程碑2|exp=200|6|炽合金块|3|{{道具图标|炽合金块||48px}}|bg=linear-gradient(90deg, #BA68C8, #2f2f2f 30%)}}
+{{活动里程碑2|exp=200|7|龙门币|20000|{{道具图标|龙门币||48px}}}}
+{{活动里程碑2|exp=200|8|高级作战记录|10|{{道具图标|高级作战记录||48px}}}}
+{{活动里程碑2|exp=200|9|类凝结核|10|{{道具图标|类凝结核||48px}}|bg=linear-gradient(90deg, #2196F3, #2f2f2f 30%)}}
+{{活动里程碑2|exp=200|10|技巧概要·卷2|10|{{道具图标|技巧概要·卷2||48px}}}}
+<!---->
+{{活动里程碑2|exp=200|11|固化纤维板|3|{{道具图标|固化纤维板||48px}}|bg=linear-gradient(90deg, #BA68C8, #2f2f2f 30%)}}
+{{活动里程碑2|exp=200|12|龙门币|20000|{{道具图标|龙门币||48px}}}}
+{{活动里程碑2|exp=225|13|高级作战记录|10|{{道具图标|高级作战记录||48px}}}}
+{{活动里程碑2|exp=225|14|电极单元|10|{{道具图标|电极单元||48px}}|bg=linear-gradient(90deg, #2196F3, #2f2f2f 30%)}}
+{{活动里程碑2|exp=225|15|技巧概要·卷3|3|{{道具图标|技巧概要·卷3||48px}}}}
+<!---->
+{{活动里程碑2|exp=225|16|环烃预制体|3|{{道具图标|环烃预制体||48px}}|bg=linear-gradient(90deg, #BA68C8, #2f2f2f 30%)}}
+{{活动里程碑2|exp=225|17|龙门币|20000|{{道具图标|龙门币||48px}}}}
+{{活动里程碑2|exp=225|18|高级作战记录|10|{{道具图标|高级作战记录||48px}}}}
+{{活动里程碑2|exp=225|19|晶体电路|3|{{道具图标|晶体电路||48px}}|bg=linear-gradient(90deg, #BA68C8, #2f2f2f 30%)}}
+{{活动里程碑2|exp=225|20|技巧概要·卷1|30|{{道具图标|技巧概要·卷1||48px}}}}
+<!---->
+{{活动里程碑2|exp=250|21|晶体电子单元|1|{{道具图标|晶体电子单元||48px}}|bg=linear-gradient(90deg, #FFC107, #2f2f2f 30%)}}
+{{活动里程碑2|exp=250|22|龙门币|30000|{{道具图标|龙门币||48px}}}}
+{{活动里程碑2|exp=250|23|精炼溶剂|3|{{道具图标|精炼溶剂||48px}}|bg=linear-gradient(90deg, #BA68C8, #2f2f2f 30%)}}
+{{活动里程碑2|exp=250|24|高级作战记录|15|{{道具图标|高级作战记录||48px}}}}
+{{活动里程碑2|exp=250|25|聚合凝胶|3|{{道具图标|聚合凝胶||48px}}|bg=linear-gradient(90deg, #BA68C8, #2f2f2f 30%)}}
+<!---->
+{{活动里程碑2|exp=250|26|龙门币|30000|{{道具图标|龙门币||48px}}}}
+{{活动里程碑2|exp=250|27|聚合剂|1|{{道具图标|聚合剂||48px}}|bg=linear-gradient(90deg, #FFC107, #2f2f2f 30%)}}
+{{活动里程碑2|exp=250|28|高级作战记录|15|{{道具图标|高级作战记录||48px}}}}
+{{活动里程碑2|exp=275|29|聚能动力单元|3|{{道具图标|聚能动力单元||48px}}|bg=linear-gradient(90deg, #BA68C8, #2f2f2f 30%)}}
+{{活动里程碑2|exp=275|30|机械师的信物|1|{{道具图标|机械师的信物||48px}}|bg=linear-gradient(90deg, #5b8d3d, #223f68, #af4843)|color=#fff}}
+<!---->
+{{活动里程碑2|exp=275|31|龙门币|30000|{{道具图标|龙门币||48px}}}}
+{{活动里程碑2|exp=275|32|切削原液|3|{{道具图标|切削原液||48px}}|bg=linear-gradient(90deg, #BA68C8, #2f2f2f 30%)}}
+{{活动里程碑2|exp=275|33|高级作战记录|15|{{道具图标|高级作战记录||48px}}}}
+{{活动里程碑2|exp=275|34|手性屈光体|3|{{道具图标|手性屈光体||48px}}|bg=linear-gradient(90deg, #BA68C8, #2f2f2f 30%)}}
+{{活动里程碑2|exp=275|35|机械师的信物|1|{{道具图标|机械师的信物||48px}}|bg=linear-gradient(90deg, #5b8d3d, #223f68, #af4843)|color=#fff}}
+<!---->
+{{活动里程碑2|exp=275|36|龙门币|30000|{{道具图标|龙门币||48px}}}}
+{{活动里程碑2|exp=300|37|重相位对映体|1|{{道具图标|重相位对映体||48px}}|bg=linear-gradient(90deg, #FFC107, #2f2f2f 30%)}}
+{{活动里程碑2|exp=300|38|高级作战记录|15|{{道具图标|高级作战记录||48px}}}}
+{{活动里程碑2|exp=300|39|提纯源岩|3|{{道具图标|提纯源岩||48px}}|bg=linear-gradient(90deg, #BA68C8, #2f2f2f 30%)}}
+{{活动里程碑2|exp=300|40|机械师的信物|1|{{道具图标|机械师的信物||48px}}|bg=linear-gradient(90deg, #5b8d3d, #223f68, #af4843)|color=#fff}}
+<!---->
+{{活动里程碑2|exp=300|41|龙门币|50000|{{道具图标|龙门币||48px}}}}
+{{活动里程碑2|exp=300|42|酮阵列|3|{{道具图标|酮阵列||48px}}|bg=linear-gradient(90deg, #BA68C8, #2f2f2f 30%)}}
+{{活动里程碑2|exp=300|43|高级作战记录|20|{{道具图标|高级作战记录||48px}}}}
+{{活动里程碑2|exp=325|44|液化醚吸聚体|3|{{道具图标|液化醚吸聚体||48px}}|bg=linear-gradient(90deg, #BA68C8, #2f2f2f 30%)}}
+{{活动里程碑2|exp=325|45|机械师的信物|1|{{道具图标|机械师的信物||48px}}|bg=linear-gradient(90deg, #5b8d3d, #223f68, #af4843)|color=#fff}}
+<!---->
+{{活动里程碑2|exp=325|46|龙门币|50000|{{道具图标|龙门币||48px}}}}
+{{活动里程碑2|exp=325|47|烧结核凝晶|1|{{道具图标|烧结核凝晶||48px}}|bg=linear-gradient(90deg, #FFC107, #2f2f2f 30%)}}
+{{活动里程碑2|exp=400|48|高级作战记录|20|{{道具图标|高级作战记录||48px}}}}
+{{活动里程碑2|exp=400|49|异铁块|3|{{道具图标|异铁块||48px}}|bg=linear-gradient(90deg, #BA68C8, #2f2f2f 30%)}}
+{{活动里程碑2|exp=400|50|机械师的信物|1|{{道具图标|机械师的信物||48px}}|bg=linear-gradient(90deg, #5b8d3d, #223f68, #af4843)|color=#fff}}
+</ul>
+{| class="wikitable prts-table-dark" style="background:#090809; color:white; max-width: 780px; width: 100%; display:table; white-space:normal;"
+|-
+| <div class="grandprize">
+<div>
+达到 <span style="color:#91cf6b; font-size: x-large;">'''Lv1'''</span> 以获取<br>
+{{color|#91cf6b|主题特勤干员}} <span style="font-size: x-large;">'''机械师'''</span><br>
+<span style="color:#91cf6b; font-size: smaller;">累计 '''200''' 源流样本获得</span><br>
+<div style="margin: 15px 0px;">''重装干员机械师，即日起纳入你的指挥序列。<br>但其实，你早就已经被列入了他的指挥序列。<br>毕竟，你用过的许许多多设备，都由他创造，也由他掌控。''<br><br>[[机械师|{{#var:prts-info}}]]<br>并确认该干员的[[机械师#特勤培训|{{color|#91cf6b|特勤培训任务}}]]</div>
+</div>
+<div>[[文件:集成战略 7 稀有奖励 1.png|256px|link=]]</div>
+</div>
+|}
+|-|
+26/8 ＋=
+<div class="monthbar"><big>'''2026/08'''</big> <span class="monthlayer">{{mdi|layers}} '''LV 51 ~ 65'''</span> {{mdi|checkbox-multiple-blank-circle|flip=h}} 合计 '''1.9万''' 源流样本'''（+6000）'''</div>
+<ul class="tl-eventpoint-ul">
+{{活动里程碑2|exp=400|51|龙门币|50000|{{道具图标|龙门币||48px}}}}
+{{活动里程碑2|exp=400|52|高级作战记录|20|{{道具图标|高级作战记录||48px}}}}
+{{活动里程碑2|exp=400|53|转质盐聚块|3|{{道具图标|转质盐聚块||48px}}|bg=linear-gradient(90deg, #BA68C8, #2f2f2f 30%)}}
+{{活动里程碑2|exp=400|54|技巧概要·卷1|30|{{道具图标|技巧概要·卷1||48px}}}}
+{{活动里程碑2|exp=400|55|晶体电子单元|1|{{道具图标|晶体电子单元||48px}}|bg=linear-gradient(90deg, #FFC107, #2f2f2f 30%)}}
+<!---->
+{{活动里程碑2|exp=400|56|龙门币|50000|{{道具图标|龙门币||48px}}}}
+{{活动里程碑2|exp=400|57|高级作战记录|20|{{道具图标|高级作战记录||48px}}}}
+{{活动里程碑2|exp=400|58|数据增补条|60|{{道具图标|数据增补条||48px}}|bg=linear-gradient(90deg, #BA68C8, #2f2f2f 30%)}}
+{{活动里程碑2|exp=400|59|技巧概要·卷2|10|{{道具图标|技巧概要·卷2||48px}}}}
+{{活动里程碑2|exp=400|60|炽合金块|3|{{道具图标|炽合金块||48px}}|bg=linear-gradient(90deg, #BA68C8, #2f2f2f 30%)}}
+<!---->
+{{活动里程碑2|exp=400|61|龙门币|50000|{{道具图标|龙门币||48px}}}}
+{{活动里程碑2|exp=400|62|高级作战记录|20|{{道具图标|高级作战记录||48px}}}}
+{{活动里程碑2|exp=400|63|聚合剂|1|{{道具图标|聚合剂||48px}}|bg=linear-gradient(90deg, #FFC107, #2f2f2f 30%)}}
+{{活动里程碑2|exp=400|64|技巧概要·卷3|3|{{道具图标|技巧概要·卷3||48px}}}}
+{{活动里程碑2|exp=400|65<sup style{{=}}"font-size: x-small;">[{{mdi|star}}]</sup>|高级资深干员技巧集|1|{{道具图标|高级资深干员技巧集||48px}}|bg=linear-gradient(90deg, #5b8d3d, #223f68, #af4843)|color=#fff}}
+</ul>
+{| class="wikitable prts-table-dark" style="background:#090809; color:white; max-width: 780px; width: 100%; display:table; white-space:normal;"
+|-
+| <div class="grandprize">
+<div>
+达到 <span style="color:#91cf6b; font-size: x-large;">'''Lv65'''</span> 以获取<br>
+<span style="font-size: x-large;">'''高级资深干员技巧集'''</span><br>
+<span style="color:#91cf6b; font-size: smaller;">累计 '''1.9万''' 源流样本获得</span><br>
+<div style="margin: 15px 0px;">''全面详实地记载了专家级技艺的集录，<br>干员经过学习操练，可以快速积累经验，达到专家级的认定标准。''<br><br>[[高级资深干员技巧集|{{#var:prts-info}}]]</div>
+</div>
+<div>[[文件:集成战略 7 稀有奖励 2.png|256px|link=]]</div>
+</div>
+|}
+|-|
+26/9 ＋=
+<div class="monthbar"><big>'''2026/09'''</big> <span class="monthlayer">{{mdi|layers}} '''LV 66 ~ 80'''</span> {{mdi|checkbox-multiple-blank-circle|flip=h}} 合计 '''2.5万''' 源流样本'''（+6000）'''</div>
+<ul class="tl-eventpoint-ul">
+{{活动里程碑2|exp=400|66|龙门币|50000|{{道具图标|龙门币||48px}}}}
+{{活动里程碑2|exp=400|67|高级作战记录|20|{{道具图标|高级作战记录||48px}}}}
+{{活动里程碑2|exp=400|68|固化纤维板|3|{{道具图标|固化纤维板||48px}}|bg=linear-gradient(90deg, #BA68C8, #2f2f2f 30%)}}
+{{活动里程碑2|exp=400|69|技巧概要·卷1|30|{{道具图标|技巧概要·卷1||48px}}}}
+{{活动里程碑2|exp=400|70|重相位对映体|1|{{道具图标|重相位对映体||48px}}|bg=linear-gradient(90deg, #FFC107, #2f2f2f 30%)}}
+<!---->
+{{活动里程碑2|exp=400|71|龙门币|50000|{{道具图标|龙门币||48px}}}}
+{{活动里程碑2|exp=400|72|高级作战记录|20|{{道具图标|高级作战记录||48px}}}}
+{{活动里程碑2|exp=400|73<sup style{{=}}"font-size: x-small;">[{{mdi|star}}]</sup>|黑流印象家具收藏包一|1|{{道具图标|黑流印象家具收藏包一||48px}}|bg=linear-gradient(90deg, #5b8d3d, #223f68, #af4843)|color=#fff}}
+{{活动里程碑2|exp=400|74|技巧概要·卷2|10|{{道具图标|技巧概要·卷2||48px}}}}
+{{活动里程碑2|exp=400|75|环烃预制体|3|{{道具图标|环烃预制体||48px}}|bg=linear-gradient(90deg, #BA68C8, #2f2f2f 30%)}}
+<!---->
+{{活动里程碑2|exp=400|76|龙门币|50000|{{道具图标|龙门币||48px}}}}
+{{活动里程碑2|exp=400|77|高级作战记录|20|{{道具图标|高级作战记录||48px}}}}
+{{活动里程碑2|exp=400|78|烧结核凝晶|1|{{道具图标|烧结核凝晶||48px}}|bg=linear-gradient(90deg, #FFC107, #2f2f2f 30%)}}
+{{活动里程碑2|exp=400|79|技巧概要·卷3|3|{{道具图标|技巧概要·卷3||48px}}}}
+{{活动里程碑2|exp=400|80<sup style{{=}}"font-size: x-small;">[{{mdi|star}}]</sup>|幽脉|1|[[文件:界面主题 幽脉 道具.png|48px|link=界面主题一览#幽脉]]|bg=linear-gradient(90deg, #5b8d3d, #223f68, #af4843)|color=#fff}}
+</ul>
+</ul>
+{| class="wikitable prts-table-dark" style="background:#090809; color:white; max-width: 780px; width: 100%; display:table; white-space:normal;"
+|-
+| <div class="grandprize">
+<div>
+达到 <span style="color:#91cf6b; font-size: x-large;">'''Lv73'''</span> 以获取<br>
+{{color|#91cf6b|主题家具包}}<br><span style="font-size: x-large;">'''黑流印象家具收藏包一'''</span><br>
+<span style="color:#91cf6b; font-size: smaller;">累计 '''2.22万''' 源流样本获得</span><br>
+<div style="margin: 15px 0px;">''黑流树海里流淌的记忆不会停滞。<br>生命在此诞生、断裂，又被封存。<br>时间沿着根脉爬上沉沦者的额头，<br>在林叶与泥土间，长成新的年轮。''<br><br>[[黑流印象家具收藏包一|{{#var:prts-info}}]]</div>
+</div>
+<div>[[文件:集成战略 7 稀有奖励 3.png|256px|link=]]</div>
+</div>
+|-
+| <div class="grandprize">
+<div>
+达到 <span style="color:#91cf6b; font-size: x-large;">'''Lv80'''</span> 以获取<br>
+{{color|#91cf6b|界面主题}} <span style="font-size: x-large;">'''幽脉'''</span><br>
+<span style="color:#91cf6b; font-size: smaller;">累计 '''2.5万''' 源流样本获得</span><br>
+<div style="margin: 15px 0px;">''襁褓溯游而上，于藤蔓与骸骨的分叉处，仰望未知的生命奇景。''<br><br>[[界面主题一览#幽脉|{{#var:prts-info}}]]</div>
+</div>
+<div>[[文件:集成战略 7 稀有奖励 4.png|256px|link=]]</div>
+</div>
+|}
+|-|
+26/10 ＋=
+<div class="monthbar"><big>'''2026/10'''</big> <span class="monthlayer">{{mdi|layers}} '''LV 81 ~ 95'''</span> {{mdi|checkbox-multiple-blank-circle|flip=h}} 合计 '''3.1万''' 源流样本'''（+6000）'''</div>
+<ul class="tl-eventpoint-ul">
+{{活动里程碑2|exp=400|81|龙门币|50000|{{道具图标|龙门币||48px}}}}
+{{活动里程碑2|exp=400|82|高级作战记录|20|{{道具图标|高级作战记录||48px}}}}
+{{活动里程碑2|exp=400|83|晶体电路|3|{{道具图标|晶体电路||48px}}|bg=linear-gradient(90deg, #BA68C8, #2f2f2f 30%)}}
+{{活动里程碑2|exp=400|84|技巧概要·卷1|30|{{道具图标|技巧概要·卷1||48px}}}}
+{{活动里程碑2|exp=400|85|晶体电子单元|1|{{道具图标|晶体电子单元||48px}}|bg=linear-gradient(90deg, #FFC107, #2f2f2f 30%)}}
+<!---->
+{{活动里程碑2|exp=400|86|龙门币|50000|{{道具图标|龙门币||48px}}}}
+{{活动里程碑2|exp=400|87|高级作战记录|20|{{道具图标|高级作战记录||48px}}}}
+{{活动里程碑2|exp=400|88|精炼溶剂|3|{{道具图标|精炼溶剂||48px}}|bg=linear-gradient(90deg, #BA68C8, #2f2f2f 30%)}}
+{{活动里程碑2|exp=400|89|技巧概要·卷2|10|{{道具图标|技巧概要·卷2||48px}}}}
+{{活动里程碑2|exp=400|90|聚合凝胶|3|{{道具图标|聚合凝胶||48px}}|bg=linear-gradient(90deg, #BA68C8, #2f2f2f 30%)}}
+<!---->
+{{活动里程碑2|exp=400|91|龙门币|50000|{{道具图标|龙门币||48px}}}}
+{{活动里程碑2|exp=400|92|高级作战记录|20|{{道具图标|高级作战记录||48px}}}}
+{{活动里程碑2|exp=400|93|聚合剂|1|{{道具图标|聚合剂||48px}}|bg=linear-gradient(90deg, #FFC107, #2f2f2f 30%)}}
+{{活动里程碑2|exp=400|94|技巧概要·卷3|3|{{道具图标|技巧概要·卷3||48px}}}}
+{{活动里程碑2|exp=400|95<sup style{{=}}"font-size: x-small;">[{{mdi|star}}]</sup>|千尺俯瞰|1|{{皮肤头像|承曦格雷伊|48px|3}}|bg=linear-gradient(90deg, #5b8d3d, #223f68, #af4843)|color=#fff}}
+</ul>
+{| class="wikitable prts-table-dark" style="background:#090809; color:white; max-width: 780px; width: 100%; display:table; white-space:normal;"
+|-
+| <div class="grandprize">
+<div>
+达到 <span style="color:#91cf6b; font-size: x-large;">'''Lv95'''</span> 以获取<br>
+{{color|#91cf6b|承曦格雷伊形象时装}}<br><span style="font-size: x-large;">'''千尺俯瞰'''</span><br>
+<span style="color:#91cf6b; font-size: smaller;">累计 '''3.1万''' 源流样本获得</span><br>
+<div style="margin: 15px 0px;">''远方的星辰在逐渐变成群青色的天空中正开始闪烁，脚下除了鸣叫着的羽兽群，更有蜿蜒不断的沿岸风景。<br>吹在脸颊上的风变凉的时候，格雷伊明白今天的探索就要告一段落了。<br>多么愉快的旅程，他发自心底这么想。''<br><br>[[时装回廊/生命之地#千尺俯瞰|{{#var:prts-info}}]]</div>
+</div>
+<div>[[文件:集成战略 7 稀有奖励 5.png|256px|link=]]</div>
+</div>
+|}
+|-|
+26/11 ＋=
+<div class="monthbar"><big>'''2026/11'''</big> <span class="monthlayer">{{mdi|layers}} '''LV ?? ~ ??'''</span> {{mdi|checkbox-multiple-blank-circle|flip=h}} 合计 '''??万''' 源流样本'''（+??）'''</div>
+<ul class="tl-eventpoint-ul">
+</ul>
+{| class="wikitable prts-table-dark" style="background:#090809; color:white; max-width: 780px; width: 100%; display:table; white-space:normal;"
+|-
+| <div class="grandprize">
+<div>
+达到 <span style="color:#91cf6b; font-size: x-large;">'''Lv??'''</span> 以获取<br>
+{{color|#91cf6b|主题家具包}}<br><span style="font-size: x-large;">'''黑流印象家具收藏包二'''</span><br>
+<span style="color:#91cf6b; font-size: smaller;">累计 '''??万''' 源流样本获得</span><br>
+<div style="margin: 15px 0px;">''黑流树海里流淌的记忆不会停滞。<br>生命在此诞生，断裂，又被封存。<br>记忆沿着裂隙渗入遗忘者的脊背，<br>在腐坏与萌发之间，生出新的聚落。''<br><br>[[黑流印象家具收藏包二|{{#var:prts-info-red}}]]</div>
+</div>
+<div>[[文件:集成战略 7 稀有奖励 6.png|256px|link=]]</div>
+</div>
+|-
+| <div class="grandprize">
+<div>
+达到 <span style="color:#91cf6b; font-size: x-large;">'''Lv??'''</span> 以获取<br>
+<span style="font-size: x-large;">'''模组数据整合箱'''</span><br>
+<span style="color:#91cf6b; font-size: smaller;">累计 '''??万''' 源流样本获得</span><br>
+<div style="margin: 15px 0px;">''数据内容的整合，系统工程的结晶。<br>能够增强干员能力，或是辅助调整他们的作战方式。<br>你会现在就思考如何使用它吗？<br>抑或是收入囊中，等待更合适的时机？''<br><br>[[模组数据整合箱|{{#var:prts-info}}]]</div>
+</div>
+<div>[[文件:集成战略 7 稀有奖励 7.png|256px|link=]]</div>
+</div>
+|}
+|-|
+26/12 ＋=
+<div class="monthbar"><big>'''2026/12'''</big> <span class="monthlayer">{{mdi|layers}} '''LV ?? ~ ??'''</span> {{mdi|checkbox-multiple-blank-circle|flip=h}} 合计 '''??万''' 源流样本'''（+??）'''</div>
+<ul class="tl-eventpoint-ul">
+</ul>
+{| class="wikitable prts-table-dark" style="background:#090809; color:white; max-width: 780px; width: 100%; display:table; white-space:normal;"
+|-
+| <div class="grandprize">
+<div>
+达到 <span style="color:#91cf6b; font-size: x-large;">'''Lv??'''</span> 以获取<br>
+{{color|#91cf6b|主题可交互家具}}<br><span style="font-size: x-large;">'''“橙黄色的美梦”'''</span><br>
+<span style="color:#91cf6b; font-size: smaller;">累计 '''??万''' 源流样本获得</span><br>
+<div style="margin: 15px 0px;">''一段温暖的树桩，小小的橙黄色生物探出脑袋，欢快地摇晃着尾巴。<br>这是她的美梦，现在，她想与你分享。''<br><br>[[“橙黄色的美梦”|{{#var:prts-info-red}}]]</div>
+</div>
+<div>[[文件:集成战略 7 稀有奖励 8.png|256px|link=]]</div>
+</div>
+|-
+| <div class="grandprize">
+<div>
+达到 <span style="color:#91cf6b; font-size: x-large;">'''Lv??'''</span> 以获取<br>
+{{color|#91cf6b|麦哲伦形象时装}}<br><span style="font-size: x-large;">'''神秘时装'''</span><br>
+<span style="color:#91cf6b; font-size: smaller;">累计 '''??万''' 源流样本获得</span><br>
+<div style="margin: 15px 0px;">''她上一次来到这里的时候，黑流树海中还见不到那么多奇异的生命现象。<br>尽管被再三叮嘱要与“居民”们保持安全距离，但她还是一下子就跟它们交上了朋友。<br>真奇怪，难道她比其他探险者身上多了点什么？<br>又或许，只是少沾染了一点不该从文明中带去的东西吧。''<br><br>[[时装回廊/？？#？？|{{#var:prts-info-red}}]]</div>
+</div>
+<div>[[文件:集成战略 7 稀有奖励 9.png|256px|link=]]</div>
+</div>
+|}
+|-|
+27/1 ＋=
+<div class="monthbar"><big>'''2027/01'''</big> <span class="monthlayer">{{mdi|layers}} '''LV ?? ~ ??'''</span> {{mdi|checkbox-multiple-blank-circle|flip=h}} 合计 '''??万''' 源流样本'''（+??）'''</div>
+<ul class="tl-eventpoint-ul">
+</ul>
+{| class="wikitable prts-table-dark" style="background:#090809; color:white; max-width: 780px; width: 100%; display:table; white-space:normal;"
+|-
+| <div class="grandprize">
+<div>
+达到 <span style="color:#91cf6b; font-size: x-large;">'''Lv??'''</span> 以获取<br>
+{{color|#91cf6b|主题场景}}<br><span style="font-size: x-large;">'''神秘场景'''</span><br>
+<span style="color:#91cf6b; font-size: smaller;">累计 '''??万''' 源流样本获得</span><br>
+<div style="margin: 15px 0px;">''祂奔于死的荒原上，照见万灵原本的模样。<br>从此，大地是祂的皮，河流是祂的血管，一切向上生长的是祂的骨。''<br><br>[[首页场景一览#？？|{{#var:prts-info-red}}]]</div>
+</div>
+<div>[[文件:集成战略 7 稀有奖励 10.png|256px|link=]]</div>
+</div>
+|}
+|-|
+27/2 ＋=
+<div class="monthbar"><big>'''2027/02'''</big> <span class="monthlayer">{{mdi|layers}} '''LV ?? ~ ??'''</span> {{mdi|checkbox-multiple-blank-circle|flip=h}} 合计 '''??万''' 源流样本'''（+??）'''</div>
+<ul class="tl-eventpoint-ul">
+</ul>
+{| class="wikitable prts-table-dark" style="background:#090809; color:white; max-width: 780px; width: 100%; display:table; white-space:normal;"
+|-
+| <div class="grandprize">
+<div>
+达到 <span style="color:#91cf6b; font-size: x-large;">'''Lv??'''</span> 以获取<br>
+{{color|#91cf6b|主题头像}}<br><span style="font-size: x-large;">'''神秘头像'''</span><br>
+<span style="color:#91cf6b; font-size: smaller;">累计 '''??万''' 源流样本获得</span><br>
+<div style="margin: 15px 0px;">''在“长大”之前，它已经失去了诞生和死亡的资格。''<br><br>[[个人头像一览#？？|{{#var:prts-info-red}}]]</div>
+</div>
+<div>[[文件:集成战略 7 稀有奖励 11.png|256px|link=]]</div>
+</div>
+|}
+</tabber>
+
+==生命游戏==
+* 可在此处消耗[[演化算子]]为探索提供永久增益。
+: 除“生灵的溯游”类节点仅限“常规行动”模式生效外，所有加成在本主题的任何模式均生效，探索途中无法升级节点。
+* 不同的节点能够带来不同方向上的加成：
+:* 有的节点能拓展探索功能、带来多样化的探索经历；
+:* 有的节点能增强属性或提升转换源流样本的效率；
+:* 有的节点能解锁特殊的分队流派，让探索更加多样。
+:* 此外还有三个特殊的、不需要消耗演化算子升级的“生灵的溯游”类节点，其单个节点即拥有多种效果。<br>当玩家点亮其任意一个前置节点后，挑战对应难度时即自动生效。
+* 当所有节点都已点亮后，主界面入口处及该界面右上角将变为“采集完成”，且不再显示演化算子数量。同时在游戏结算页面相关信息会显示“MAX”，不再继续获得[[演化算子]]。
+
+<tabber>
+PHASE 1=
+<!--[[文件:沉沦者的黑流树海 生命游戏 节点树 1.png|1000px]]-->
+{| class="wikitable prts-table-dark" style="text-align:center;background:#1D1D1D;color:white;width:100%;max-width:1000px"
+|colspan=4 style="background:#14b4a3;color:#2f2f2f;text-align:left;width:30%"|'''本节合计加成'''
+|-
+|style="color:white;text-align:left;font-size: large;width:25%;"|'''属性'''
+|style="color:white;text-align:left;font-size: large;width:25%;"|'''探索'''
+|style="color:white;text-align:left;font-size: large;width:25%;"|'''分队'''
+|style="color:white;text-align:left;font-size: large;width:25%;"|'''生灵的溯游'''
+|-
+|rowspan=2 style="text-align:left;"|我方单位攻击力+2%<br>我方单位防御力+2%<br>我方单位生命值+5%<br>战斗获取指挥经验+10%<br><br>初始护盾+1<br><br>转换源流样本效率+2%
+|style="text-align:left;"|探索中自然出现“误入奇境”节点<br>探索中自然出现“先行一步”节点
+|rowspan=2 style="text-align:left;"|——
+|rowspan=2 style="text-align:left;"|分裂：<br>{{mdi|circle-small}}指挥分队效果提升{{popup|内容=每次战斗结束后若护盾小于5点，额外获得1点护盾}}<br>{{mdi|circle-small}}“羽瞰点”揭露的视野范围变大<br>{{mdi|circle-small}}转换源流样本效率+2%<br>{{color|#14b4a3|<保密等级·3+>难度自动生效}}
+|-
+|style="text-align:left;"|“失与得”出现额外选项（可以交换零件）<br>“诡意行商”与“秘境行商”节点可刷新商品<br>“诡意行商”节点可以出售零件
+|-
+|}
+|-|
+PHASE 2=
+<!--[[文件:沉沦者的黑流树海 生命游戏 节点树 2.png|1000px]]-->
+{| class="wikitable prts-table-dark" style="text-align:center;background:#1D1D1D;color:white;width:100%;max-width:1000px"
+|colspan=4 style="background:#14b4a3;color:#2f2f2f;text-align:left;width:30%"|'''本节合计加成'''
+|-
+|style="color:white;text-align:left;font-size: large;width:25%;"|'''属性'''
+|style="color:white;text-align:left;font-size: large;width:25%;"|'''探索'''
+|style="color:white;text-align:left;font-size: large;width:25%;"|'''分队'''
+|style="color:white;text-align:left;font-size: large;width:25%;"|'''生灵的溯游'''
+|-
+|rowspan=3 style="text-align:left;"|我方单位攻击力+6%<br>我方单位防御力+6%<br>我方单位生命值+5%<br>可携带人数+1<br><br>初始护盾+1<br>初始源石锭+2<br>初始额外获得1个“种子”零件<br><br>转换源流样本效率+2%
+|rowspan=3 style="text-align:left;"|每次通过结局后，前瞻性投资系统源石锭余额+5
+|[[文件:集成战略 分队 38.png|80px|link=]]<br><div style="text-align:left;">{{mdi|record-circle-outline|color=#14b4a3}} 解锁“文明开化分队”
+|rowspan=3 style="text-align:left;"|卵生：<br>{{mdi|circle-small}}后勤分队效果提升{{popup|内容=初始携带<[[沉沦者的黑流树海/引擎配件目录#多生苔藓|多生苔藓]]>}}<br>{{mdi|circle-small}}诡意行商中会额外出售两个商品<br>{{mdi|circle-small}}转换源流样本效率+2%<br>{{color|#14b4a3|<保密等级·6+>难度自动生效}}
+|-
+|[[文件:集成战略 分队 40.png|80px|link=]]<br><div style="text-align:left;">{{mdi|record-circle-outline|color=#14b4a3}} 解锁“多边贸易分队”
+|-
+|[[文件:集成战略 分队 39.png|80px|link=]]<br><div style="text-align:left;">{{mdi|record-circle-outline|color=#14b4a3}} 解锁“开拓者分队”
+|}
+|-|
+PHASE 3=
+<!--[[文件:沉沦者的黑流树海 生命游戏 节点树 3.png|1000px]]-->
+{| class="wikitable prts-table-dark" style="text-align:center;background:#1D1D1D;color:white;width:100%;max-width:1000px"
+|colspan=4 style="background:#14b4a3;color:#2f2f2f;text-align:left;width:30%"|'''本节合计加成'''
+|-
+|style="color:white;text-align:left;font-size: large;width:25%;"|'''属性'''
+|style="color:white;text-align:left;font-size: large;width:25%;"|'''探索'''
+|style="color:white;text-align:left;font-size: large;width:25%;"|'''分队'''
+|style="color:white;text-align:left;font-size: large;width:25%;"|'''生灵的溯游'''
+|-
+|rowspan=3 style="text-align:left;"|我方单位攻击力+6%<br>我方单位防御力+6%<br>我方单位生命值+10%<br>战斗获取指挥经验+10%<br><br><br>初始源石锭+2<br>初始额外获得1个“种子”零件<br><br>转换源流样本效率+2%
+|style="text-align:left;"|进入“安全的角落”时回复3点目标生命值
+|rowspan=3 style="text-align:left;"|——
+|rowspan=3 style="text-align:left;"|胎生：<br>{{mdi|circle-small}}矛头分队效果提升{{popup|内容=初始携带【[[沉沦者的黑流树海/拟造物质编目#233|时光之末]]】}}<br>{{mdi|circle-small}}通过“险路尽头”或“险路小径”进入下一区域后目标生命上限+2<br>{{mdi|circle-small}}转换源流样本效率+2%<br>{{color|#14b4a3|<保密等级·9+>难度自动生效}}
+|-
+|style="text-align:left;"|“失与得”节点可交换次数+1<br>“先行一步”归来时额外获得随机加工品
+|-
+|style="text-align:left;"|战斗获得零件时额外增加1个可选项<br>进入第一层时，行动力+1
+|}
+|-|
+PHASE 4=
+<!--[[文件:沉沦者的黑流树海 生命游戏 节点树 4.png|1000px]]-->
+{| class="wikitable prts-table-dark" style="text-align:center;background:#1D1D1D;color:white;width:100%;max-width:1000px"
+|colspan=4 style="background:#14b4a3;color:#2f2f2f;text-align:left;width:30%"|'''本节合计加成'''<br><span style="color: #4cbfe6;background: #002a4f;border-radius: 2px;padding-inline: 2px;border: 1px solid #4cbfe6;">蓝色部分</span>为【内容拓展・Ⅰ】新增内容
+|-
+|style="color:white;text-align:left;font-size: large;width:25%;"|'''属性'''
+|style="color:white;text-align:left;font-size: large;width:25%;"|'''探索'''
+|style="color:white;text-align:left;font-size: large;width:25%;"|'''分队'''{{popup|内容=此处描述为分队新增效果，其中原分队已有的同类效果将被覆盖}}
+|style="color:white;text-align:left;font-size: large;width:25%;"|'''生灵的溯游'''
+|-
+|rowspan=3 style="text-align:left;"|我方单位攻击力+6%<br>我方单位防御力+6%<br>我方单位生命值+5%<br>战斗获取指挥经验+10%<br>可部署人数+1<br><br>初始源石锭+8<br><br>转换源流样本效率+4%
+|rowspan=2 style="text-align:left;"|<span style="color: #4cbfe6;background: #002a4f;border-radius: 2px;padding-inline: 2px;border: 1px solid #4cbfe6;">“安全的角落”节点可使用留存的券招募干员<br>“应急助力”节点出现打折栏位<br>培育种子获得襁褓生灵时，源石锭+2</span>
+|[[文件:集成战略 分队 38.png|80px|link=]]<br><div style="text-align:left;">{{mdi|record-circle-outline|color=#14b4a3}}“文明开化分队”效果提升{{popup|内容=消除实托邦中的理想源后获得2点行动力和2个随机收藏品，不受[[沉沦者的黑流树海/黑流数据库#实托邦·方针|实托邦·方针]]影响}}<br><span style="color: #4cbfe6;background: #002a4f;border-radius: 2px;padding-inline: 2px;border: 1px solid #4cbfe6;">{{mdi|record-circle-outline|}}“文明开化分队”消除理想源时额外获得2个随机收藏品，通过追猎进入下一区域时触发实托邦概率增加</span>
+|rowspan=6 style="text-align:left;"|——
+|-
+|[[文件:集成战略 分队 40.png|80px|link=]]<br><div style="text-align:left;">{{mdi|record-circle-outline|color=#14b4a3}}“多边贸易分队”效果提升{{popup|内容=零件箱容量+4，在同一个行商节点中卖出3个零件后获得8源石锭；每次进入行商节点时获得1个<[[沉沦者的黑流树海/引擎配件目录#枯苔藓球|枯苔藓球]]>}}<br><span style="color: #4cbfe6;background: #002a4f;border-radius: 2px;padding-inline: 2px;border: 1px solid #4cbfe6;">{{mdi|record-circle-outline|}}“多边贸易分队”初始携带3个枯苔藓球</span>
+|-
+|style="text-align:left;"|<span style="color: #4cbfe6;background: #002a4f;border-radius: 2px;padding-inline: 2px;border: 1px solid #4cbfe6;">每次通过结局后，前瞻性投资系统源石锭余额+20</span>
+|[[文件:集成战略 分队 39.png|80px|link=]]<br><div style="text-align:left;">{{mdi|record-circle-outline|color=#14b4a3}} “开拓者分队”效果提升{{popup|内容=初始携带1个加工品，进入新的区域时获得1个随机加工品或概念体}}<br><span style="color: #4cbfe6;background: #002a4f;border-radius: 2px;padding-inline: 2px;border: 1px solid #4cbfe6;">{{mdi|record-circle-outline|}}“开拓者分队”初始携带的加工品更加稀有且额外携带1个旅行绒</span>
+|-|
+</tabber>
+<hr>
+{| class="wikitable prts-table-dark" style="text-align:center;background:#1D1D1D;color:white;width:100%;max-width:1000px"
+|colspan=4 style="background:#14b4a3;color:#2f2f2f;text-align:left;width:30%"|<big>'''采集//点亮完成 TOTAL PREP.'''</big><br>'''合计加成效果''' {{mdi|checkbox-multiple-blank-circle|flip=h}} '''合计消耗：151=121+ <span style="color: #4cbfe6;background: #002a4f;border-radius: 2px;padding-inline: 2px;border: 1px solid #4cbfe6;">30</span><br><span style="color: #4cbfe6;background: #002a4f;border-radius: 2px;padding-inline: 2px;border: 1px solid #4cbfe6;">蓝色部分</span>为【内容拓展・Ⅰ】新增内容
+|-
+|style="color:white;text-align:left;font-size: large;width:25%;"|'''属性'''
+|style="color:white;text-align:left;font-size: large;width:25%;"|'''探索'''
+|style="color:white;text-align:left;font-size: large;width:25%;"|'''分队'''{{popup|内容=此处描述为分队新增效果，其中原分队已有的同类效果将被覆盖}}
+|style="color:white;text-align:left;font-size: large;width:25%;"|'''生灵的溯游'''
+|-
+|rowspan=3 style="text-align:left;"|我方单位攻击力+20%<br>我方单位防御力+20%<br>我方单位生命值+25%<br>战斗获取指挥经验+33.1%（叠乘）<br>可携带人数+1<br>可部署人数+1<br><br>初始护盾+2<br>初始源石锭+12<br>初始额外获得2个“种子”零件<br><br>转换源流样本效率+10%
+|style="text-align:left;"|探索中自然出现“误入奇境”节点<br>探索中自然出现“先行一步”节点<br><br>“失与得”出现额外选项（可以交换零件）<br>“失与得”节点可交换次数+1<br><br>“诡意行商”与“秘境行商”节点可刷新商品<br>“诡意行商”节点可以出售零件<br><br>“先行一步”归来时额外获得随机加工品<br><br>进入“安全的角落”时回复3点目标生命值<br><span style="color: #4cbfe6;background: #002a4f;border-radius: 2px;padding-inline: 2px;border: 1px solid #4cbfe6;">“安全的角落”节点可使用留存的券招募干员<br><br>“应急助力”节点出现打折栏位</span>
+|[[文件:集成战略 分队 38.png|80px|link=]]<br><div style="text-align:left;">{{mdi|record-circle-outline|color=#14b4a3}} 解锁“文明开化分队”<br>{{mdi|share|flip=v|color=#14b4a3}}“文明开化分队”消除实托邦中的理想源后获得2点行动力和2个随机收藏品，不受实托邦·方针影响<br><span style="color: #4cbfe6;background: #002a4f;border-radius: 2px;padding-inline: 2px;border: 1px solid #4cbfe6;">{{mdi|record-circle-outline|}}“文明开化分队”消除理想源时额外获得2个随机收藏品，通过追猎进入下一区域时触发实托邦概率增加</span>
+|style="text-align:left;"|分裂：<br>{{mdi|circle-small}}指挥分队效果提升{{popup|内容=每次战斗结束后若护盾小于5点，额外获得1点护盾}}<br>{{mdi|circle-small}}“羽瞰点”揭露的视野范围变大<br>{{mdi|circle-small}}转换源流样本效率+2%<br>{{color|#14b4a3|<保密等级·3+>难度自动生效}}
+|-
+|style="text-align:left;"|战斗获得零件时额外增加1个可选项<br>进入第一层时，行动力+1<br><br><span style="color: #4cbfe6;background: #002a4f;border-radius: 2px;padding-inline: 2px;border: 1px solid #4cbfe6;">培育种子获得襁褓生灵时，源石锭+2</span>
+|[[文件:集成战略 分队 40.png|80px|link=]]<br><div style="text-align:left;">{{mdi|record-circle-outline|color=#14b4a3}} 解锁“多边贸易分队”<br>{{mdi|share|flip=v|color=#14b4a3}}“多边贸易分队”零件箱容量+4，在同一个行商节点中卖出3个零件后获得8源石锭；每次进入行商节点时获得1个<枯苔藓球><br><span style="color: #4cbfe6;background: #002a4f;border-radius: 2px;padding-inline: 2px;border: 1px solid #4cbfe6;">{{mdi|record-circle-outline|}}“多边贸易分队”初始携带3个枯苔藓球</span>
+|style="text-align:left;"|卵生：<br>{{mdi|circle-small}}后勤分队效果提升{{popup|内容=初始携带<[[沉沦者的黑流树海/引擎配件目录#多生苔藓|多生苔藓]]>}}<br>{{mdi|circle-small}}诡意行商中会额外出售两个商品<br>{{mdi|circle-small}}转换源流样本效率+2%<br>{{color|#14b4a3|<保密等级·6+>难度自动生效}}
+|-
+|style="text-align:left;"|每次通过结局后，前瞻性投资系统源石锭余额+25(=+5<span style="color: #4cbfe6;background: #002a4f;border-radius: 2px;padding-inline: 2px;border: 1px solid #4cbfe6;">+20</span>)
+|[[文件:集成战略 分队 39.png|80px|link=]]<br><div style="text-align:left;">{{mdi|record-circle-outline|color=#14b4a3}} 解锁“开拓者分队”<br>{{mdi|share|flip=v|color=#14b4a3}}“开拓者分队”初始携带1个加工品，进入新的区域时获得1个随机加工品或概念体<br><span style="color: #4cbfe6;background: #002a4f;border-radius: 2px;padding-inline: 2px;border: 1px solid #4cbfe6;">{{mdi|record-circle-outline|}}“开拓者分队”初始携带的加工品更加稀有且额外携带1个旅行绒</span>
+|style="text-align:left;"|胎生：<br>{{mdi|circle-small}}矛头分队效果提升{{popup|内容=初始携带【[[沉沦者的黑流树海/拟造物质编目#233|时光之末]]】}}<br>{{mdi|circle-small}}通过“险路尽头”或“险路小径”进入下一区域后目标生命上限+2<br>{{mdi|circle-small}}转换源流样本效率+2%<br>{{color|#14b4a3|<保密等级·9+>难度自动生效}}
+|}
+
+==黑流数据库==
+收录了所有本主题相关的内容详情，包括：
+* '''谐波序列：'''在本主题中所聆听过的音乐，可以设置心仪的音乐作为主界面背景音乐；
+* '''拓扑展览：'''本主题探索中经历的精彩瞬间；
+* '''拟造物质编目：'''在本主题中获得过的收藏品；
+* '''引擎配件目录：'''在本主题中获得过的零件；
+* '''乌托邦幸福论：'''在本主题中可能出现的实托邦和乌托邦；
+* '''实践随行录：'''本主题中实践者列表的实践随行录；
+* '''分形索引：'''本主题中所有已经触发的结局；完成解锁条件后还可发掘更多的信息。
+另有由PRTS额外整理收录的：
+* '''襁褓培育室：'''本主题中所有可能出现的“襁褓生灵”们。
+* '''标记绘图集录：'''本主题中所有可能出现的节点标记。
+* '''探索情报板：'''和本主题相关的宣传资料和其它剧情信息。
+
+{{参阅|沉沦者的黑流树海/黑流数据库|黑流数据库（拟造物质编目、引擎配件目录除外）的详细信息}}
+===拟造物质编目（收藏品一览）===
+<!--在本主题中每解锁一个收藏品可获得额外的25源流样本奖励。
+
+※获得的源流样本会因源流堆栈等级限制而被丢弃。-->
+
+※战术道具亦收录于此处。
+{{参阅|沉沦者的黑流树海/拟造物质编目|拟造物质编目（收藏品一览）的详细信息}}
+{{#lsth:沉沦者的黑流树海/拟造物质编目|收藏品导航}}
+===引擎配件目录（零件一览）===
+<!--在本主题中每解锁一个零件可获得额外的25源流样本奖励。
+※获得的源流样本会因源流堆栈等级限制而被丢弃。-->
+{{参阅|沉沦者的黑流树海/引擎配件目录|引擎配件目录（零件一览）的详细信息}}
+{{#lsth:沉沦者的黑流树海/引擎配件目录|零件清单}}
+
+==关卡一览==
+{{#lsth:关卡一览/活动关卡|沉沦者的黑流树海}}
+{{参阅|沉沦者的黑流树海/关卡敌人数量速查|当前关卡中是否随机刷新鸭爵/高普尼克/流泪小子/圆仔}}
+==蚀刻章套组==
+{{#widget:MedalShowcase}}
+{{蚀刻章展示|medalgroup=medalGroupRogue06}}
+
+==音乐鉴赏==
+{{#invoke:MusicTable|table|表格标题=[[文件:图标_沉沦者的黑流树海.png|link=]]
+|标题1=沉沦者梦呓 (Intro)
+|样式1=
+|资源1=https://torappu.prts.wiki/assets/audio/music/rogue_6/m_sys_rouge6_theme1_intro.mp3
+
+|标题2=沉沦者梦呓 (Loop)
+|样式2=
+|资源2=https://torappu.prts.wiki/assets/audio/music/rogue_6/m_sys_rouge6_theme1_loop.mp3
+
+|标题3=致幻的占卜 (Intro)
+|样式3=
+|资源3=https://torappu.prts.wiki/assets/audio/music/rogue_6/m_sys_rouge6_theme2_intro.mp3
+
+|标题4=致幻的占卜 (Loop)
+|样式4=
+|资源4=https://torappu.prts.wiki/assets/audio/music/rogue_6/m_sys_rouge6_theme2_loop.mp3
+
+|标题5=黑流&#61;羊水 (Intro)
+|样式5=
+|资源5=https://torappu.prts.wiki/assets/audio/music/rogue_6/m_sys_rouge6_theme3_intro.mp3
+
+|标题6=黑流&#61;羊水 (Loop)
+|样式6=
+|资源6=https://torappu.prts.wiki/assets/audio/music/rogue_6/m_sys_rouge6_theme3_loop.mp3
+
+|标题7=树海晕动症 (Intro)
+|样式7=
+|资源7=https://torappu.prts.wiki/assets/audio/music/rogue_6/m_bat_rouge6_1_intro.mp3
+
+|标题8=树海晕动症 (Loop)
+|样式8=
+|资源8=https://torappu.prts.wiki/assets/audio/music/rogue_6/m_bat_rouge6_1_loop.mp3
+
+|标题9=居民们的狂欢节 (Intro)
+|样式9=
+|资源9=https://torappu.prts.wiki/assets/audio/music/rogue_6/m_bat_rouge6_2_intro.mp3
+
+|标题10=居民们的狂欢节 (Loop)
+|样式10=
+|资源10=https://torappu.prts.wiki/assets/audio/music/rogue_6/m_bat_rouge6_2_loop.mp3
+
+|标题11=Reconquista? (Intro)
+|样式11=Boss
+|资源11=https://torappu.prts.wiki/assets/audio/music/rogue_6/m_bat_rouge6_3_intro.mp3
+
+|标题12=Reconquista? (Loop)
+|样式12=Boss
+|资源12=https://torappu.prts.wiki/assets/audio/music/rogue_6/m_bat_rouge6_3_loop.mp3
+
+|标题13=致命寻回 (Intro)
+|样式13=Boss
+|资源13=https://torappu.prts.wiki/assets/audio/music/rogue_6/m_bat_rouge6_boss1_intro.mp3
+
+|标题14=致命寻回 (Loop)
+|样式14=Boss
+|资源14=https://torappu.prts.wiki/assets/audio/music/rogue_6/m_bat_rouge6_boss1_loop.mp3
+
+|标题15=Theory-4 (Intro)
+|样式15=Boss
+|资源15=https://torappu.prts.wiki/assets/audio/music/rogue_6/m_bat_rouge6_boss2_intro.mp3
+
+|标题16=Theory-4 (Loop)
+|样式16=Boss
+|资源16=https://torappu.prts.wiki/assets/audio/music/rogue_6/m_bat_rouge6_boss2_loop.mp3
+
+|标题17=肿瘤&#61;心脏 (Intro)
+|样式17=Boss
+|资源17=https://torappu.prts.wiki/assets/audio/music/rogue_6/m_bat_rouge6_boss3_intro.mp3
+
+|标题18=肿瘤&#61;心脏 (Loop)
+|样式18=Boss
+|资源18=https://torappu.prts.wiki/assets/audio/music/rogue_6/m_bat_rouge6_boss3_loop.mp3
+
+|标题19=La Alumbrada (Intro)
+|样式19=
+|资源19=https://torappu.prts.wiki/assets/audio/music/rogue_6/m_sys_rouge6_shop_intro.mp3
+
+|标题20=La Alumbrada (Loop)
+|样式20=
+|资源20=https://torappu.prts.wiki/assets/audio/music/rogue_6/m_sys_rouge6_shop_loop.mp3
+
+|标题21=正当交易<ref name="正当交易">该曲目实际为诡意行商商店BGM《商人坎诺特》，但需要在商店战斗中解锁，疑似误植。</ref>
+|样式21=旧曲
+|资源21=https://static.prts.wiki/music/music/rogue_1/m_sys_rglk1shop_combine.mp3
+
+|标题22=Machutopia (Intro)
+|样式22=
+|资源22=https://torappu.prts.wiki/assets/audio/music/rogue_6/m_sys_rouge6_theme4_intro.mp3
+
+|标题23=Machutopia (Loop)
+|样式23=
+|资源23=https://torappu.prts.wiki/assets/audio/music/rogue_6/m_sys_rouge6_theme4_loop.mp3
+
+|标题24=昔日逾今
+|样式24=Boss
+|资源24=https://torappu.prts.wiki/assets/audio/music/rogue_6/m_bat_rouge6_boss3_loop_explorer.mp3
+
+|标题25=曦日浴金
+|样式25=Boss
+|资源25=https://torappu.prts.wiki/assets/audio/music/rogue_6/m_bat_rouge6_boss3_loop_incaemp.mp3
+
+|标题26=熄日余烬
+|样式26=Boss
+|资源26=https://torappu.prts.wiki/assets/audio/music/rogue_6/m_bat_rouge6_boss3_loop_aztec.mp3
+
+<!--
+|标题27=sys_rouge6_mapsecret (Intro)
+|样式27=
+|资源27=https://torappu.prts.wiki/assets/audio/music/rogue_6/m_sys_rouge6_mapsecret_intro.mp3
+
+|标题28=sys_rouge6_mapsecret (Loop)
+|样式28=
+|资源28=https://torappu.prts.wiki/assets/audio/music/rogue_6/m_sys_rouge6_mapsecret_loop.mp3
+-->
+}}
+
+==注释与链接==
+<references/>
+<noinclude>{{Navbox 集成战略}}</noinclude>
